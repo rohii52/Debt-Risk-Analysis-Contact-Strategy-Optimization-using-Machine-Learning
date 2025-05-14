@@ -4,7 +4,7 @@ This project is a complete end-to-end case study on optimizing debt recovery usi
 
 ---
 
-## 📊 Project Summary
+##  Project Summary
 
 - **Clients Analyzed**: 1000+
 - **Goal**: Predict repayment risk and improve client contact strategies
@@ -12,7 +12,7 @@ This project is a complete end-to-end case study on optimizing debt recovery usi
 
 ---
 
-## 🧪 Key Steps
+##  Key Steps
 
 ### 1. Data Cleaning & Preprocessing
 - Removed duplicates, handled missing values
@@ -52,7 +52,7 @@ Built a Flask + LangChain-based assistant that:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python, Pandas, Scikit-learn, XGBoost, Keras
 - LangChain + Ollama for LLM
@@ -81,7 +81,7 @@ Built a Flask + LangChain-based assistant that:
 
 ---
 
-## 📌 Insights Delivered
+## Insights Delivered
 
 - Clients with lowest arrears and highest mobile % are in Tier 1
 - KMeans clustering revealed hidden segments not captured by static logic
@@ -90,14 +90,19 @@ Built a Flask + LangChain-based assistant that:
 
 ---
 
-## 💡 Future Work
+## Future Work
 
-- Add cost data for ROI modeling
-- Incorporate time series for repayment predictions
-- Extend CD Bot to process new CSV uploads dynamically
+- Add cost data for ROI modeling.
+- Incorporate time series for repayment predictions.
+- Extend "Project Yellow" to proceed with data analysis & build strategies dynamically based on data / CSV uploads.
 
 ---
 
-## 🙌 Acknowledgement
+## Acknowledgement
 
 This project was developed for a real-world case study simulation to demonstrate hybrid capabilities in data analysis, machine learning, and business logic deployment.
+
+📧 Contact: rohithgofficial@gmail.com  
+🔗 GitHub: [github.com/rohii52](https://github.com/rohii52)  
+💼 LinkedIn: [linkedin.com/in/rohii52](https://linkedin.com/in/rohii52)  
+
