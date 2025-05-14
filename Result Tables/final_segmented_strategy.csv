@@ -1,0 +1,19 @@
+dp2 Occupancy Style,dp2 Council Tax Band,Segment_Risk_Score,Action_Tier
+Owner,A,73.5,Tier 2 – Medium Risk
+Owner,B,81.6,Tier 2 – Medium Risk
+Owner,C,97.8,Tier 2 – Medium Risk
+Owner,D,137.0,Tier 3 – High Risk
+Owner,E,144.4,Tier 3 – High Risk
+Owner,F,171.5,Tier 3 – High Risk
+Private Renter,A,73.0,Tier 2 – Medium Risk
+Private Renter,B,86.8,Tier 2 – Medium Risk
+Private Renter,C,108.1,Tier 3 – High Risk
+Private Renter,D,136.7,Tier 3 – High Risk
+Private Renter,E,192.1,Tier 3 – High Risk
+Private Renter,F,213.1,Tier 3 – High Risk
+Social Renter,A,125.7,Tier 3 – High Risk
+Social Renter,B,99.0,Tier 2 – Medium Risk
+Social Renter,C,144.7,Tier 3 – High Risk
+Social Renter,D,160.7,Tier 3 – High Risk
+Social Renter,E,212.6,Tier 3 – High Risk
+Social Renter,F,238.0,Tier 3 – High Risk

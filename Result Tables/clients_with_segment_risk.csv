@@ -1,0 +1,1001 @@
+UID,Account Open Date,Arrears Balance,Last Payment Date,Last Collections Action,Mobile Flag,Email Flag,dp1 Result Code,dp1 IVA/CCJ Flag,dp1 Score,dp1 Deceased Flag,dp1 Mobile Flag,dp1 Email Flag,dp1 Latest Residency Confirmation Date,dp2 Council Tax Band,dp2 Occupancy Style,dp3 Match Type,dp3 Match Level,dp3 Score,dp3 Mobile Flag,dp3 Email Flag,dp3 Latest Residency Confirmation Date,Residency Zone,Segment_Risk_Score,Action_Tier
+320509935,1996-07-24,16.0,2025-03-19,SMS,Y,N,Deceased,N,0.0,Y,Y,N,2025-03-21,C,Owner,Forwarding Address,7.0,963.0,Y,Y,2023-07-12,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+665617030,2018-06-03,175.0,2025-03-01,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,7.0,854.0,Y,Y,2023-11-01,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+725301195,2013-11-15,,,SMS,Y,N,Resident,N,46.0,N,Y,Y,2025-03-10,C,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,144.7,Tier 3 – High Risk
+339206697,2015-03-05,2224.0,2025-03-05,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Resident,7.0,611.0,Y,Y,2023-03-16,Zone 3 - Only dp3 says Resident,212.6,Tier 3 – High Risk
+737529315,2010-11-29,3737.0,2023-11-18,Email,N,Y,Unmatched,,,,,,,E,Owner,Forwarding Address,9.0,299.0,Y,Y,2018-12-17,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+920546839,2007-01-10,534.0,2025-03-02,SMS,Y,N,Resident,N,76.0,N,Y,N,2025-03-02,,Owner,Forwarding Address,5.0,855.0,Y,N,2024-06-09,Zone 2 - Only dp1 says Resident,,
+857544841,2005-07-09,2821.0,,Phone,N,N,Resident,N,39.0,N,N,N,2025-01-03,E,Owner,Resident,8.0,665.0,N,Y,2020-04-05,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+205263952,2001-02-02,2341.0,2025-02-14,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+741235324,2013-12-04,309.0,2025-03-28,SMS,Y,N,Resident,N,82.0,N,N,N,2025-02-15,A,Private Renter,Resident,4.0,893.0,Y,N,2024-10-25,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+153693439,2016-10-17,3879.0,,Phone,N,N,Resident,N,16.0,N,Y,N,2023-06-03,E,Private Renter,Resident,2.0,296.0,Y,Y,2025-09-22,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+146189180,1995-01-14,40.0,2025-03-11,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-03-22,C,Owner,Resident,6.0,971.0,N,Y,2021-11-12,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+915535571,2007-06-11,4120.0,2019-04-29,Email,N,Y,Resident,N,14.0,N,N,N,2021-08-12,F,Social Renter,Resident,8.0,269.0,N,Y,2022-10-07,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+876581331,2007-08-02,48.0,2025-03-21,Email,N,Y,Resident,N,93.0,N,N,N,2025-03-31,B,Owner,Forwarding Address,5.0,988.0,Y,Y,2023-11-17,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+265579534,2000-07-23,32.0,2025-03-17,SMS,Y,N,Deceased,N,0.0,Y,N,Y,2025-03-27,A,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+952214600,1997-01-08,1306.0,2025-01-20,SMS,Y,N,Resident,N,73.0,N,N,N,2024-12-29,C,Owner,Resident,7.0,768.0,Y,Y,2021-09-15,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+830205633,2010-03-19,3.0,2025-03-19,Email,N,Y,Resident,N,91.0,N,Y,N,2025-03-10,C,Social Renter,Resident,7.0,989.0,Y,Y,2022-06-19,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+202312981,2015-02-21,3036.0,2024-12-11,Letter,N,N,Resident,N,19.0,N,N,N,2023-11-03,B,Social Renter,Resident,1.0,320.0,Y,Y,2025-10-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+414099252,2009-01-08,995.0,2025-03-08,Email,N,Y,Forwarding Address,N,82.0,N,Y,Y,2025-02-28,C,Owner,Resident,2.0,930.0,Y,Y,2025-09-30,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+626258645,1995-01-07,15.0,2025-04-05,SMS,Y,N,Forwarding Address,N,98.0,N,Y,Y,2025-03-16,A,Social Renter,Forwarding Address,6.0,975.0,Y,Y,2024-06-27,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+820238454,1997-04-11,64.0,,Email,N,Y,Resident,N,85.0,N,Y,N,2025-03-12,B,,Resident,8.0,955.0,Y,Y,2022-12-04,Zone 1 - Agreement,,
+853948239,2008-10-08,1757.0,2025-03-10,SMS,Y,N,Resident,N,73.0,N,N,Y,2025-02-16,C,Owner,Forwarding Address,3.0,706.0,N,Y,2025-04-04,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+797134839,1998-04-11,1320.0,2025-02-10,SMS,Y,N,Resident,N,50.0,N,Y,N,2024-12-04,D,Owner,Resident,2.0,803.0,Y,Y,2025-09-26,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+701553550,1995-10-24,2896.0,2024-11-20,Email,N,Y,Resident,N,53.0,N,N,N,2024-12-16,B,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+943723201,2001-11-20,896.0,2025-02-27,Email,N,Y,Resident,N,82.0,N,N,Y,2025-03-09,C,Owner,Resident,3.0,866.0,Y,N,2025-05-29,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+673408969,2007-08-01,22.0,2025-03-11,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+949653177,2015-02-28,929.0,2025-03-11,SMS,Y,N,Resident,N,81.0,N,N,Y,2025-02-18,B,Owner,Resident,4.0,853.0,Y,Y,2024-09-05,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+160329895,2010-12-11,379.0,2025-02-07,SMS,Y,N,Resident,N,94.0,N,N,Y,2025-03-22,C,Private Renter,Resident,4.0,849.0,Y,Y,2024-10-17,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+516195093,2018-01-22,4907.0,,Letter,N,N,Resident,Y,1.0,N,N,N,2020-06-20,F,,Resident,1.0,75.0,N,Y,2025-10-03,Zone 1 - Agreement,,
+897215186,2000-09-05,79.0,2025-04-06,Email,N,Y,Resident,N,89.0,N,N,N,2025-03-14,B,Owner,Resident,3.0,977.0,N,Y,2025-07-23,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+929911724,2017-10-26,28.0,2025-04-08,SMS,Y,N,Unmatched,,,,,,,B,,Resident,6.0,984.0,Y,Y,2023-01-14,Zone 3 - Only dp3 says Resident,,
+821542299,2015-05-05,,2025-04-04,Email,N,Y,Resident,N,89.0,N,Y,N,2025-03-16,A,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.0,Tier 2 – Medium Risk
+954275044,2007-02-06,96.0,2025-03-22,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-21,B,Private Renter,Resident,6.0,977.0,Y,Y,2022-01-31,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+644536408,2008-04-08,2009.0,2024-10-27,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Resident,7.0,512.0,N,N,2022-11-14,Zone 3 - Only dp3 says Resident,160.7,Tier 3 – High Risk
+318943984,2018-05-16,2283.0,2024-12-11,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Resident,7.0,600.0,Y,Y,2022-11-13,Zone 3 - Only dp3 says Resident,213.1,Tier 3 – High Risk
+152128816,2012-11-06,3365.0,2024-10-17,Letter,N,N,Resident,N,15.0,N,Y,Y,2023-03-20,E,Private Renter,Resident,1.0,282.0,Y,Y,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+376917175,2010-06-20,2007.0,2025-01-10,Phone,N,N,Unmatched,,,,,,,,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+636118594,1999-10-31,2655.0,2024-11-22,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2024-09-25,C,Private Renter,Deceased,,,Y,N,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+895570481,2000-08-04,66.0,2025-03-24,SMS,Y,N,Resident,N,99.0,N,Y,Y,2025-04-07,,Owner,Resident,9.0,959.0,Y,Y,2019-08-14,Zone 1 - Agreement,,
+227155108,1999-02-12,1257.0,2024-12-30,Email,N,Y,Resident,N,80.0,N,Y,Y,2024-12-13,B,Owner,Resident,7.0,701.0,Y,Y,2022-02-02,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+496348983,2009-05-04,1726.0,2025-02-01,Email,N,Y,Resident,N,50.0,N,N,Y,2025-01-02,E,,Resident,8.0,700.0,Y,Y,2020-07-09,Zone 1 - Agreement,,
+341349808,2000-04-06,114.0,2025-03-23,Email,N,Y,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+857593580,2000-07-09,2213.0,2025-02-26,SMS,Y,N,Resident,N,39.0,N,N,N,2024-11-13,E,Owner,Resident,1.0,709.0,Y,Y,2025-10-03,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+464322349,2013-03-24,69.0,2025-04-09,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-14,B,Private Renter,Resident,2.0,964.0,Y,Y,2025-09-23,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+613696709,2010-03-17,1337.0,2024-12-28,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+474808016,1998-03-27,2971.0,2024-10-18,Email,N,Y,Resident,N,28.0,N,N,N,2024-09-03,E,Private Renter,Resident,8.0,675.0,N,Y,2019-12-25,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+237111459,2017-12-11,18.0,2025-03-23,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-04-06,B,Owner,Resident,5.0,989.0,Y,Y,2024-05-04,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+835239506,2001-08-13,3584.0,2024-04-24,Phone,N,N,Resident,N,22.0,N,Y,N,2023-07-24,F,Social Renter,Forwarding Address,6.0,379.0,Y,Y,2022-12-18,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+330074074,2005-05-20,1696.0,2025-02-18,Phone,N,N,Resident,N,62.0,N,N,Y,2024-11-24,E,Social Renter,Resident,7.0,701.0,Y,Y,2021-04-07,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+694148273,2001-04-20,224.0,2025-03-15,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-03-15,A,Social Renter,Resident,6.0,959.0,Y,Y,2022-10-20,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+357654044,2005-04-07,100.0,2025-03-28,SMS,Y,N,Unmatched,,,,,,,A,,Resident,6.0,968.0,Y,Y,2023-12-06,Zone 3 - Only dp3 says Resident,,
+176849717,2012-12-15,2512.0,2024-12-23,SMS,Y,N,Resident,N,27.0,N,N,N,2024-10-27,F,Private Renter,Resident,3.0,549.0,Y,Y,2025-08-27,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+826693495,2011-10-21,1734.0,2025-01-17,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+865138414,2007-10-24,34.0,2025-03-17,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-04-06,A,Owner,Resident,6.0,966.0,Y,Y,2022-01-28,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+861026783,2002-06-12,,2025-03-18,Email,N,Y,Resident,N,42.0,N,Y,Y,2025-04-03,F,,Resident,8.0,702.0,N,Y,2023-02-24,Zone 1 - Agreement,,
+643034599,2017-07-10,17.0,2025-03-21,SMS,Y,N,Resident,N,91.0,N,Y,N,2025-03-28,A,Private Renter,Resident,5.0,954.0,N,Y,2023-12-17,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+346717172,2011-08-01,21.0,2025-03-21,Email,N,Y,Unmatched,,,,,,,,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+860392550,2007-05-18,1351.0,,SMS,Y,N,Resident,N,74.0,N,Y,N,2024-12-03,,Private Renter,Forwarding Address,7.0,789.0,Y,Y,2021-02-16,Zone 2 - Only dp1 says Resident,,
+923855486,2001-08-09,47.0,2025-03-17,Email,N,Y,Resident,N,86.0,N,Y,N,2025-04-08,B,Owner,Resident,5.0,974.0,Y,Y,2023-11-11,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+261250777,1997-04-13,74.0,2025-03-22,SMS,Y,N,Resident,N,93.0,N,N,Y,2025-03-21,C,Owner,Resident,1.0,972.0,Y,Y,2025-10-03,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+832608454,2000-12-15,2761.0,2024-09-01,Phone,N,N,Deceased,N,0.0,Y,N,N,2024-10-01,,Private Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,,
+159411917,2001-08-12,5463.0,2020-11-28,Phone,N,N,Unmatched,,,,,,,F,Private Renter,Resident,4.0,243.0,Y,Y,2025-02-05,Zone 3 - Only dp3 says Resident,213.1,Tier 3 – High Risk
+854902435,1996-01-10,74.0,2025-03-14,Email,N,Y,Resident,N,98.0,N,N,Y,2025-03-18,A,Social Renter,Resident,1.0,955.0,Y,Y,2025-10-03,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+630016911,2015-12-04,,2025-04-09,Letter,N,N,Deceased,N,0.0,Y,Y,N,2025-03-23,D,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+391615365,1998-09-21,69.0,2025-03-20,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-04-07,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+951229030,2001-08-03,2405.0,2024-10-30,Phone,N,N,Unmatched,,,,,,,D,Social Renter,Resident,5.0,622.0,Y,Y,2023-12-18,Zone 3 - Only dp3 says Resident,160.7,Tier 3 – High Risk
+384979263,2006-11-18,68.0,2025-03-18,SMS,Y,N,Resident,N,98.0,N,Y,N,2025-03-25,C,Owner,Resident,9.0,988.0,Y,Y,2021-10-11,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+861266532,2002-08-05,2120.0,2024-10-20,SMS,Y,N,Resident,N,51.0,N,N,Y,2024-08-14,D,Private Renter,Resident,3.0,666.0,N,Y,2025-06-18,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+259442689,2004-06-29,27.0,2025-03-16,Email,N,Y,Deceased,N,0.0,Y,N,Y,2025-03-21,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+794950581,2002-05-16,2415.0,2025-01-03,Email,N,Y,Resident,N,36.0,N,Y,N,2025-01-05,E,Private Renter,Resident,9.0,660.0,Y,Y,2022-02-14,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+773567736,2004-03-31,904.0,2025-03-28,SMS,Y,N,Unmatched,,,,,,,A,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+717419609,1998-11-27,3439.0,2025-01-04,Phone,N,N,Resident,Y,7.0,N,N,N,2023-06-03,E,Social Renter,Resident,9.0,17.0,Y,N,2021-07-07,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+843492217,2016-04-22,240.0,2025-02-25,Email,N,Y,Unmatched,,,,,,,B,Owner,Resident,2.0,939.0,Y,Y,2025-09-19,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+219776171,2007-04-27,2955.0,2025-02-04,Phone,N,N,Resident,N,41.0,N,N,N,2024-10-12,D,Social Renter,Resident,4.0,582.0,Y,Y,2024-11-30,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+993133886,2006-10-11,2869.0,2025-02-22,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+957753922,2006-01-26,3247.0,2023-11-27,Phone,N,N,Resident,N,16.0,N,N,N,2023-04-24,F,Social Renter,Resident,3.0,375.0,Y,Y,2025-03-10,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+791815758,2001-05-04,5002.0,2020-07-21,Letter,N,N,Resident,N,19.0,N,N,N,2020-11-24,F,Social Renter,Resident,7.0,179.0,Y,Y,2021-06-16,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+943918762,2012-02-13,3091.0,2023-11-13,Phone,N,N,Deceased,N,0.0,Y,N,N,2023-12-25,,Private Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,,
+202958867,2012-09-27,384.0,2025-03-01,Email,N,Y,Forwarding Address,N,89.0,N,Y,Y,2025-03-12,D,Private Renter,Forwarding Address,7.0,902.0,Y,Y,2020-09-27,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+702946500,1999-01-26,998.0,,Email,N,Y,Resident,N,85.0,N,N,N,2025-03-07,B,Private Renter,Resident,1.0,887.0,N,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+384931346,2009-08-05,,2025-04-01,SMS,Y,N,Resident,N,13.0,N,Y,N,2025-04-04,C,Private Renter,Resident,3.0,753.0,Y,Y,2025-06-22,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+191358966,2000-12-29,61.0,2025-03-25,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-22,A,Private Renter,Resident,5.0,951.0,Y,Y,2024-05-13,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+600590519,2008-09-22,2996.0,2024-10-02,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2024-12-04,F,Social Renter,Deceased,,,Y,N,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+610763039,2018-06-23,1880.0,2025-02-19,Email,N,Y,Unmatched,,,,,,,B,Owner,Resident,1.0,840.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+278236549,2017-03-05,3776.0,2023-06-27,Phone,N,N,Resident,N,23.0,N,N,Y,2024-02-07,E,Social Renter,Resident,1.0,326.0,N,Y,2025-10-03,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+933782995,1997-06-03,3182.0,2025-02-16,Email,N,Y,Resident,N,16.0,N,N,N,2023-11-14,F,Private Renter,Resident,2.0,342.0,Y,Y,2025-09-23,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+341343663,2014-04-09,189.0,2025-02-18,Phone,N,N,Resident,N,86.0,N,Y,N,2025-03-10,D,Social Renter,Resident,9.0,954.0,Y,Y,2022-06-28,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+530352120,2007-10-28,98.0,2025-03-31,Letter,N,N,Resident,N,99.0,N,Y,Y,2025-03-27,A,Private Renter,Resident,9.0,988.0,Y,Y,2019-11-17,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+484183477,2013-03-02,86.0,,SMS,Y,N,Resident,N,93.0,N,N,N,2025-04-05,C,Private Renter,Resident,6.0,959.0,Y,Y,2022-08-19,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+512448337,1997-02-08,504.0,2025-03-10,SMS,Y,N,Resident,N,75.0,N,N,N,2025-03-31,A,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+556212494,2000-05-25,1711.0,2025-02-22,Email,N,Y,Resident,N,58.0,N,N,Y,2025-01-30,C,Private Renter,Resident,4.0,771.0,Y,Y,2024-09-17,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+489299107,1999-06-22,21.0,2025-04-09,SMS,Y,N,Forwarding Address,N,99.0,N,N,Y,2025-03-26,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+714709782,2017-06-25,551.0,2025-03-09,Email,N,Y,Resident,N,89.0,N,Y,Y,2025-03-28,B,Owner,Resident,3.0,951.0,Y,Y,2025-03-08,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+455794031,2005-12-25,2709.0,2024-12-04,Email,N,Y,Unmatched,,,,,,,F,Owner,Resident,2.0,520.0,N,Y,2025-09-18,Zone 3 - Only dp3 says Resident,171.5,Tier 3 – High Risk
+658339434,2000-10-30,3552.0,2023-06-21,Email,N,Y,Resident,N,29.0,N,N,N,2023-03-29,C,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,144.7,Tier 3 – High Risk
+279802922,2005-01-16,2505.0,2024-12-26,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+308314476,2017-07-01,1479.0,2025-02-26,Email,N,Y,Resident,N,62.0,N,Y,Y,2024-12-24,A,,Resident,6.0,799.0,Y,Y,2022-10-01,Zone 1 - Agreement,,
+810979390,1999-12-31,2757.0,2024-10-24,Phone,N,N,Resident,N,36.0,N,Y,N,2024-11-30,F,Social Renter,Deceased,,,Y,N,,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+917534320,2017-05-26,,,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-12,C,Social Renter,Resident,6.0,792.0,Y,Y,2022-02-02,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+180148358,2004-07-07,2948.0,2024-10-12,Email,N,Y,Resident,N,49.0,N,Y,N,2024-11-30,D,Private Renter,Resident,5.0,585.0,Y,Y,2023-10-12,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+670529303,2011-05-31,116.0,2025-04-05,SMS,Y,N,Resident,N,75.0,N,Y,N,2025-02-15,A,Social Renter,Resident,3.0,954.0,Y,Y,2025-08-10,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+166962694,1998-11-29,29.0,2025-03-28,Email,N,Y,Resident,N,89.0,N,N,Y,2025-03-22,A,Owner,Resident,3.0,958.0,Y,Y,2025-06-20,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+745868401,2008-12-21,26.0,2025-03-20,Email,N,Y,Resident,N,92.0,N,Y,N,2025-04-06,A,Owner,Forwarding Address,8.0,969.0,Y,Y,2020-09-10,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+149487753,2010-01-07,50.0,2025-03-22,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+565108561,2000-12-10,318.0,2025-03-04,SMS,Y,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+584203193,2002-08-28,3758.0,2023-10-15,Letter,N,N,Resident,N,20.0,N,N,N,2023-03-16,,Social Renter,Resident,1.0,432.0,Y,Y,2025-10-03,Zone 1 - Agreement,,
+858229213,2011-10-14,70.0,2025-03-10,SMS,Y,N,Forwarding Address,N,95.0,N,Y,Y,2025-03-11,B,Owner,Forwarding Address,3.0,977.0,Y,Y,2025-06-01,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+510962926,1997-04-25,789.0,2025-03-23,Email,N,Y,Resident,N,89.0,N,N,N,2025-02-13,D,Private Renter,Resident,8.0,938.0,Y,Y,2020-09-27,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+558350373,1997-08-15,4147.0,,Letter,N,N,Resident,Y,2.0,N,N,N,2020-08-16,A,Social Renter,Resident,7.0,282.0,Y,N,2021-03-15,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+640324347,2006-07-09,,2025-03-18,Phone,N,N,Resident,N,55.0,N,Y,N,2025-03-22,E,Social Renter,Resident,2.0,896.0,Y,Y,2025-09-24,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+895400665,2012-06-09,1793.0,,SMS,Y,N,Resident,N,50.0,N,Y,N,2025-02-11,D,,Resident,2.0,716.0,Y,Y,2025-09-19,Zone 1 - Agreement,,
+243997861,1998-01-16,95.0,2025-03-31,Email,N,Y,Resident,N,86.0,N,Y,Y,2025-04-07,,Owner,Resident,6.0,975.0,Y,Y,2021-10-30,Zone 1 - Agreement,,
+328849517,2007-04-10,1124.0,2024-12-07,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+818897201,2008-12-04,305.0,2025-02-19,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-02-28,B,Owner,Forwarding Address,8.0,875.0,Y,Y,2021-04-11,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+304971810,2008-07-20,217.0,2025-02-13,Email,N,Y,Resident,N,95.0,N,N,Y,2025-03-23,B,Social Renter,Resident,3.0,866.0,Y,Y,2025-04-02,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+163600593,1998-11-03,2282.0,2025-03-18,Letter,N,N,Resident,N,38.0,N,Y,Y,2024-10-20,E,Social Renter,Resident,1.0,561.0,N,Y,2025-10-03,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+841025085,2009-02-22,11.0,2025-04-05,SMS,Y,N,Forwarding Address,N,86.0,N,N,Y,2025-04-08,C,Owner,Resident,1.0,983.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+816508552,2001-06-02,2155.0,,Letter,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+920010850,2008-03-23,,2025-04-01,SMS,Y,N,Resident,N,91.0,N,Y,N,2025-03-10,F,Social Renter,Resident,2.0,259.0,Y,Y,2025-09-21,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+496191591,2015-08-21,1020.0,2025-02-16,Phone,N,N,Resident,N,69.0,N,N,Y,2024-12-08,C,Private Renter,Resident,3.0,808.0,Y,N,2025-06-20,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+725085379,2000-09-07,5.0,2025-03-11,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-26,D,Owner,Resident,9.0,987.0,Y,Y,2019-07-01,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+843582763,2009-07-21,,2025-03-30,Letter,N,N,Resident,N,95.0,N,Y,N,2025-04-02,D,Social Renter,Forwarding Address,4.0,585.0,Y,Y,2025-03-25,Zone 2 - Only dp1 says Resident,160.7,Tier 3 – High Risk
+899777980,2006-03-01,1559.0,2025-02-07,Phone,N,N,Resident,N,71.0,N,Y,N,2025-01-06,D,Private Renter,Resident,8.0,718.0,N,Y,2020-08-20,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+398466977,2015-10-05,50.0,2025-04-07,SMS,Y,N,Resident,N,88.0,N,Y,Y,2025-04-06,B,Owner,Resident,8.0,956.0,Y,Y,2020-12-06,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+647212549,2016-08-31,1936.0,2025-01-18,SMS,Y,N,Resident,N,65.0,N,N,N,2024-12-30,,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+281243942,2012-09-22,2647.0,2024-12-10,Phone,N,N,Unmatched,,,,,,,E,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+121794878,2013-02-21,2771.0,2025-01-12,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+302476184,2012-01-08,,,Phone,N,N,Resident,N,38.0,N,N,N,2025-03-26,,Social Renter,Resident,6.0,256.0,Y,Y,2022-05-17,Zone 1 - Agreement,,
+920333758,2012-09-28,984.0,2025-03-09,Email,N,Y,Resident,N,78.0,N,Y,Y,2025-03-10,D,Social Renter,Resident,9.0,945.0,Y,Y,2020-01-31,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+356500916,2013-09-06,900.0,2025-03-03,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Resident,9.0,958.0,Y,Y,2019-11-04,Zone 3 - Only dp3 says Resident,86.8,Tier 2 – Medium Risk
+566609594,2010-07-11,2448.0,2024-11-27,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Resident,2.0,580.0,Y,Y,2025-09-29,Zone 3 - Only dp3 says Resident,212.6,Tier 3 – High Risk
+830849780,2006-04-17,69.0,2025-04-08,Email,N,Y,Resident,N,97.0,N,Y,Y,2025-03-14,E,Private Renter,Resident,6.0,983.0,Y,Y,2023-08-22,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+378351415,2001-07-17,40.0,2025-03-30,Phone,N,N,Forwarding Address,N,89.0,N,Y,Y,2025-03-26,C,Private Renter,Resident,2.0,981.0,Y,Y,2025-09-18,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+494973936,1997-07-02,72.0,2025-03-17,Email,N,Y,Deceased,N,0.0,Y,N,Y,2025-04-07,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+162290706,2010-04-30,71.0,2025-03-23,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+826497313,2006-09-03,258.0,2025-02-27,SMS,Y,N,Unmatched,,,,,,,E,Private Renter,Resident,6.0,885.0,Y,Y,2023-11-14,Zone 3 - Only dp3 says Resident,192.1,Tier 3 – High Risk
+769591034,2009-04-07,60.0,2025-04-01,Phone,N,N,Resident,N,85.0,N,N,Y,2025-04-02,D,Social Renter,Resident,8.0,963.0,Y,Y,2022-12-11,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+446451035,2011-01-30,1729.0,,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+179602041,2017-07-13,,2025-03-26,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+807881619,2005-12-29,375.0,2025-03-14,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Resident,1.0,937.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,,
+768749982,2004-03-09,84.0,2025-03-30,SMS,Y,N,Unmatched,,,,,,,A,Social Renter,Forwarding Address,9.0,960.0,Y,Y,2019-03-07,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+702173323,2014-10-24,126.0,2025-02-28,Phone,N,N,Unmatched,,,,,,,B,,Resident,9.0,882.0,Y,Y,2019-06-07,Zone 3 - Only dp3 says Resident,,
+757384236,2001-08-31,1985.0,2024-12-28,Email,N,Y,Unmatched,,,,,,,D,Owner,Resident,1.0,720.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,137.0,Tier 3 – High Risk
+952850128,2009-07-18,1321.0,2025-01-30,Phone,N,N,Resident,N,80.0,N,Y,Y,2025-01-13,E,Owner,Resident,1.0,865.0,N,Y,2025-10-03,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+493832581,1999-09-11,,2025-04-07,Phone,N,N,Resident,N,10.0,N,Y,N,2025-04-09,D,Owner,Resident,9.0,867.0,Y,N,2021-02-25,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+245996316,2009-07-21,87.0,2025-03-11,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-03-24,,Owner,Resident,9.0,967.0,Y,Y,2018-12-01,Zone 1 - Agreement,,
+449243758,2005-08-10,1946.0,2025-01-02,Email,N,Y,Resident,N,68.0,N,N,Y,2024-11-30,E,Owner,Resident,7.0,833.0,N,Y,2024-05-08,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+230836826,2003-07-16,2466.0,2024-12-25,Email,N,Y,Resident,N,48.0,N,Y,N,2025-01-09,E,Owner,Resident,4.0,609.0,N,N,2024-11-06,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+625034800,1995-10-21,3397.0,,Letter,N,N,Resident,N,18.0,N,N,N,2024-02-25,D,Owner,Resident,6.0,294.0,Y,Y,2021-09-08,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+994647729,2015-01-23,48.0,2025-03-21,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-20,,Owner,Resident,6.0,963.0,Y,Y,2023-06-20,Zone 1 - Agreement,,
+849035780,1995-08-18,2.0,2025-04-04,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-30,B,Owner,Resident,9.0,961.0,Y,Y,2019-07-14,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+510545176,1995-06-20,37.0,2025-03-26,Email,N,Y,Forwarding Address,N,99.0,N,Y,Y,2025-03-25,A,Private Renter,Forwarding Address,8.0,963.0,N,N,2022-09-10,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+874702087,2003-07-14,97.0,,SMS,Y,N,Resident,N,96.0,N,Y,Y,2025-03-19,A,Owner,Resident,5.0,979.0,Y,Y,2023-10-18,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+623790506,1999-08-22,,2025-03-18,Letter,N,N,Resident,N,52.0,N,N,N,2025-03-17,E,Social Renter,Resident,3.0,701.0,Y,Y,2025-04-07,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+270909943,2017-07-09,13.0,2025-03-24,Letter,N,N,Resident,N,95.0,N,N,Y,2025-03-20,,Owner,Resident,6.0,981.0,N,Y,2021-09-09,Zone 1 - Agreement,,
+625413336,2003-09-30,1676.0,2024-12-25,SMS,Y,N,Resident,N,69.0,N,N,Y,2024-12-02,D,Private Renter,Resident,7.0,879.0,Y,Y,2023-07-18,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+768634659,2016-07-01,2.0,,SMS,Y,N,Resident,N,93.0,N,N,Y,2025-03-19,A,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.0,Tier 2 – Medium Risk
+853249958,2014-04-24,27.0,2025-04-02,Email,N,Y,Resident,N,91.0,N,Y,N,2025-03-16,,Owner,Resident,1.0,981.0,Y,Y,2025-10-03,Zone 1 - Agreement,,
+388292647,2018-08-08,2134.0,2025-02-04,Phone,N,N,Resident,N,58.0,N,N,N,2025-01-06,F,Private Renter,Resident,4.0,537.0,Y,Y,2024-10-23,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+329412879,2013-10-18,46.0,2025-04-04,Email,N,Y,Unmatched,,,,,,,,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+162001196,1999-03-07,1419.0,2025-02-24,Email,N,Y,Unmatched,,,,,,,C,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+281669130,2000-05-10,3684.0,2025-02-21,Letter,N,N,Resident,N,15.0,N,Y,Y,2023-11-08,D,Social Renter,Resident,5.0,268.0,Y,Y,2024-06-02,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+711586616,1999-07-20,2831.0,2024-11-21,SMS,Y,N,Resident,N,52.0,N,N,N,2024-09-01,D,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,160.7,Tier 3 – High Risk
+695595429,2003-05-15,129.0,,Email,N,Y,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+382594975,1997-11-14,2575.0,2025-02-24,Phone,N,N,Resident,N,60.0,N,Y,Y,2025-02-07,E,Social Renter,Resident,9.0,665.0,Y,N,2020-03-27,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+875764043,2018-05-15,2068.0,2024-12-21,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+128588998,2015-05-12,1900.0,2025-01-18,Email,N,Y,Resident,N,69.0,N,N,N,2025-02-13,F,Owner,Resident,5.0,795.0,Y,Y,2024-05-26,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+472623681,2012-02-01,2054.0,2024-12-30,Phone,N,N,Resident,N,41.0,N,Y,Y,2025-01-17,D,Social Renter,Resident,4.0,510.0,Y,Y,2024-09-09,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+762411743,2013-10-18,,2025-03-14,SMS,Y,N,Resident,N,20.0,N,N,Y,2025-04-08,D,Social Renter,Resident,5.0,658.0,Y,Y,2024-01-14,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+593258104,2018-04-05,920.0,2025-03-12,Phone,N,N,Resident,N,78.0,N,N,Y,2025-03-21,E,Owner,Resident,8.0,946.0,Y,N,2019-10-27,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+250576578,2008-12-16,872.0,2025-03-17,Phone,N,N,Forwarding Address,N,93.0,N,Y,Y,2025-02-17,C,Social Renter,Forwarding Address,5.0,878.0,Y,N,2024-06-15,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+913731479,2006-12-20,2624.0,2024-08-28,Email,N,Y,Resident,N,30.0,N,N,N,2024-10-11,F,Social Renter,Resident,4.0,630.0,Y,Y,2024-10-16,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+889379831,2000-11-20,3697.0,2023-04-06,SMS,Y,N,Resident,N,18.0,N,N,Y,2023-08-26,F,Social Renter,Resident,6.0,537.0,Y,Y,2022-11-12,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+570996653,2002-08-09,65.0,2025-03-28,Email,N,Y,Resident,N,87.0,N,N,N,2025-03-23,B,Owner,Resident,6.0,959.0,Y,Y,2022-06-28,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+820768196,1998-07-27,3603.0,2024-06-01,Email,N,Y,Resident,N,18.0,N,N,N,2024-01-11,F,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,171.5,Tier 3 – High Risk
+956302972,2018-03-09,1.0,2025-03-26,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-03-24,A,Owner,Resident,8.0,962.0,Y,Y,2020-05-18,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+988097754,2018-09-04,,2025-04-03,SMS,Y,N,Resident,N,99.0,N,N,Y,2025-03-18,C,Private Renter,Resident,9.0,193.0,Y,Y,2020-02-09,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+447960041,2005-08-26,1268.0,2024-12-27,SMS,Y,N,Resident,N,61.0,N,N,Y,2024-12-23,E,Private Renter,Resident,8.0,706.0,Y,Y,2020-06-02,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+935690671,2018-09-20,,2025-03-18,Letter,N,N,Deceased,N,0.0,Y,N,Y,2025-03-19,E,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+984095911,2006-10-20,36.0,2025-04-07,Phone,N,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+615632965,2006-03-28,812.0,2025-02-22,SMS,Y,N,Resident,N,84.0,N,N,Y,2025-03-29,D,Owner,Resident,7.0,950.0,Y,Y,2023-03-11,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+990120813,2004-01-19,2266.0,2025-03-07,Email,N,Y,Resident,N,51.0,N,Y,N,2024-11-30,D,Private Renter,Resident,1.0,536.0,Y,Y,2025-10-03,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+734123071,2001-05-20,2668.0,2025-01-24,Email,N,Y,Forwarding Address,N,40.0,N,N,Y,2024-10-31,A,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+639524998,2001-02-09,841.0,2025-03-05,SMS,Y,N,Resident,N,80.0,N,N,Y,2025-03-09,D,Private Renter,Resident,9.0,878.0,Y,Y,2020-05-06,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+317190823,2002-09-18,138.0,2025-02-21,SMS,Y,N,Resident,N,77.0,N,Y,Y,2025-03-10,,Owner,Deceased,,,N,Y,,Zone 2 - Only dp1 says Resident,,
+527092278,2012-08-29,1996.0,2024-12-21,Email,N,Y,Resident,N,62.0,N,Y,N,2025-01-09,F,Private Renter,Resident,3.0,886.0,Y,Y,2025-06-25,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+546781701,1996-10-15,424.0,,SMS,Y,N,Resident,N,95.0,N,N,Y,2025-03-07,B,Social Renter,Resident,9.0,939.0,Y,Y,2022-07-05,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+754798613,2005-09-03,261.0,2025-03-04,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+284185683,1995-07-02,,2025-04-09,Email,N,Y,Resident,N,35.0,N,Y,Y,2025-03-30,A,Owner,Resident,5.0,455.0,Y,Y,2024-04-10,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+178181770,1998-10-28,26.0,2025-03-23,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-03-12,,Owner,Resident,2.0,952.0,Y,N,2025-09-24,Zone 1 - Agreement,,
+934178507,1999-05-15,2139.0,2025-03-26,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Forwarding Address,7.0,535.0,Y,Y,2023-07-12,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+600409006,2006-07-03,2136.0,2024-12-19,Email,N,Y,Resident,N,60.0,N,N,Y,2024-09-02,E,Private Renter,Resident,3.0,586.0,N,Y,2025-07-11,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+783645971,2002-12-03,2008.0,2024-11-10,Email,N,Y,Deceased,N,0.0,Y,Y,N,2025-02-02,E,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+654143067,2015-08-08,4891.0,2022-03-05,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Resident,2.0,219.0,Y,Y,2025-09-23,Zone 3 - Only dp3 says Resident,238.0,Tier 3 – High Risk
+391547504,2014-12-10,2533.0,2025-02-11,Phone,N,N,Resident,N,49.0,N,Y,Y,2024-11-14,,Owner,Forwarding Address,7.0,514.0,Y,Y,2020-12-10,Zone 2 - Only dp1 says Resident,,
+611485642,2002-07-01,12.0,2025-03-16,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-24,E,Social Renter,Resident,6.0,980.0,Y,Y,2022-09-18,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+303274192,2011-04-16,1620.0,2024-11-20,Email,N,Y,Resident,N,60.0,N,N,N,2024-12-15,F,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,213.1,Tier 3 – High Risk
+961151002,2018-06-03,2319.0,2025-03-04,Email,N,Y,Resident,N,44.0,N,Y,N,2025-02-13,E,Private Renter,Resident,2.0,707.0,Y,Y,2025-09-24,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+634929326,1998-12-01,3058.0,,Letter,N,N,Resident,N,28.0,N,N,N,2023-07-31,F,Private Renter,Resident,1.0,362.0,Y,Y,2025-10-03,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+425735148,2009-04-13,1547.0,2024-12-25,SMS,Y,N,Resident,N,54.0,N,N,Y,2024-12-10,E,Owner,Forwarding Address,5.0,771.0,Y,Y,2024-02-01,Zone 2 - Only dp1 says Resident,144.4,Tier 3 – High Risk
+921260144,1997-04-29,1850.0,2024-12-23,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+613326613,2009-08-15,3087.0,2024-07-13,Email,N,Y,Unmatched,,,,,,,D,Owner,Resident,3.0,383.0,N,N,2025-04-15,Zone 3 - Only dp3 says Resident,137.0,Tier 3 – High Risk
+111953448,2011-05-25,480.0,2025-03-10,Email,N,Y,Resident,N,80.0,N,Y,Y,2025-03-26,C,Owner,Resident,2.0,868.0,Y,Y,2025-10-01,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+141726252,1998-09-21,814.0,2025-02-13,SMS,Y,N,Resident,N,94.0,N,N,Y,2025-03-07,B,Private Renter,Resident,3.0,942.0,Y,Y,2025-04-04,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+376815303,2000-04-28,45.0,2025-03-12,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+297643299,2007-02-19,78.0,2025-03-29,SMS,Y,N,Unmatched,,,,,,,C,Owner,Resident,5.0,965.0,Y,Y,2024-08-21,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+815396619,1996-04-03,3663.0,2024-07-11,Letter,N,N,Resident,N,19.0,N,N,N,2023-10-03,F,Social Renter,Resident,1.0,394.0,Y,Y,2025-10-03,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+433582752,2009-05-18,73.0,2025-03-21,Email,N,Y,Resident,N,93.0,N,Y,Y,2025-03-22,A,Owner,Resident,7.0,985.0,Y,Y,2021-08-13,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+111049089,2000-04-19,,,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Resident,2.0,667.0,Y,Y,2025-09-28,Zone 3 - Only dp3 says Resident,238.0,Tier 3 – High Risk
+232413423,2007-07-30,1206.0,2024-12-13,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+368315520,1999-03-01,697.0,2025-03-22,Letter,N,N,Resident,N,93.0,N,N,Y,2025-03-01,B,Private Renter,Resident,9.0,847.0,Y,N,2021-11-25,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+806513258,2002-12-10,3658.0,2024-11-01,Email,N,Y,Resident,N,23.0,N,N,Y,2023-04-25,E,Private Renter,Resident,5.0,537.0,Y,Y,2024-04-02,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+796649895,1995-09-21,3017.0,,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+735009948,1995-02-12,97.0,2025-03-21,Email,N,Y,Deceased,N,0.0,Y,Y,Y,2025-03-17,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+849599648,2014-01-20,2588.0,2024-10-31,Phone,N,N,Unmatched,,,,,,,E,Owner,Resident,6.0,693.0,Y,N,2021-09-23,Zone 3 - Only dp3 says Resident,144.4,Tier 3 – High Risk
+206146008,2004-08-22,32.0,2025-04-03,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-31,B,,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+175335269,2008-02-24,,2025-04-06,Phone,N,N,Resident,N,13.0,N,N,Y,2025-04-03,C,Owner,Resident,7.0,998.0,Y,Y,2022-08-21,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+822676632,2014-06-03,69.0,2025-04-03,SMS,Y,N,Resident,N,90.0,N,N,N,2025-03-29,A,Owner,Resident,4.0,985.0,Y,Y,2025-03-10,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+878104128,2009-03-15,161.0,2025-03-19,Email,N,Y,Resident,N,82.0,N,Y,N,2025-03-24,B,Private Renter,Resident,7.0,890.0,Y,Y,2024-01-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+646696178,1999-09-15,1956.0,2025-01-08,Email,N,Y,Resident,N,60.0,N,N,N,2024-11-28,E,Private Renter,Resident,5.0,795.0,Y,Y,2023-09-06,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+291639776,2012-04-08,4036.0,2022-10-14,Letter,N,N,Deceased,Y,0.0,Y,N,N,2020-01-07,C,Social Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+504438724,2008-12-01,1105.0,2024-12-23,Phone,N,N,Resident,N,78.0,N,Y,Y,2025-02-12,C,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+918832666,2009-09-17,,,SMS,Y,N,Forwarding Address,N,57.0,N,N,N,2025-03-21,C,Owner,Resident,1.0,782.0,Y,N,2025-10-03,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+274353255,2009-06-26,51.0,2025-03-27,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-04-01,C,Private Renter,Resident,6.0,972.0,Y,Y,2024-02-14,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+705029847,2017-06-11,900.0,2025-02-28,Email,N,Y,Unmatched,,,,,,,,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+219974147,1998-04-18,1688.0,2025-02-19,Email,N,Y,Resident,N,65.0,N,N,N,2025-02-04,D,Private Renter,Resident,4.0,777.0,Y,Y,2025-03-14,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+809705284,1995-08-27,4530.0,2024-06-06,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+153779682,1996-11-29,1766.0,2024-12-24,Phone,N,N,Unmatched,,,,,,,,Owner,Resident,2.0,723.0,Y,Y,2025-09-22,Zone 3 - Only dp3 says Resident,,
+676533101,2002-02-05,61.0,2025-03-31,SMS,Y,N,Unmatched,,,,,,,A,Owner,Forwarding Address,9.0,976.0,Y,Y,2020-10-30,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+747788750,2015-12-05,974.0,2025-03-21,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+702872763,2011-11-04,36.0,2025-03-22,Email,N,Y,Resident,N,91.0,N,Y,N,2025-04-03,B,Social Renter,Resident,6.0,989.0,Y,Y,2023-01-11,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+165565947,2010-01-13,5139.0,2023-07-29,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+360349534,2002-10-22,89.0,2025-03-22,Phone,N,N,Resident,N,98.0,N,Y,Y,2025-03-19,D,Owner,Resident,7.0,966.0,Y,Y,2022-07-29,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+848417976,2004-03-15,4668.0,,Letter,N,N,Resident,Y,1.0,N,N,N,2019-05-10,F,Private Renter,Forwarding Address,6.0,4.0,Y,N,2024-05-07,Zone 2 - Only dp1 says Resident,213.1,Tier 3 – High Risk
+530608356,2011-10-12,9.0,2025-03-17,Email,N,Y,Resident,N,86.0,N,N,Y,2025-04-06,C,Private Renter,Resident,1.0,953.0,Y,Y,2025-10-03,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+687323600,2008-08-31,,2025-04-02,Phone,N,N,Resident,N,17.0,N,Y,N,2025-03-27,A,Private Renter,Forwarding Address,8.0,896.0,Y,N,2020-10-17,Zone 2 - Only dp1 says Resident,73.0,Tier 2 – Medium Risk
+707652808,2016-12-24,7.0,2025-03-18,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-29,A,Private Renter,Resident,8.0,955.0,Y,Y,2020-11-23,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+935102197,2008-03-26,4915.0,2019-08-08,Letter,N,N,Resident,N,3.0,N,N,N,2021-12-14,E,Social Renter,Resident,2.0,133.0,Y,Y,2025-09-18,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+652977133,2004-10-30,68.0,2025-03-22,SMS,Y,N,Resident,N,92.0,N,N,N,2025-03-26,A,Owner,Resident,7.0,985.0,N,N,2023-04-16,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+182053799,2016-02-16,70.0,2025-03-16,Email,N,Y,Resident,N,92.0,N,N,Y,2025-03-31,E,Owner,Resident,8.0,965.0,Y,Y,2022-11-20,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+142369338,1995-07-29,2620.0,2025-01-07,Phone,N,N,Resident,N,26.0,N,N,N,2025-01-31,F,Social Renter,Resident,1.0,589.0,Y,Y,2025-10-03,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+213327594,2013-07-21,2021.0,2024-12-17,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3.0,501.0,Y,Y,2025-03-05,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+928709651,2014-05-15,93.0,,SMS,Y,N,Resident,N,86.0,N,N,Y,2025-03-27,A,Owner,Resident,9.0,986.0,Y,Y,2019-08-29,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+504683331,2012-08-25,,2025-03-18,Email,N,Y,Unmatched,,,,,,,,Social Renter,Resident,7.0,92.0,Y,Y,2020-10-25,Zone 3 - Only dp3 says Resident,,
+922411508,2014-01-06,77.0,2025-04-01,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-04-05,D,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,136.7,Tier 3 – High Risk
+542903586,2017-04-22,1672.0,2025-01-04,Phone,N,N,Unmatched,,,,,,,E,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+116268437,2012-07-18,595.0,2025-03-17,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+162826926,1995-12-29,1616.0,2024-12-02,Phone,N,N,Deceased,N,0.0,Y,Y,N,2024-12-16,E,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+576678758,1997-09-22,34.0,2025-03-13,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+884612336,2016-12-12,1512.0,2025-01-22,SMS,Y,N,Resident,N,76.0,N,N,Y,2025-01-06,E,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,192.1,Tier 3 – High Risk
+469237822,1995-12-30,1644.0,2025-02-21,Phone,N,N,Resident,N,65.0,N,N,N,2024-12-07,,Private Renter,Resident,3.0,840.0,Y,Y,2025-05-26,Zone 1 - Agreement,,
+391210228,2015-09-26,1562.0,2025-01-11,Phone,N,N,Resident,N,69.0,N,Y,N,2025-02-24,B,Private Renter,Resident,9.0,862.0,Y,N,2020-10-14,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+395833316,2011-11-07,72.0,2025-03-18,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+333755164,1997-06-29,3455.0,2023-09-27,Letter,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+788419934,2017-11-04,1832.0,2024-11-21,Phone,N,N,Deceased,N,0.0,Y,N,N,2024-11-13,D,,Deceased,,,N,Y,,Zone 4 - Neither says Resident,,
+897277224,2004-02-05,77.0,,SMS,Y,N,Deceased,N,0.0,Y,Y,N,2025-03-22,B,Social Renter,Deceased,,,Y,N,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+922412687,2006-01-12,1635.0,2024-12-26,Email,N,Y,Resident,N,51.0,N,Y,Y,2025-01-11,,Owner,Resident,4.0,725.0,Y,Y,2025-01-18,Zone 1 - Agreement,,
+950641540,1995-07-06,2511.0,2024-12-12,SMS,Y,N,Resident,N,38.0,N,N,N,2024-09-03,E,Social Renter,Resident,7.0,604.0,Y,Y,2023-03-22,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+905808569,2013-07-11,2212.0,2025-01-22,Phone,N,N,Resident,N,29.0,N,N,N,2025-01-23,D,,Resident,9.0,662.0,Y,Y,2021-03-14,Zone 1 - Agreement,,
+383022401,2003-01-23,7.0,2025-04-04,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+456534349,2017-09-02,3161.0,2024-12-24,Letter,N,N,Resident,N,22.0,N,N,Y,2023-06-11,F,Private Renter,Resident,4.0,539.0,N,Y,2025-02-05,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+391670589,2003-12-22,40.0,2025-03-27,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Forwarding Address,4.0,975.0,Y,Y,2024-11-03,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+676447399,2002-01-23,75.0,2025-03-31,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-04-08,B,Owner,Resident,9.0,985.0,Y,Y,2020-02-28,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+128167032,2000-12-24,432.0,2025-03-08,SMS,Y,N,Resident,N,95.0,N,N,N,2025-03-13,D,Private Renter,Resident,6.0,923.0,Y,Y,2022-05-23,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+552542730,2004-08-14,1209.0,,Email,N,Y,Resident,N,66.0,N,Y,Y,2024-11-26,F,Social Renter,Resident,6.0,765.0,Y,N,2023-12-24,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+869451307,2006-01-18,4500.0,2025-02-11,Letter,N,N,Resident,N,11.0,N,N,N,2021-12-31,,,Resident,6.0,82.0,Y,Y,2022-11-12,Zone 1 - Agreement,,
+986348721,1995-03-18,5956.0,2021-06-19,Letter,N,N,Deceased,N,0.0,Y,N,N,2020-10-20,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+299733797,2017-06-22,723.0,2025-03-04,SMS,Y,N,Resident,N,79.0,N,Y,N,2025-03-07,B,Social Renter,Resident,6.0,880.0,Y,Y,2021-09-30,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+491728096,2001-06-26,836.0,2025-02-19,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-02-21,C,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,144.7,Tier 3 – High Risk
+683040413,2012-11-23,4524.0,2019-09-13,Letter,N,N,Resident,Y,10.0,N,N,Y,2021-01-31,E,Private Renter,Resident,1.0,38.0,Y,N,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+949431243,2014-10-15,,2025-03-22,SMS,Y,N,Resident,N,78.0,N,N,N,2025-04-04,B,Owner,Resident,6.0,856.0,Y,Y,2024-02-20,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+569937851,2018-09-02,79.0,2025-03-22,SMS,Y,N,Resident,N,98.0,N,N,N,2025-04-09,E,Owner,Resident,3.0,954.0,Y,Y,2025-03-14,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+558907726,2006-11-22,3080.0,2023-10-21,Phone,N,N,Resident,N,30.0,N,N,N,2023-09-09,,Social Renter,Resident,9.0,539.0,N,Y,2021-12-04,Zone 1 - Agreement,,
+704293176,2009-01-18,129.0,2025-03-12,Email,N,Y,Resident,N,86.0,N,Y,Y,2025-02-21,C,,Resident,7.0,867.0,Y,Y,2022-03-24,Zone 1 - Agreement,,
+257299627,2001-10-21,216.0,2025-03-14,Email,N,Y,Resident,N,95.0,N,N,N,2025-03-12,D,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+456482592,1999-05-21,2544.0,2024-11-04,Email,N,Y,Resident,N,58.0,N,N,N,2024-11-09,C,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,144.7,Tier 3 – High Risk
+767494162,2000-03-10,52.0,2025-04-06,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-04-06,A,Owner,Resident,6.0,989.0,Y,Y,2024-05-26,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+921340332,2011-05-22,3559.0,2023-11-27,SMS,Y,N,Deceased,N,0.0,Y,N,N,2023-04-24,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+458710903,2004-03-08,1806.0,2024-12-27,SMS,Y,N,Resident,N,76.0,N,Y,Y,2024-12-17,D,Social Renter,Resident,9.0,816.0,Y,Y,2019-10-12,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+153305344,2005-08-08,246.0,,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+445208344,2010-07-16,,2025-04-03,Phone,N,N,Resident,N,79.0,N,N,N,2025-03-12,D,Owner,Resident,1.0,340.0,Y,Y,2025-10-03,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+450704884,1996-10-14,901.0,2025-03-10,SMS,Y,N,Resident,N,82.0,N,Y,Y,2025-03-23,B,Private Renter,Resident,1.0,882.0,Y,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+537279802,2003-07-23,3716.0,2023-04-07,Letter,N,N,Resident,Y,9.0,N,N,N,2023-05-04,D,Social Renter,Resident,8.0,112.0,Y,Y,2023-04-16,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+627539131,2007-07-22,2837.0,2024-10-05,Phone,N,N,Resident,N,48.0,N,N,Y,2024-09-17,D,Owner,Resident,8.0,538.0,Y,N,2022-02-14,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+786160296,2018-04-30,1973.0,2025-02-01,Email,N,Y,Forwarding Address,N,56.0,N,Y,N,2025-02-07,B,Owner,Resident,8.0,707.0,Y,N,2021-06-13,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+535182014,2003-08-16,2194.0,2024-08-18,Phone,N,N,Resident,N,38.0,N,N,N,2024-11-11,F,Owner,Resident,7.0,709.0,Y,Y,2023-05-15,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+293957703,2015-07-08,2689.0,2024-10-03,Phone,N,N,Resident,N,50.0,N,N,N,2024-10-31,F,Social Renter,Resident,2.0,614.0,Y,N,2025-09-20,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+680261899,1997-01-29,2930.0,2025-01-10,Phone,N,N,Resident,Y,10.0,N,N,N,2024-08-23,D,Social Renter,Forwarding Address,4.0,216.0,Y,Y,2024-11-27,Zone 2 - Only dp1 says Resident,160.7,Tier 3 – High Risk
+481623203,2005-08-05,2942.0,2024-08-20,Letter,N,N,Resident,N,42.0,N,N,Y,2025-02-26,D,Private Renter,Resident,6.0,669.0,Y,Y,2022-07-12,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+134848953,2004-05-15,4370.0,,Letter,N,N,Resident,Y,6.0,N,N,N,2019-03-08,,Social Renter,Resident,6.0,139.0,Y,Y,2024-01-16,Zone 1 - Agreement,,
+359287877,2015-07-19,1717.0,2025-02-20,SMS,Y,N,Resident,N,56.0,N,N,Y,2024-11-30,D,Owner,Resident,3.0,787.0,Y,Y,2025-04-02,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+407845951,2014-10-29,669.0,2025-03-13,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,9.0,957.0,Y,Y,2022-05-12,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+695301457,2012-07-14,373.0,2025-02-19,Letter,N,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+481763633,2005-05-14,2526.0,2025-01-18,Email,N,Y,Deceased,N,0.0,Y,Y,N,2025-02-22,F,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+361021241,2009-06-20,1678.0,2024-12-20,Email,N,Y,Forwarding Address,N,54.0,N,N,N,2024-12-03,E,Private Renter,Resident,1.0,727.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,192.1,Tier 3 – High Risk
+231234245,2008-04-29,31.0,2025-03-23,SMS,Y,N,Resident,N,99.0,N,Y,Y,2025-03-11,A,Owner,Resident,5.0,952.0,Y,Y,2023-12-29,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+514224829,2006-12-04,3947.0,2023-08-11,Phone,N,N,Resident,N,28.0,N,Y,N,2023-05-26,,Private Renter,Resident,6.0,498.0,Y,N,2024-02-06,Zone 1 - Agreement,,
+450621146,2002-04-27,98.0,2025-03-15,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-03-21,B,Social Renter,Resident,1.0,967.0,Y,Y,2025-10-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+830281262,2002-10-30,412.0,2025-03-27,SMS,Y,N,Forwarding Address,N,91.0,N,Y,Y,2025-03-07,C,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+106504409,2016-10-25,8.0,2025-04-01,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-03-30,B,Owner,Resident,7.0,974.0,Y,Y,2021-10-21,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+749500164,2005-11-13,26.0,2025-03-25,Phone,N,N,Deceased,N,0.0,Y,Y,N,2025-03-12,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+103060434,2005-05-25,28.0,2025-03-30,SMS,Y,N,Resident,N,91.0,N,Y,Y,2025-03-10,A,Social Renter,Resident,8.0,969.0,Y,Y,2021-10-17,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+691998973,2009-08-24,1408.0,2025-01-28,SMS,Y,N,Resident,N,73.0,N,N,Y,2025-01-02,E,Owner,Resident,8.0,727.0,Y,Y,2020-11-04,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+496458582,2018-04-10,90.0,2025-03-26,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-04-02,B,Owner,Resident,1.0,977.0,Y,Y,2025-10-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+504124986,2004-04-16,2339.0,2024-10-17,Email,N,Y,Forwarding Address,N,43.0,N,N,N,2025-01-30,E,Owner,Resident,2.0,532.0,Y,Y,2025-09-19,Zone 3 - Only dp3 says Resident,144.4,Tier 3 – High Risk
+515271667,2013-04-09,68.0,2025-03-20,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+477481308,2016-03-09,608.0,2025-03-10,SMS,Y,N,Resident,N,84.0,N,N,N,2025-03-04,C,Owner,Resident,7.0,890.0,Y,Y,2021-03-18,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+147367001,1997-05-11,281.0,2025-03-04,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-02-27,F,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,171.5,Tier 3 – High Risk
+715781077,2016-12-01,1737.0,2025-02-19,Email,N,Y,Resident,N,68.0,N,Y,N,2024-12-11,,Private Renter,Resident,2.0,701.0,Y,Y,2025-09-29,Zone 1 - Agreement,,
+514380020,2000-02-17,38.0,2025-04-08,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+373725870,1999-09-16,,2025-03-21,Email,N,Y,Resident,N,97.0,N,N,N,2025-03-12,C,Owner,Resident,2.0,511.0,Y,Y,2025-09-25,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+860426146,2007-12-30,833.0,2025-03-05,SMS,Y,N,Unmatched,,,,,,,B,,Resident,3.0,848.0,Y,Y,2025-05-11,Zone 3 - Only dp3 says Resident,,
+575784316,2015-05-29,123.0,2025-03-07,SMS,Y,N,Resident,N,82.0,N,Y,Y,2025-03-11,C,Owner,Resident,6.0,942.0,Y,Y,2024-01-06,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+216202454,2000-11-24,15.0,2025-04-07,Email,N,Y,Deceased,N,0.0,Y,Y,N,2025-03-10,C,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+278522580,2012-12-07,100.0,2025-03-27,Phone,N,N,Resident,N,98.0,N,Y,Y,2025-03-18,B,Owner,Resident,5.0,967.0,Y,Y,2024-06-28,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+407709860,2016-04-17,25.0,2025-03-19,SMS,Y,N,Resident,N,94.0,N,Y,Y,2025-04-06,B,Social Renter,Resident,7.0,983.0,Y,Y,2021-02-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+941340767,2013-11-07,15.0,2025-04-02,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-03-31,B,Owner,Resident,3.0,951.0,Y,Y,2025-06-18,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+925998290,2003-10-31,82.0,,SMS,Y,N,Resident,N,93.0,N,N,Y,2025-03-20,A,Social Renter,Resident,2.0,977.0,Y,Y,2025-09-21,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+428853474,2012-05-07,110.0,2025-02-21,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,9.0,859.0,Y,Y,2019-12-05,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+691237331,2014-02-13,190.0,2025-03-02,SMS,Y,N,Resident,N,89.0,N,N,Y,2025-03-25,C,Owner,Resident,6.0,899.0,Y,Y,2022-10-22,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+518443736,2003-11-28,567.0,2025-02-26,SMS,Y,N,Unmatched,,,,,,,B,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+114936964,2009-01-21,69.0,2025-03-24,Email,N,Y,Resident,N,86.0,N,Y,Y,2025-03-20,A,Owner,Resident,1.0,977.0,Y,Y,2025-10-03,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+502703183,2011-10-13,1740.0,2025-03-19,Phone,N,N,Resident,N,75.0,N,Y,N,2025-01-10,D,Owner,Resident,1.0,787.0,Y,Y,2025-10-03,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+603495783,1997-02-25,60.0,2025-03-26,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+623003147,2014-11-30,,,Phone,N,N,Unmatched,,,,,,,F,Owner,Resident,8.0,32.0,Y,N,2020-10-22,Zone 3 - Only dp3 says Resident,171.5,Tier 3 – High Risk
+383139841,2001-11-16,1762.0,2025-01-21,Phone,N,N,Unmatched,,,,,,,A,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+932523976,1996-04-06,46.0,,SMS,Y,N,Resident,N,89.0,N,N,Y,2025-04-04,B,Owner,Resident,5.0,965.0,Y,Y,2023-09-20,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+244107988,2013-01-20,1961.0,2024-12-29,SMS,Y,N,Resident,N,59.0,N,N,N,2025-01-15,B,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,99.0,Tier 2 – Medium Risk
+239948135,2018-03-04,3179.0,2024-12-06,Letter,N,N,Resident,N,25.0,N,N,N,2023-05-04,E,Social Renter,Resident,1.0,284.0,Y,Y,2025-10-03,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+191185658,2006-10-02,1531.0,2025-03-25,Letter,N,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+427766840,2015-12-16,50.0,2025-04-02,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-04-03,A,Owner,Forwarding Address,9.0,964.0,Y,Y,2021-05-14,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+968150791,2002-03-28,1759.0,2025-03-01,Email,N,Y,Resident,N,57.0,N,Y,Y,2025-02-08,F,Private Renter,Forwarding Address,5.0,715.0,N,Y,2024-04-06,Zone 2 - Only dp1 says Resident,213.1,Tier 3 – High Risk
+620761294,2013-11-08,1039.0,2025-03-03,Letter,N,N,Resident,N,73.0,N,Y,Y,2025-01-15,,Private Renter,Resident,7.0,840.0,Y,N,2022-07-12,Zone 1 - Agreement,,
+620998921,2004-10-18,,2025-03-10,SMS,Y,N,Resident,N,66.0,N,Y,N,2025-03-20,A,Owner,Resident,6.0,647.0,Y,N,2023-07-18,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+997390935,2010-10-19,1296.0,,Email,N,Y,Forwarding Address,N,50.0,N,Y,N,2025-01-24,,Owner,Forwarding Address,8.0,823.0,N,Y,2023-01-15,Zone 4 - Neither says Resident,,
+231891905,1998-11-20,50.0,2025-03-30,Email,N,Y,Resident,N,88.0,N,Y,N,2025-03-20,A,Private Renter,Resident,8.0,969.0,Y,N,2023-06-23,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+978990915,1996-02-15,96.0,2025-03-15,SMS,Y,N,Deceased,N,0.0,Y,N,Y,2025-03-22,D,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+555017875,2015-10-20,54.0,,Phone,N,N,Resident,N,94.0,N,Y,N,2025-03-14,A,Owner,Forwarding Address,5.0,987.0,Y,Y,2024-06-02,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+822680286,2004-07-16,881.0,2025-03-10,Email,N,Y,Resident,N,88.0,N,N,N,2025-03-14,B,Owner,Resident,1.0,947.0,Y,Y,2025-10-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+232891241,1996-07-21,1699.0,2025-01-05,Email,N,Y,Resident,N,70.0,N,N,Y,2025-02-02,E,Social Renter,Resident,4.0,736.0,Y,Y,2024-12-10,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+661941758,2004-11-11,381.0,2025-03-25,SMS,Y,N,Resident,N,83.0,N,Y,Y,2025-03-12,B,Social Renter,Resident,4.0,859.0,Y,N,2024-12-30,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+458062255,2001-09-03,4186.0,2022-08-22,Letter,N,N,Resident,Y,7.0,N,N,N,2022-01-27,D,Owner,Resident,4.0,26.0,Y,Y,2024-11-10,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+822875548,2014-05-16,727.0,,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,6.0,882.0,Y,Y,2023-12-09,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+427105064,2013-10-17,608.0,2025-03-30,Phone,N,N,Unmatched,,,,,,,B,Social Renter,Resident,1.0,916.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,99.0,Tier 2 – Medium Risk
+731581993,2002-11-07,1668.0,2025-01-16,Email,N,Y,Resident,N,77.0,N,N,Y,2025-01-29,D,Social Renter,Resident,8.0,732.0,Y,Y,2020-03-26,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+645227299,1997-08-03,3219.0,2023-03-20,Email,N,Y,Resident,N,15.0,N,Y,N,2023-03-11,E,Social Renter,Resident,2.0,506.0,Y,Y,2025-09-27,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+666201152,1999-06-14,2913.0,2025-03-21,Phone,N,N,Resident,Y,8.0,N,N,N,2024-09-10,F,Private Renter,Resident,7.0,151.0,N,Y,2020-10-21,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+193700333,2000-05-29,4.0,2025-03-11,SMS,Y,N,Resident,N,99.0,N,Y,Y,2025-03-23,C,Owner,Resident,7.0,958.0,Y,N,2022-10-19,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+995958681,2008-03-01,,2025-03-29,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Resident,5.0,92.0,Y,Y,2023-12-08,Zone 3 - Only dp3 says Resident,212.6,Tier 3 – High Risk
+307046892,2014-08-05,58.0,2025-03-29,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-03-10,,Owner,Resident,4.0,990.0,Y,Y,2025-03-16,Zone 1 - Agreement,,
+330902021,2001-05-11,62.0,2025-04-03,Email,N,Y,Resident,N,87.0,N,N,Y,2025-04-02,B,Owner,Resident,5.0,964.0,Y,Y,2023-10-16,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+570996218,2007-11-03,2736.0,2024-10-23,Email,N,Y,Resident,N,53.0,N,Y,N,2024-09-16,,Private Renter,Resident,3.0,677.0,Y,Y,2025-05-10,Zone 1 - Agreement,,
+557283809,1997-06-23,387.0,2025-03-08,SMS,Y,N,Resident,N,77.0,N,Y,Y,2025-02-24,D,Private Renter,Resident,7.0,857.0,Y,Y,2023-12-29,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+347770789,2017-08-06,51.0,2025-04-08,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-13,B,Private Renter,Resident,6.0,976.0,Y,Y,2024-07-16,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+350205093,2016-07-01,318.0,2025-03-03,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-06,,,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+368893612,2010-02-04,3349.0,2024-03-11,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+254088791,2007-11-14,2301.0,,Phone,N,N,Resident,N,50.0,N,Y,N,2025-02-08,F,Private Renter,Resident,6.0,599.0,Y,Y,2024-02-03,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+606163220,1998-07-13,83.0,2025-04-05,SMS,Y,N,Forwarding Address,N,90.0,N,Y,Y,2025-03-19,D,Owner,Resident,3.0,969.0,Y,Y,2025-07-25,Zone 3 - Only dp3 says Resident,137.0,Tier 3 – High Risk
+629475037,1998-04-10,4847.0,2023-03-21,Letter,N,N,Deceased,N,0.0,Y,N,N,2020-07-23,C,Social Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+254780176,2006-01-28,30.0,2025-04-05,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-24,A,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+575303542,2004-12-22,1793.0,2024-12-29,SMS,Y,N,Unmatched,,,,,,,,Social Renter,Forwarding Address,5.0,834.0,N,Y,2023-11-25,Zone 4 - Neither says Resident,,
+812238987,1995-07-05,1606.0,2024-12-05,Email,N,Y,Resident,N,61.0,N,N,N,2025-03-05,,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+771698603,2004-10-07,69.0,2025-04-01,SMS,Y,N,Forwarding Address,N,88.0,N,Y,Y,2025-03-10,B,Private Renter,Deceased,,,Y,N,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+140611002,2006-11-06,10.0,2025-03-24,Email,N,Y,Unmatched,,,,,,,A,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+799845958,1995-05-18,92.0,2025-03-21,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,2.0,956.0,Y,Y,2025-09-30,Zone 4 - Neither says Resident,,
+922056652,2009-08-13,2171.0,2024-12-09,SMS,Y,N,Resident,N,35.0,N,N,N,2025-01-06,F,Owner,Resident,1.0,568.0,Y,Y,2025-10-03,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+980110692,2002-07-14,3170.0,2024-10-27,Email,N,Y,Deceased,N,0.0,Y,N,N,2023-09-26,,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+672680634,2006-10-08,1343.0,2025-03-16,Email,N,Y,Deceased,N,0.0,Y,N,Y,2025-02-06,B,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+274690833,2010-12-10,1084.0,2025-01-11,Email,N,Y,Resident,N,61.0,N,N,Y,2025-01-12,D,Private Renter,Resident,5.0,825.0,Y,Y,2024-08-24,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+406790663,2004-04-27,,2025-04-01,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+302325791,1998-07-17,36.0,,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-03-31,A,Private Renter,Resident,2.0,963.0,Y,Y,2025-09-19,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+877038640,2010-09-22,2776.0,2025-02-07,Phone,N,N,Unmatched,,,,,,,,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+233055916,1997-03-20,34.0,2025-03-12,SMS,Y,N,Unmatched,,,,,,,C,Owner,Forwarding Address,8.0,974.0,Y,Y,2019-11-27,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+261904985,1999-11-17,2584.0,2024-11-08,Phone,N,N,Forwarding Address,N,31.0,N,N,Y,2024-10-27,E,Owner,Resident,2.0,511.0,Y,Y,2025-09-18,Zone 3 - Only dp3 says Resident,144.4,Tier 3 – High Risk
+363879996,2001-10-13,,2025-03-23,Email,N,Y,Resident,N,83.0,N,N,Y,2025-03-27,C,Private Renter,Resident,4.0,499.0,Y,Y,2024-09-22,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+948003049,2000-09-30,71.0,2025-04-04,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-04-03,B,Private Renter,Resident,1.0,986.0,Y,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+286844148,1997-06-13,82.0,2025-04-06,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,4.0,952.0,Y,Y,2025-01-08,Zone 4 - Neither says Resident,,
+957994679,2006-01-30,1192.0,2025-02-04,Phone,N,N,Resident,N,66.0,N,N,N,2025-01-02,C,Social Renter,Resident,4.0,847.0,Y,N,2024-09-17,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+651745176,2003-09-16,2963.0,2024-11-24,Phone,N,N,Unmatched,,,,,,,,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+485641868,2002-06-30,,2025-03-11,Phone,N,N,Resident,N,81.0,N,N,Y,2025-04-04,E,Private Renter,Resident,5.0,406.0,Y,Y,2024-01-09,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+976000380,2012-06-13,4794.0,2019-06-30,Letter,N,N,Resident,Y,1.0,N,Y,N,2020-08-18,E,Social Renter,Resident,5.0,141.0,Y,N,2023-11-19,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+654801623,1995-07-03,520.0,2025-03-30,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2025-03-03,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+879537264,2009-02-04,2302.0,2025-02-27,Email,N,Y,Resident,N,58.0,N,N,Y,2024-08-31,B,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+356089749,1998-03-12,4338.0,2024-11-02,Letter,N,N,Resident,N,0.0,N,N,N,2022-08-13,E,Social Renter,Resident,6.0,155.0,Y,Y,2023-12-29,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+777152916,2008-06-22,1928.0,2025-03-14,Email,N,Y,Forwarding Address,N,70.0,N,N,Y,2025-02-18,E,Owner,Forwarding Address,4.0,873.0,Y,N,2024-11-17,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+697182149,2004-01-11,728.0,2025-03-21,Email,N,Y,Resident,N,95.0,N,Y,Y,2025-03-14,A,Private Renter,Resident,3.0,865.0,Y,Y,2025-07-15,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+717062913,1995-09-28,70.0,2025-03-16,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,5.0,987.0,Y,Y,2024-02-22,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+397494070,2010-02-20,1867.0,2024-12-01,SMS,Y,N,Resident,N,78.0,N,Y,N,2025-01-16,,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,,
+661888095,2014-12-16,6.0,2025-03-31,Email,N,Y,Resident,N,87.0,N,Y,N,2025-04-04,B,Owner,Resident,5.0,950.0,Y,Y,2024-04-30,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+698008219,2006-10-30,1596.0,2024-12-15,Email,N,Y,Resident,N,66.0,N,N,N,2025-01-29,E,Private Renter,Resident,2.0,764.0,Y,Y,2025-09-23,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+423668720,2014-07-02,18.0,2025-04-06,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-31,A,Owner,Resident,2.0,960.0,Y,Y,2025-09-29,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+199112152,1999-02-04,,,Email,N,Y,Resident,N,78.0,N,N,N,2025-04-05,D,Social Renter,Resident,4.0,924.0,Y,Y,2024-12-29,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+854337778,2005-09-21,3220.0,2023-06-30,Letter,N,N,Deceased,N,0.0,Y,Y,N,2023-03-12,E,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+391738929,2006-12-27,76.0,,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-25,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+551187389,2004-01-27,55.0,2025-04-05,SMS,Y,N,Resident,N,96.0,N,Y,Y,2025-03-14,A,Owner,Resident,7.0,977.0,Y,Y,2021-07-08,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+333630483,2016-11-11,696.0,2025-03-22,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-03-29,B,Private Renter,Resident,8.0,953.0,Y,Y,2021-08-08,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+442506900,1997-02-04,333.0,2025-03-03,SMS,Y,N,Resident,N,84.0,N,Y,N,2025-03-28,C,Social Renter,Resident,2.0,851.0,Y,Y,2025-09-25,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+342153304,2010-10-30,1679.0,2025-03-11,SMS,Y,N,Resident,N,76.0,N,N,N,2025-02-03,D,Owner,Resident,6.0,782.0,N,N,2023-07-07,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+810086920,2016-06-09,,2025-03-19,Letter,N,N,Resident,N,81.0,N,N,Y,2025-03-19,A,Social Renter,Resident,3.0,366.0,N,Y,2025-03-12,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+144732605,2016-07-24,1293.0,,Email,N,Y,Resident,N,60.0,N,N,Y,2025-03-02,B,,Resident,1.0,767.0,Y,Y,2025-10-03,Zone 1 - Agreement,,
+648766298,2003-05-19,2007.0,2024-09-23,Phone,N,N,Deceased,N,0.0,Y,Y,N,2024-08-16,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+307343641,2013-04-19,,2025-04-01,Email,N,Y,Resident,N,17.0,N,Y,N,2025-03-11,B,Private Renter,Resident,1.0,267.0,N,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+105185108,2008-03-05,,2025-04-04,Email,N,Y,Resident,N,32.0,N,Y,Y,2025-04-01,D,Private Renter,Resident,5.0,702.0,Y,N,2024-04-14,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+198428699,2013-02-03,1512.0,2024-12-04,SMS,Y,N,Forwarding Address,N,70.0,N,Y,Y,2025-02-22,D,,Forwarding Address,8.0,832.0,Y,N,2023-02-02,Zone 4 - Neither says Resident,,
+209213497,2015-05-15,87.0,2025-03-27,Email,N,Y,Resident,N,96.0,N,Y,N,2025-04-02,A,Owner,Resident,9.0,966.0,Y,N,2018-11-05,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+151114404,2009-05-01,4249.0,2025-03-01,Letter,N,N,Resident,Y,6.0,N,Y,N,2021-12-14,,Social Renter,Resident,5.0,247.0,Y,Y,2024-02-02,Zone 1 - Agreement,,
+542240545,1996-09-24,1162.0,2024-11-17,Email,N,Y,Resident,N,67.0,N,N,Y,2024-12-18,C,Owner,Resident,5.0,798.0,N,Y,2023-09-21,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+858009336,2011-02-03,,2025-03-25,Letter,N,N,Resident,N,46.0,N,N,Y,2025-03-25,F,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,213.1,Tier 3 – High Risk
+748979857,2016-02-15,1221.0,2025-01-15,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+944657714,2008-02-14,56.0,2025-03-16,SMS,Y,N,Resident,N,85.0,N,Y,Y,2025-04-04,B,Private Renter,Resident,7.0,990.0,Y,Y,2024-08-12,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+939506997,1997-07-19,,2025-03-24,SMS,Y,N,Resident,N,6.0,N,N,N,2025-03-21,C,Owner,Resident,6.0,658.0,Y,Y,2022-06-26,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+487116334,2009-08-02,59.0,2025-03-31,SMS,Y,N,Unmatched,,,,,,,C,Private Renter,Forwarding Address,2.0,973.0,Y,Y,2025-10-02,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+179004913,2012-02-08,2939.0,2024-09-14,Phone,N,N,Resident,N,29.0,N,N,N,2025-01-27,D,Social Renter,Resident,4.0,534.0,Y,Y,2025-03-19,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+173612550,1996-04-28,29.0,2025-03-30,SMS,Y,N,Resident,N,88.0,N,Y,Y,2025-04-07,C,Owner,Resident,8.0,957.0,Y,Y,2023-01-10,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+736712574,2011-08-16,3039.0,2024-12-15,Letter,N,N,Deceased,N,0.0,Y,N,N,2023-03-31,D,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+628530051,2017-02-02,639.0,2025-03-11,SMS,Y,N,Resident,N,76.0,N,Y,N,2025-03-03,D,Social Renter,Resident,7.0,887.0,Y,N,2023-01-13,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+632910038,2006-03-18,2666.0,2025-02-28,Email,N,Y,Resident,N,53.0,N,N,Y,2024-11-08,F,Owner,Resident,5.0,522.0,Y,N,2024-04-02,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+885383458,2007-10-28,3688.0,2024-01-10,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+844406256,2007-08-19,96.0,2025-03-13,Phone,N,N,Resident,N,95.0,N,Y,Y,2025-03-23,F,,Resident,5.0,960.0,Y,Y,2024-07-05,Zone 1 - Agreement,,
+251629879,2017-11-15,3321.0,2024-09-21,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+387161185,2012-07-05,1852.0,2025-03-02,Phone,N,N,Unmatched,,,,,,,C,Social Renter,Resident,5.0,773.0,Y,Y,2023-12-31,Zone 3 - Only dp3 says Resident,144.7,Tier 3 – High Risk
+725539212,2009-04-01,,2025-03-20,Email,N,Y,Forwarding Address,N,44.0,N,N,Y,2025-04-02,F,,Resident,1.0,398.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,,
+950979079,2001-10-15,2804.0,2025-02-02,Letter,N,N,Resident,N,31.0,N,N,N,2024-09-15,E,Social Renter,Resident,5.0,557.0,Y,Y,2024-08-09,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+343565799,2009-12-14,58.0,2025-03-18,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+661650397,2003-05-24,2227.0,2024-11-13,Email,N,Y,Resident,N,27.0,N,Y,N,2024-12-17,E,Owner,Resident,5.0,681.0,N,Y,2023-11-09,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+663034289,2003-08-17,939.0,2025-03-01,Email,N,Y,Resident,N,78.0,N,Y,N,2025-03-02,B,,Resident,9.0,881.0,Y,Y,2022-05-07,Zone 1 - Agreement,,
+815312562,2007-12-31,1865.0,2024-12-04,Email,N,Y,Resident,N,68.0,N,N,N,2024-12-16,D,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+420953415,2001-10-26,468.0,2025-02-26,Email,N,Y,Resident,N,87.0,N,Y,Y,2025-02-15,E,Owner,Resident,9.0,886.0,Y,N,2019-09-04,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+554005864,2007-11-18,92.0,2025-03-29,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+301809403,1997-04-05,1407.0,2024-11-24,SMS,Y,N,Deceased,N,0.0,Y,N,N,2025-01-10,F,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+256347952,1997-01-12,84.0,2025-03-31,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+251370646,1997-10-31,1799.0,2025-02-15,SMS,Y,N,Resident,N,53.0,N,N,N,2025-02-03,C,Owner,Resident,1.0,825.0,Y,Y,2025-10-03,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+907054865,2001-05-10,77.0,2025-04-06,SMS,Y,N,Forwarding Address,N,87.0,N,Y,Y,2025-04-04,A,Private Renter,Resident,3.0,967.0,Y,Y,2025-03-22,Zone 3 - Only dp3 says Resident,73.0,Tier 2 – Medium Risk
+119930934,2002-05-23,33.0,2025-03-24,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,4.0,969.0,Y,Y,2024-09-18,Zone 3 - Only dp3 says Resident,73.0,Tier 2 – Medium Risk
+499622775,2010-07-25,39.0,2025-03-10,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-15,C,Owner,Resident,3.0,950.0,Y,Y,2025-05-28,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+444355405,1999-12-22,78.0,2025-03-13,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-03-24,A,Private Renter,Resident,8.0,972.0,Y,Y,2022-05-23,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+577758674,2008-07-23,4432.0,2021-07-15,Letter,N,N,Resident,Y,7.0,N,N,N,2020-02-22,E,Social Renter,Resident,2.0,139.0,Y,Y,2025-10-02,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+571219773,1999-01-15,3080.0,,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+285732130,2000-04-26,695.0,,Email,N,Y,Resident,N,80.0,N,N,N,2025-03-07,B,Social Renter,Resident,2.0,846.0,Y,Y,2025-09-24,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+718111156,2012-03-13,2523.0,2025-02-06,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Resident,6.0,510.0,Y,Y,2021-11-09,Zone 3 - Only dp3 says Resident,192.1,Tier 3 – High Risk
+894354121,2008-09-04,822.0,2025-02-25,SMS,Y,N,Resident,N,86.0,N,Y,N,2025-02-27,A,Private Renter,Resident,9.0,893.0,Y,Y,2021-05-31,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+921178149,2014-02-16,167.0,,Email,N,Y,Resident,N,84.0,N,Y,Y,2025-02-22,B,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+282301048,2013-03-14,17.0,,Email,N,Y,Resident,N,99.0,N,Y,Y,2025-03-27,,Owner,Resident,6.0,986.0,Y,N,2022-08-20,Zone 1 - Agreement,,
+863847198,2006-06-15,156.0,2025-03-16,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+312593657,2018-07-09,75.0,2025-03-14,SMS,Y,N,Resident,N,96.0,N,Y,Y,2025-04-01,A,Private Renter,Resident,8.0,950.0,Y,Y,2021-08-10,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+258568966,2002-01-26,2038.0,,Email,N,Y,Resident,N,42.0,N,Y,N,2024-12-21,,Owner,Resident,9.0,707.0,Y,N,2019-12-27,Zone 1 - Agreement,,
+326501297,2018-03-24,,2025-04-07,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+745133409,2012-06-30,64.0,2025-04-06,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+498595799,2008-08-18,51.0,2025-04-03,SMS,Y,N,Forwarding Address,N,93.0,N,Y,Y,2025-03-14,,Owner,Resident,4.0,989.0,Y,Y,2024-10-17,Zone 3 - Only dp3 says Resident,,
+266536571,2011-03-30,23.0,2025-03-21,SMS,Y,N,Resident,N,89.0,N,Y,N,2025-03-14,B,Owner,Resident,6.0,960.0,Y,Y,2022-05-20,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+681586889,2013-02-15,3045.0,2023-06-12,Email,N,Y,Resident,N,27.0,N,N,Y,2023-05-19,F,Social Renter,Resident,6.0,428.0,Y,Y,2023-12-25,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+427141785,2000-07-22,333.0,2025-03-09,SMS,Y,N,Resident,N,91.0,N,N,N,2025-02-24,,Social Renter,Forwarding Address,9.0,937.0,Y,Y,2021-12-26,Zone 2 - Only dp1 says Resident,,
+735466560,2016-11-11,2046.0,2024-09-24,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+881172023,1996-02-17,24.0,,SMS,Y,N,Resident,N,93.0,N,Y,N,2025-03-27,C,Owner,Resident,2.0,969.0,Y,Y,2025-10-02,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+812551758,2017-12-15,83.0,2025-04-06,SMS,Y,N,Resident,N,96.0,N,N,N,2025-03-13,C,Private Renter,Resident,3.0,952.0,Y,Y,2025-06-04,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+478531743,2001-10-31,2967.0,2024-10-10,Phone,N,N,Forwarding Address,N,34.0,N,Y,Y,2024-10-03,D,Owner,Resident,2.0,515.0,Y,Y,2025-09-19,Zone 3 - Only dp3 says Resident,137.0,Tier 3 – High Risk
+886048343,1996-04-23,2214.0,2024-12-22,Phone,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+101727745,2012-06-10,690.0,2025-02-14,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-12,A,Owner,Resident,7.0,951.0,Y,Y,2023-01-08,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+291859303,2010-04-22,6383.0,2020-03-10,Letter,N,N,Deceased,N,0.0,Y,N,N,2021-11-14,F,Social Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+734796782,1995-02-27,2542.0,2025-03-17,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2025-02-10,D,Social Renter,Resident,5.0,532.0,Y,Y,2023-09-26,Zone 3 - Only dp3 says Resident,160.7,Tier 3 – High Risk
+429484058,2001-02-01,3870.0,2025-01-18,Email,N,Y,Resident,N,23.0,N,N,N,2023-11-03,F,Owner,Resident,2.0,447.0,Y,Y,2025-09-28,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+509762279,2014-03-21,982.0,2025-03-15,SMS,Y,N,Resident,N,94.0,N,Y,Y,2025-03-12,C,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,108.1,Tier 3 – High Risk
+314630499,1996-03-02,73.0,,SMS,Y,N,Resident,N,88.0,N,N,Y,2025-03-20,B,Owner,Resident,9.0,973.0,Y,Y,2020-09-13,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+658827118,2018-06-12,89.0,2025-03-21,SMS,Y,N,Forwarding Address,N,93.0,N,N,Y,2025-04-05,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+478866201,2015-05-22,,2025-03-23,Letter,N,N,Resident,N,30.0,N,N,Y,2025-03-31,E,Social Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,212.6,Tier 3 – High Risk
+949221761,2009-01-26,,2025-04-01,SMS,Y,N,Resident,N,55.0,N,Y,Y,2025-03-16,B,Private Renter,Resident,9.0,887.0,Y,Y,2022-08-06,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+347070350,2015-09-29,3994.0,2024-07-29,Letter,N,N,Forwarding Address,N,27.0,N,N,N,2024-01-15,F,Social Renter,Forwarding Address,6.0,395.0,N,Y,2023-10-06,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+958168105,2005-08-12,3060.0,2023-05-19,Email,N,Y,Resident,N,19.0,N,N,N,2024-03-02,F,Private Renter,Resident,4.0,500.0,Y,Y,2024-10-18,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+178049468,2005-01-23,946.0,,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-03-05,B,Social Renter,Resident,5.0,842.0,Y,Y,2023-09-12,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+290274780,2004-07-29,13.0,2025-04-01,Phone,N,N,Resident,N,85.0,N,N,N,2025-03-10,,Owner,Resident,2.0,984.0,Y,Y,2025-09-22,Zone 1 - Agreement,,
+597654150,2006-07-14,,2025-03-14,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+549692615,2012-12-07,98.0,2025-03-18,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,3.0,965.0,Y,Y,2025-06-28,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+511154791,2004-02-03,26.0,2025-03-18,SMS,Y,N,Resident,N,88.0,N,N,Y,2025-04-06,A,Owner,Resident,5.0,976.0,Y,Y,2024-01-06,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+370881776,2004-03-11,81.0,2025-03-27,SMS,Y,N,Resident,N,85.0,N,N,Y,2025-04-06,A,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.0,Tier 2 – Medium Risk
+327170018,2017-11-03,3615.0,2023-04-08,Letter,N,N,Resident,N,24.0,N,N,N,2024-02-11,C,Social Renter,Resident,6.0,394.0,N,Y,2023-03-14,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+144109833,2001-06-27,3430.0,2023-11-15,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Resident,8.0,319.0,Y,Y,2022-08-31,Zone 3 - Only dp3 says Resident,192.1,Tier 3 – High Risk
+548065337,1995-06-30,1346.0,2025-01-31,Email,N,Y,Unmatched,,,,,,,B,,Resident,2.0,805.0,Y,Y,2025-09-28,Zone 3 - Only dp3 says Resident,,
+792994202,2006-10-20,2254.0,2024-08-25,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3.0,687.0,Y,Y,2025-03-09,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+993512273,2001-02-26,62.0,2025-03-14,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-04-07,A,Owner,Resident,6.0,977.0,Y,Y,2022-11-26,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+200872587,1998-01-11,81.0,2025-03-22,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-03-22,,Private Renter,Resident,5.0,955.0,Y,N,2023-10-09,Zone 1 - Agreement,,
+151239860,2004-04-21,,2025-03-30,SMS,Y,N,Resident,N,85.0,N,Y,Y,2025-03-19,,Owner,Forwarding Address,6.0,83.0,Y,N,2023-12-17,Zone 2 - Only dp1 says Resident,,
+978304808,1997-11-02,2985.0,2024-11-15,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Resident,1.0,517.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,238.0,Tier 3 – High Risk
+437075293,2003-01-30,1405.0,2025-02-06,SMS,Y,N,Resident,N,65.0,N,N,Y,2024-11-29,,Owner,Forwarding Address,2.0,825.0,N,Y,2025-09-27,Zone 2 - Only dp1 says Resident,,
+102724681,2001-01-28,1998.0,2025-03-19,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+724339784,2004-11-29,648.0,,Letter,N,N,Resident,N,90.0,N,N,N,2025-03-09,,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+599748413,2006-10-24,2611.0,2025-01-20,Phone,N,N,Resident,N,26.0,N,N,N,2025-01-30,F,Social Renter,Resident,3.0,505.0,Y,Y,2025-06-05,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+198809815,2016-11-06,2021.0,2024-09-30,Email,N,Y,Resident,N,39.0,N,N,N,2024-09-22,F,Private Renter,Resident,5.0,556.0,Y,Y,2024-01-15,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+206211142,2005-09-11,1722.0,2024-12-13,SMS,Y,N,Resident,N,54.0,N,N,N,2025-02-27,A,Owner,Resident,3.0,736.0,Y,Y,2025-04-23,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+956196043,2009-03-08,1359.0,2025-02-19,Email,N,Y,Resident,N,79.0,N,N,Y,2024-12-02,C,Owner,Resident,1.0,750.0,N,Y,2025-10-03,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+527691154,2011-01-04,2607.0,2024-11-11,Email,N,Y,Resident,N,52.0,N,Y,N,2024-11-07,E,Social Renter,Resident,3.0,507.0,Y,N,2025-06-03,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+375319578,2011-12-09,91.0,2025-03-12,Phone,N,N,Resident,N,92.0,N,N,Y,2025-03-29,A,Owner,Resident,6.0,969.0,Y,Y,2023-12-05,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+132288798,1996-08-19,661.0,2025-03-03,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+277804390,1998-10-12,21.0,2025-03-12,SMS,Y,N,Resident,N,90.0,N,N,Y,2025-03-20,C,Owner,Forwarding Address,8.0,980.0,Y,Y,2020-10-24,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+735000504,2013-09-09,541.0,2025-03-20,Email,N,Y,Resident,N,88.0,N,Y,N,2025-02-23,B,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,99.0,Tier 2 – Medium Risk
+905347182,2012-12-13,1755.0,2024-12-21,SMS,Y,N,Resident,N,74.0,N,N,Y,2024-12-07,D,Private Renter,Resident,3.0,855.0,Y,Y,2025-06-03,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+931857341,2017-12-12,1575.0,2024-12-23,Phone,N,N,Unmatched,,,,,,,,Owner,Resident,7.0,841.0,Y,Y,2022-01-31,Zone 3 - Only dp3 says Resident,,
+702107275,2017-09-28,2180.0,,Phone,N,N,Resident,N,27.0,N,Y,N,2024-11-02,A,Social Renter,Resident,4.0,589.0,N,Y,2024-10-07,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+509256103,2003-05-23,3576.0,2024-12-09,Phone,N,N,Resident,N,16.0,N,N,N,2023-05-08,E,Social Renter,Resident,7.0,319.0,Y,N,2020-12-20,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+864847959,2006-09-26,1490.0,2024-12-24,Email,N,Y,Resident,N,55.0,N,N,N,2025-02-01,D,Owner,Resident,4.0,792.0,Y,N,2024-12-25,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+404567372,2004-02-07,2798.0,,Email,N,Y,Resident,N,40.0,N,N,Y,2024-11-18,B,Private Renter,Resident,9.0,608.0,Y,N,2018-10-02,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+319239117,2002-01-14,433.0,2025-02-11,SMS,Y,N,Resident,N,89.0,N,N,N,2025-02-08,B,Owner,Forwarding Address,5.0,854.0,Y,N,2024-02-06,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+684937948,2003-03-10,31.0,2025-03-21,SMS,Y,N,Unmatched,,,,,,,E,,Resident,4.0,959.0,Y,Y,2024-11-09,Zone 3 - Only dp3 says Resident,,
+972156241,2014-12-13,407.0,2025-03-19,Email,N,Y,Resident,N,92.0,N,Y,N,2025-02-24,B,Owner,Resident,4.0,866.0,Y,Y,2025-01-07,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+758873677,2013-10-24,,2025-03-24,Email,N,Y,Resident,N,25.0,N,N,N,2025-03-28,A,Social Renter,Resident,4.0,914.0,Y,Y,2025-01-21,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+974335046,2017-06-15,1129.0,2025-03-05,SMS,Y,N,Unmatched,,,,,,,A,Owner,Forwarding Address,4.0,828.0,N,Y,2024-10-12,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+975230117,1997-11-02,439.0,2025-03-14,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-13,A,Social Renter,Resident,7.0,937.0,Y,Y,2023-10-16,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+949201383,2006-04-24,2842.0,2025-02-10,Phone,N,N,Resident,N,40.0,N,N,N,2024-10-28,F,Owner,Deceased,,,N,Y,,Zone 2 - Only dp1 says Resident,171.5,Tier 3 – High Risk
+309614232,2010-08-09,443.0,2025-03-20,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+281274204,2002-11-27,2633.0,2024-12-20,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,8.0,609.0,Y,N,2023-06-28,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+540802514,2008-02-25,3945.0,2025-04-06,Phone,N,N,Resident,N,20.0,N,N,N,2023-11-13,E,Private Renter,Resident,7.0,465.0,N,Y,2022-12-08,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+179049932,2008-07-21,1720.0,2024-12-23,Phone,N,N,Resident,N,77.0,N,Y,N,2024-12-22,C,Social Renter,Resident,5.0,777.0,N,Y,2024-07-11,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+367351310,2012-08-06,43.0,2025-03-23,SMS,Y,N,Resident,N,85.0,N,Y,Y,2025-03-14,A,Owner,Resident,7.0,988.0,Y,Y,2021-01-16,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+621123043,2014-05-01,57.0,2025-03-18,SMS,Y,N,Resident,N,96.0,N,Y,Y,2025-03-27,C,Private Renter,Resident,6.0,956.0,Y,N,2024-07-03,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+642190969,1998-12-26,3595.0,,Phone,N,N,Resident,N,19.0,N,N,N,2023-07-11,E,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,212.6,Tier 3 – High Risk
+512778860,1995-03-24,94.0,2025-03-11,SMS,Y,N,Resident,N,95.0,N,N,N,2025-03-28,B,Private Renter,Resident,6.0,978.0,Y,Y,2023-12-09,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+967273874,1998-11-28,258.0,2025-03-14,Email,N,Y,Resident,N,78.0,N,Y,N,2025-03-22,A,Private Renter,Resident,8.0,916.0,Y,Y,2022-08-01,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+783986397,2010-09-14,62.0,2025-03-20,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-14,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+876557087,1997-02-13,472.0,2025-03-10,SMS,Y,N,Resident,N,90.0,N,N,Y,2025-02-27,C,Private Renter,Resident,6.0,886.0,Y,Y,2023-08-30,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+645424237,2014-03-12,1053.0,2025-01-15,SMS,Y,N,Resident,N,55.0,N,Y,Y,2024-12-24,E,Owner,Resident,4.0,797.0,N,Y,2025-04-01,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+479725862,1995-08-24,292.0,2025-03-15,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-11,A,Private Renter,Resident,9.0,912.0,N,Y,2021-02-27,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+269862527,1995-02-08,949.0,2025-03-10,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+987532158,2010-10-04,4469.0,2019-05-26,Letter,N,N,Resident,Y,9.0,N,Y,Y,2022-12-21,F,Social Renter,Resident,7.0,223.0,N,Y,2021-05-30,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+307111297,2006-08-26,46.0,2025-03-20,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-03-10,,Private Renter,Resident,2.0,974.0,Y,Y,2025-09-24,Zone 1 - Agreement,,
+369918467,2007-11-20,22.0,,Email,N,Y,Resident,N,94.0,N,Y,Y,2025-03-30,,Private Renter,Resident,6.0,980.0,Y,Y,2022-12-02,Zone 1 - Agreement,,
+411551298,2008-09-11,54.0,2025-03-29,Phone,N,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+304108878,2012-04-22,,2025-03-22,Letter,N,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+660853543,2014-07-06,2366.0,2024-11-26,Email,N,Y,Unmatched,,,,,,,E,Owner,Resident,3.0,658.0,Y,Y,2025-07-25,Zone 3 - Only dp3 says Resident,144.4,Tier 3 – High Risk
+984811170,2000-09-24,12.0,2025-04-04,Phone,N,N,Unmatched,,,,,,,,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+216133270,2007-08-23,79.0,2025-04-09,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-04-09,B,Social Renter,Resident,3.0,967.0,Y,Y,2025-06-02,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+414551500,2008-11-29,1486.0,2025-03-12,SMS,Y,N,Resident,N,63.0,N,N,N,2024-12-01,C,Owner,Forwarding Address,6.0,879.0,Y,N,2023-10-19,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+259586050,2007-03-03,94.0,2025-03-12,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-04-03,A,Owner,Resident,9.0,968.0,Y,Y,2018-11-02,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+993792506,1995-10-23,2935.0,2024-11-30,Email,N,Y,Resident,N,41.0,N,Y,Y,2025-01-17,E,Owner,Resident,6.0,526.0,Y,Y,2023-04-03,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+554988055,2002-01-29,97.0,2025-03-23,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-04-01,B,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,99.0,Tier 2 – Medium Risk
+200175445,2016-04-22,,2025-03-16,Email,N,Y,Resident,N,31.0,N,N,Y,2025-04-02,E,Private Renter,Forwarding Address,1.0,786.0,Y,N,2025-10-03,Zone 2 - Only dp1 says Resident,192.1,Tier 3 – High Risk
+961132930,2004-06-14,6.0,2025-03-27,Email,N,Y,Deceased,N,0.0,Y,Y,N,2025-03-24,C,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+358060748,2001-07-16,462.0,2025-03-05,SMS,Y,N,Resident,N,77.0,N,Y,Y,2025-02-17,B,Social Renter,Resident,8.0,843.0,N,Y,2019-12-08,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+544540490,2017-12-26,2093.0,2024-12-08,Phone,N,N,Resident,N,60.0,N,Y,Y,2024-10-26,D,Owner,Resident,3.0,708.0,Y,Y,2025-08-22,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+991681392,2001-02-11,1.0,2025-04-06,SMS,Y,N,Resident,N,96.0,N,Y,Y,2025-04-01,B,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,86.8,Tier 2 – Medium Risk
+832982466,2005-01-15,86.0,2025-04-06,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-31,B,Private Renter,Resident,1.0,977.0,Y,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+714394054,2010-01-23,538.0,2025-03-17,Phone,N,N,Resident,N,91.0,N,N,Y,2025-03-23,A,Private Renter,Resident,5.0,858.0,Y,Y,2024-07-30,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+547121414,2001-04-30,5848.0,2019-07-20,Letter,N,N,Resident,Y,10.0,N,Y,Y,2022-08-17,F,Private Renter,Resident,5.0,75.0,Y,Y,2024-05-08,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+831593760,2012-06-27,3419.0,2023-11-26,Phone,N,N,Resident,N,22.0,N,N,N,2023-08-05,F,Private Renter,Resident,6.0,477.0,Y,Y,2023-04-10,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+921611928,2001-07-19,73.0,2025-03-30,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-04-03,A,Owner,Resident,3.0,955.0,Y,Y,2025-05-29,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+338941055,1998-05-11,,,Letter,N,N,Resident,N,21.0,N,Y,N,2025-03-19,B,Owner,Forwarding Address,8.0,367.0,Y,Y,2022-09-23,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+486741382,2001-04-07,4667.0,2021-03-18,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+311038785,2010-02-23,2172.0,2025-03-27,Email,N,Y,Resident,N,34.0,N,N,Y,2024-09-13,F,Owner,Resident,6.0,627.0,Y,N,2022-09-09,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+299869639,2000-11-08,58.0,2025-04-06,Phone,N,N,Forwarding Address,N,96.0,N,Y,N,2025-03-22,A,Owner,Forwarding Address,1.0,987.0,Y,Y,2025-10-03,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+358600742,2017-08-19,45.0,2025-03-27,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-03-27,A,Private Renter,Resident,5.0,973.0,N,Y,2024-07-12,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+988606490,2006-12-07,45.0,2025-04-06,SMS,Y,N,Unmatched,,,,,,,,Owner,Resident,3.0,982.0,Y,Y,2025-05-26,Zone 3 - Only dp3 says Resident,,
+177401549,2012-08-28,5.0,2025-03-16,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+619360858,2001-09-01,1583.0,2025-01-11,Email,N,Y,Resident,N,73.0,N,N,N,2025-01-26,B,Private Renter,Resident,3.0,813.0,Y,Y,2025-08-20,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+948800303,1999-11-25,73.0,,SMS,Y,N,Resident,N,90.0,N,Y,N,2025-04-02,A,Private Renter,Resident,5.0,982.0,Y,Y,2023-11-11,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+123193798,2014-03-06,1462.0,2024-12-17,Email,N,Y,Resident,N,59.0,N,Y,N,2024-11-25,E,Owner,Resident,7.0,858.0,Y,Y,2021-01-22,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+832143050,1997-06-28,17.0,,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-03-26,B,Private Renter,Resident,9.0,988.0,Y,Y,2021-01-22,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+253298985,2004-05-08,,2025-03-30,Letter,N,N,Unmatched,,,,,,,A,Social Renter,Resident,3.0,248.0,Y,Y,2025-08-31,Zone 3 - Only dp3 says Resident,125.7,Tier 3 – High Risk
+268593036,2010-07-06,11.0,2025-03-18,Phone,N,N,Resident,N,99.0,N,Y,N,2025-03-24,A,Owner,Resident,5.0,965.0,Y,Y,2024-04-03,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+845449722,2008-03-07,35.0,2025-04-01,Phone,N,N,Resident,N,98.0,N,Y,N,2025-03-20,E,,Resident,5.0,982.0,Y,Y,2023-09-30,Zone 1 - Agreement,,
+442086666,2015-05-08,4066.0,2021-03-22,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+467736760,2008-11-11,2360.0,2025-02-18,Email,N,Y,Resident,N,53.0,N,Y,N,2024-12-30,E,Private Renter,Resident,7.0,538.0,Y,Y,2023-05-08,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+200218621,2012-02-22,595.0,2025-03-25,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,8.0,900.0,Y,Y,2023-04-22,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+791461280,2009-01-09,85.0,2025-04-07,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-27,A,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+207624094,2010-04-15,3562.0,2024-03-25,Phone,N,N,Resident,N,16.0,N,N,N,2023-08-16,A,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,125.7,Tier 3 – High Risk
+683448389,2006-05-13,1103.0,,SMS,Y,N,Resident,N,78.0,N,N,Y,2025-02-14,F,Owner,Resident,4.0,747.0,N,Y,2024-12-03,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+149576375,2002-08-01,2844.0,2025-02-17,Email,N,Y,Resident,N,53.0,N,N,N,2025-02-24,C,Owner,Resident,7.0,522.0,Y,Y,2024-03-15,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+626538242,2011-05-07,1253.0,,Email,N,Y,Resident,N,54.0,N,Y,Y,2025-02-09,D,Owner,Resident,8.0,826.0,Y,Y,2021-08-22,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+482057671,1995-04-17,1706.0,,SMS,Y,N,Resident,N,55.0,N,Y,N,2024-12-10,D,Private Renter,Resident,2.0,709.0,N,Y,2025-09-22,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+211067138,2016-09-04,,2025-03-10,Phone,N,N,Resident,N,28.0,N,N,Y,2025-04-08,C,,Resident,6.0,198.0,Y,Y,2022-02-20,Zone 1 - Agreement,,
+342345670,2002-08-26,87.0,2025-03-23,SMS,Y,N,Deceased,N,0.0,Y,N,Y,2025-03-15,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+579910599,2011-06-09,1898.0,2024-12-17,SMS,Y,N,Resident,N,79.0,N,Y,N,2024-12-16,E,Private Renter,Resident,1.0,713.0,Y,Y,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+274353592,1999-06-30,3576.0,2024-04-17,SMS,Y,N,Resident,N,28.0,N,N,Y,2023-07-20,E,Private Renter,Resident,2.0,275.0,Y,Y,2025-09-19,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+731587561,2018-06-19,2642.0,2024-09-11,Email,N,Y,Resident,N,44.0,N,N,N,2025-01-25,D,Owner,Resident,7.0,708.0,Y,Y,2022-09-30,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+135558542,1998-02-13,3043.0,2024-10-16,Email,N,Y,Deceased,N,0.0,Y,N,N,2023-08-15,E,Private Renter,Deceased,,,Y,N,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+775846637,1996-03-19,1894.0,2025-03-08,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+906910453,2010-01-03,3278.0,2025-01-16,Letter,N,N,Resident,N,17.0,N,Y,Y,2023-06-20,B,Private Renter,Resident,6.0,372.0,Y,Y,2023-06-23,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+430239795,2000-06-30,2176.0,2024-12-04,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Forwarding Address,9.0,534.0,Y,N,2021-10-29,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+151617898,2006-06-22,,2025-03-10,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Resident,8.0,161.0,Y,Y,2021-11-25,Zone 3 - Only dp3 says Resident,136.7,Tier 3 – High Risk
+674974586,2009-10-13,330.0,2025-03-25,Email,N,Y,Unmatched,,,,,,,A,Social Renter,Resident,6.0,855.0,Y,Y,2022-05-28,Zone 3 - Only dp3 says Resident,125.7,Tier 3 – High Risk
+613928894,2003-05-11,64.0,2025-04-04,Phone,N,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,1.0,950.0,Y,Y,2025-10-03,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+741304687,2003-06-04,563.0,2025-03-16,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-03-14,D,Social Renter,Resident,3.0,960.0,Y,Y,2025-07-31,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+207948967,1995-10-03,892.0,2025-03-10,SMS,Y,N,Resident,N,79.0,N,N,Y,2025-02-08,D,Private Renter,Resident,6.0,949.0,Y,Y,2023-07-07,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+110895918,2007-08-31,68.0,2025-04-05,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+482649386,1995-09-07,77.0,2025-04-02,SMS,Y,N,Resident,N,86.0,N,N,Y,2025-03-13,B,Owner,Resident,7.0,955.0,Y,Y,2022-12-10,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+462788165,2009-11-04,,2025-04-01,Phone,N,N,Deceased,N,0.0,Y,N,N,2025-04-08,D,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+819142306,1999-05-01,1960.0,2025-01-09,Phone,N,N,Resident,N,58.0,N,Y,N,2025-02-14,D,Social Renter,Resident,7.0,864.0,Y,Y,2022-06-11,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+425529755,2016-08-20,7.0,2025-04-09,SMS,Y,N,Resident,N,90.0,N,Y,N,2025-04-09,B,Private Renter,Resident,4.0,986.0,Y,Y,2024-10-17,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+152472190,2010-07-28,3083.0,2023-04-03,Phone,N,N,Resident,N,16.0,N,N,Y,2023-11-29,E,Social Renter,Resident,3.0,364.0,Y,Y,2025-06-17,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+482061056,2015-07-03,370.0,2025-03-18,Email,N,Y,Deceased,N,0.0,Y,N,N,2025-03-06,D,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+251932469,2001-11-23,2026.0,2025-01-18,Email,N,Y,Resident,N,51.0,N,N,N,2024-11-14,C,Owner,Resident,2.0,617.0,Y,Y,2025-10-01,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+938847883,2011-08-31,5.0,2025-03-21,Email,N,Y,Resident,N,89.0,N,N,Y,2025-03-31,A,Owner,Resident,3.0,972.0,Y,Y,2025-05-24,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+535876814,2008-12-03,4501.0,2019-12-30,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+792320040,2015-01-23,18.0,2025-04-04,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-03-14,A,Owner,Resident,5.0,971.0,Y,Y,2023-10-31,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+990957090,2003-06-14,45.0,2025-03-11,SMS,Y,N,Unmatched,,,,,,,B,Owner,Forwarding Address,9.0,963.0,Y,Y,2020-06-30,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+898755027,2016-05-19,,2025-03-29,Phone,N,N,Unmatched,,,,,,,D,Owner,Resident,2.0,611.0,Y,Y,2025-09-19,Zone 3 - Only dp3 says Resident,137.0,Tier 3 – High Risk
+363631081,1998-08-03,2309.0,2025-02-17,Email,N,Y,Resident,N,26.0,N,N,Y,2024-11-25,F,Social Renter,Resident,1.0,517.0,Y,N,2025-10-03,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+229321171,2012-06-18,950.0,2025-03-09,SMS,Y,N,Resident,N,90.0,N,N,Y,2025-03-15,A,Owner,Resident,2.0,883.0,Y,Y,2025-09-25,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+641079246,2004-10-10,2047.0,2024-11-03,Phone,N,N,Resident,N,49.0,N,N,Y,2024-11-04,C,Owner,Resident,8.0,542.0,Y,N,2023-01-06,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+894863438,2013-05-02,510.0,2025-03-12,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,2.0,953.0,Y,Y,2025-09-29,Zone 4 - Neither says Resident,,
+943059248,2004-12-09,225.0,,Email,N,Y,Unmatched,,,,,,,A,Social Renter,Forwarding Address,2.0,876.0,Y,Y,2025-09-19,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+211904295,2006-02-26,3332.0,2023-07-03,Letter,N,N,Resident,N,27.0,N,N,N,2023-04-19,D,Private Renter,Resident,1.0,364.0,Y,Y,2025-10-03,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+127044283,2000-04-19,2093.0,2024-11-23,Phone,N,N,Resident,N,46.0,N,N,Y,2025-01-14,F,Social Renter,Resident,5.0,676.0,Y,Y,2023-11-27,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+650757444,2002-01-20,36.0,2025-03-25,SMS,Y,N,Forwarding Address,N,86.0,N,Y,N,2025-04-08,E,Social Renter,Resident,2.0,983.0,Y,Y,2025-09-25,Zone 3 - Only dp3 says Resident,212.6,Tier 3 – High Risk
+293048991,2001-07-05,2508.0,2025-03-11,Phone,N,N,Resident,N,29.0,N,N,N,2025-01-04,F,Private Renter,Resident,7.0,534.0,Y,N,2022-04-06,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+537580099,2016-06-11,,2025-04-02,Letter,N,N,Resident,N,97.0,N,N,Y,2025-03-28,,Social Renter,Deceased,,,Y,N,,Zone 2 - Only dp1 says Resident,,
+569022607,1995-03-21,504.0,,SMS,Y,N,Resident,N,80.0,N,Y,Y,2025-03-15,B,Private Renter,Resident,8.0,854.0,N,Y,2020-11-05,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+756940253,2006-05-25,663.0,2025-03-21,SMS,Y,N,Resident,N,80.0,N,Y,Y,2025-03-02,D,Private Renter,Resident,2.0,905.0,Y,Y,2025-09-21,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+368799403,2018-04-12,89.0,2025-03-25,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-04-04,A,Owner,Forwarding Address,8.0,968.0,Y,N,2022-06-02,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+627593283,2005-01-13,,2025-04-06,SMS,Y,N,Resident,N,69.0,N,Y,N,2025-03-25,B,Social Renter,Resident,1.0,371.0,Y,Y,2025-10-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+335655632,2016-04-03,46.0,2025-03-22,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1.0,954.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+485762673,2005-09-13,1878.0,2025-03-10,Email,N,Y,Resident,N,70.0,N,Y,N,2024-12-07,D,Social Renter,Resident,5.0,755.0,N,Y,2024-01-11,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+115854033,1999-10-05,763.0,2025-03-07,SMS,Y,N,Resident,N,78.0,N,Y,Y,2025-03-30,D,Owner,Resident,3.0,919.0,Y,Y,2025-03-18,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+335724309,2007-04-20,2746.0,2024-10-06,Phone,N,N,Resident,N,54.0,N,Y,Y,2024-09-10,E,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,144.4,Tier 3 – High Risk
+691753405,1995-01-30,,,Phone,N,N,Resident,N,47.0,N,Y,Y,2025-03-21,A,Social Renter,Forwarding Address,4.0,69.0,Y,Y,2024-10-16,Zone 2 - Only dp1 says Resident,125.7,Tier 3 – High Risk
+833245873,2012-03-13,,2025-03-23,SMS,Y,N,Unmatched,,,,,,,F,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+130305981,2003-11-30,3210.0,2025-01-15,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,9.0,348.0,Y,N,2020-08-15,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+142055730,2000-04-29,2474.0,2024-09-03,Email,N,Y,Resident,N,50.0,N,N,N,2024-09-26,F,Social Renter,Resident,8.0,556.0,Y,Y,2021-04-10,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+886987009,2006-01-28,3550.0,2024-03-23,SMS,Y,N,Resident,N,28.0,N,N,N,2024-01-25,F,Social Renter,Resident,9.0,494.0,Y,Y,2022-03-31,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+782536519,2007-12-21,2546.0,2024-08-23,Email,N,Y,Resident,N,49.0,N,Y,Y,2024-09-28,D,Social Renter,Resident,1.0,672.0,N,Y,2025-10-03,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+235919917,2012-03-15,3008.0,2023-10-09,Phone,N,N,Resident,N,19.0,N,N,N,2023-11-06,F,Social Renter,Resident,8.0,457.0,Y,N,2019-12-11,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+473936649,2012-01-26,,2025-04-09,SMS,Y,N,Resident,N,26.0,N,N,N,2025-04-02,C,Social Renter,Resident,4.0,610.0,Y,Y,2025-04-01,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+732784384,2008-12-23,37.0,2025-03-16,SMS,Y,N,Unmatched,,,,,,,,,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+303600415,2011-07-19,867.0,2025-03-01,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-17,B,Social Renter,Resident,9.0,940.0,Y,Y,2020-11-21,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+918234732,2012-09-07,,2025-03-29,Email,N,Y,Resident,N,15.0,N,Y,Y,2025-03-10,A,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+807628936,2006-05-10,31.0,2025-03-15,Phone,N,N,Forwarding Address,N,91.0,N,Y,Y,2025-03-19,A,Private Renter,Forwarding Address,6.0,969.0,N,Y,2022-10-20,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+122738353,2017-10-22,2892.0,,Email,N,Y,Resident,N,39.0,N,N,N,2024-09-11,E,Social Renter,Resident,5.0,654.0,Y,Y,2024-01-25,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+952734235,2016-10-31,,2025-03-13,Phone,N,N,Resident,N,34.0,N,Y,N,2025-03-20,E,Social Renter,Resident,9.0,855.0,Y,Y,2022-08-13,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+918374410,2005-06-03,2767.0,2025-01-26,Email,N,Y,Resident,N,49.0,N,N,N,2025-02-11,E,Private Renter,Resident,6.0,627.0,Y,Y,2024-04-09,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+602424634,2012-06-03,1538.0,2024-12-16,Email,N,Y,Resident,N,55.0,N,N,Y,2025-01-30,F,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+238152746,2001-10-07,1363.0,2025-02-14,Email,N,Y,Resident,N,79.0,N,Y,Y,2025-01-15,,Owner,Resident,8.0,870.0,Y,Y,2022-10-04,Zone 1 - Agreement,,
+978693146,1996-09-28,93.0,2025-03-26,SMS,Y,N,Resident,N,93.0,N,N,Y,2025-03-20,A,Private Renter,Resident,6.0,982.0,Y,Y,2022-09-28,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+278387760,2000-08-29,36.0,2025-03-20,SMS,Y,N,Resident,N,99.0,N,Y,Y,2025-03-10,A,Owner,Resident,3.0,972.0,Y,Y,2025-04-02,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+161947323,2005-10-05,2902.0,2025-01-30,Phone,N,N,Resident,N,58.0,N,N,N,2024-09-25,D,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+893937490,2014-07-09,1592.0,,Email,N,Y,Resident,N,69.0,N,Y,N,2025-01-30,F,Owner,Resident,5.0,812.0,Y,Y,2024-01-17,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+605297947,2001-09-26,77.0,2025-03-11,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Forwarding Address,9.0,985.0,Y,Y,2020-06-24,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+879027437,2002-12-26,2090.0,2025-02-20,Phone,N,N,Resident,N,34.0,N,N,N,2025-01-01,E,Private Renter,Resident,3.0,576.0,N,N,2025-09-01,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+970502905,2008-07-31,5744.0,2023-08-04,Letter,N,N,Resident,Y,10.0,N,N,N,2022-03-01,F,Social Renter,Resident,4.0,58.0,N,Y,2024-09-14,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+927184103,1997-08-19,,2025-03-30,SMS,Y,N,Resident,N,54.0,N,N,Y,2025-04-06,F,Social Renter,Resident,2.0,832.0,Y,Y,2025-09-18,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+515308316,2013-11-12,458.0,2025-03-19,SMS,Y,N,Resident,N,78.0,N,Y,Y,2025-03-22,B,Private Renter,Resident,1.0,853.0,Y,Y,2025-10-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+198387336,2005-05-07,2608.0,2024-12-30,Email,N,Y,Resident,N,47.0,N,N,N,2025-02-10,F,Social Renter,Resident,1.0,661.0,Y,Y,2025-10-03,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+631975337,1995-07-30,2002.0,2024-10-23,Email,N,Y,Resident,N,39.0,N,N,N,2024-12-24,F,Owner,Resident,4.0,649.0,Y,Y,2024-10-29,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+256259603,2002-10-16,275.0,2025-02-27,SMS,Y,N,Resident,N,88.0,N,Y,Y,2025-02-28,C,Owner,Resident,9.0,919.0,Y,Y,2021-07-12,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+754935111,2017-06-29,2848.0,2025-01-29,Email,N,Y,Resident,N,53.0,N,Y,N,2024-10-10,F,Private Renter,Resident,4.0,621.0,N,Y,2025-03-26,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+109652942,1996-04-28,29.0,2025-03-16,SMS,Y,N,Resident,N,92.0,N,N,Y,2025-03-21,C,Private Renter,Resident,4.0,975.0,Y,Y,2024-11-25,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+238705982,2009-06-23,2624.0,2025-02-06,Letter,N,N,Resident,N,45.0,N,N,N,2024-11-11,D,Social Renter,Resident,8.0,655.0,Y,N,2021-03-28,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+743528761,2011-12-09,,2025-03-25,SMS,Y,N,Resident,N,77.0,N,N,N,2025-03-16,A,Social Renter,Resident,4.0,234.0,Y,Y,2025-03-02,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+423683057,1995-06-13,18.0,2025-03-20,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,6.0,969.0,Y,Y,2022-03-03,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+570603026,2006-01-10,1955.0,2025-03-26,Email,N,Y,Forwarding Address,N,68.0,N,Y,Y,2025-01-11,F,Owner,Forwarding Address,1.0,810.0,Y,N,2025-10-03,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+222122817,2008-10-20,4046.0,2020-02-28,Email,N,Y,Resident,N,14.0,N,N,N,2021-10-03,E,Private Renter,Resident,4.0,237.0,Y,Y,2025-04-01,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+650973054,1995-03-15,777.0,2025-03-13,Email,N,Y,Resident,N,92.0,N,N,N,2025-03-21,D,Owner,Resident,8.0,905.0,Y,Y,2019-09-15,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+902415583,2000-05-22,6.0,2025-03-10,Letter,N,N,Resident,N,89.0,N,Y,Y,2025-04-04,C,Private Renter,Resident,8.0,962.0,Y,Y,2023-05-09,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+943470182,1995-07-21,25.0,2025-03-29,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+590722421,2005-04-02,14.0,2025-03-25,SMS,Y,N,Forwarding Address,N,99.0,N,Y,N,2025-04-06,D,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+953002473,2013-03-31,64.0,2025-03-11,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-04-04,B,Owner,Resident,4.0,959.0,N,Y,2024-09-19,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+136490060,1999-02-06,,2025-03-22,Letter,N,N,Unmatched,,,,,,,B,Owner,Forwarding Address,5.0,37.0,Y,Y,2024-03-28,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+522975892,2004-07-12,765.0,2025-03-01,Email,N,Y,Forwarding Address,N,75.0,N,Y,N,2025-02-23,A,Owner,Resident,4.0,952.0,Y,Y,2025-03-23,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+998179196,2014-07-25,1986.0,2025-02-04,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Resident,2.0,811.0,Y,Y,2025-09-21,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+733458034,2001-01-13,,2025-03-27,Phone,N,N,Unmatched,,,,,,,D,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+165829614,1999-06-01,,2025-03-12,Letter,N,N,Resident,N,50.0,N,Y,N,2025-04-03,A,Social Renter,Resident,5.0,510.0,Y,Y,2023-09-29,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+417470776,1996-07-04,2242.0,2024-11-23,Email,N,Y,Resident,N,47.0,N,Y,N,2024-10-10,C,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,108.1,Tier 3 – High Risk
+138454684,2015-06-23,1315.0,2024-11-29,SMS,Y,N,Resident,N,55.0,N,Y,Y,2025-02-11,B,Private Renter,Resident,9.0,725.0,Y,Y,2019-11-03,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+255694840,2012-02-27,63.0,2025-03-10,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-22,A,Owner,Resident,4.0,959.0,Y,Y,2025-01-31,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+721318329,1996-10-11,,2025-03-14,Email,N,Y,Resident,N,41.0,N,Y,N,2025-03-21,,Owner,Resident,4.0,176.0,Y,Y,2025-01-10,Zone 1 - Agreement,,
+852494370,2011-03-27,3142.0,2025-03-07,Phone,N,N,Resident,N,26.0,N,N,N,2023-09-29,E,Owner,Resident,4.0,474.0,Y,Y,2025-01-22,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+936318190,2018-02-03,1552.0,,Phone,N,N,Resident,N,54.0,N,Y,Y,2024-12-27,F,Private Renter,Forwarding Address,1.0,769.0,Y,N,2025-10-03,Zone 2 - Only dp1 says Resident,213.1,Tier 3 – High Risk
+748292421,2006-01-30,1899.0,2025-01-26,Email,N,Y,Resident,N,70.0,N,N,N,2024-12-08,C,,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+301733992,1997-06-02,,2025-03-24,Letter,N,N,Resident,N,22.0,N,Y,N,2025-03-23,C,Owner,Resident,1.0,404.0,Y,Y,2025-10-03,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+403438377,2002-03-08,4.0,2025-03-27,Email,N,Y,Unmatched,,,,,,,,Social Renter,Resident,9.0,956.0,Y,Y,2022-01-02,Zone 3 - Only dp3 says Resident,,
+398469779,2013-10-23,775.0,2025-02-23,SMS,Y,N,Resident,N,94.0,N,N,Y,2025-03-04,,Private Renter,Resident,8.0,954.0,Y,Y,2022-06-30,Zone 1 - Agreement,,
+471957009,1999-12-18,2.0,2025-04-06,Phone,N,N,Resident,N,89.0,N,Y,Y,2025-03-12,A,Owner,Resident,7.0,970.0,Y,Y,2023-04-11,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+691622014,2015-08-22,7.0,2025-03-19,SMS,Y,N,Resident,N,91.0,N,Y,Y,2025-03-28,B,Owner,Resident,3.0,959.0,Y,Y,2025-07-02,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+953331805,2001-09-28,15.0,2025-03-30,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,9.0,950.0,Y,Y,2022-01-18,Zone 3 - Only dp3 says Resident,73.0,Tier 2 – Medium Risk
+958926809,2017-10-27,2244.0,2025-01-06,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Resident,6.0,503.0,Y,N,2022-08-26,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+725181014,1996-07-31,2232.0,2025-01-03,Email,N,Y,Deceased,N,0.0,Y,Y,N,2024-08-30,F,Private Renter,Deceased,,,N,Y,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+138053884,1997-07-12,4521.0,2019-08-17,Letter,N,N,Resident,Y,6.0,N,N,Y,2019-03-13,F,Social Renter,Deceased,,,Y,N,,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+282892541,2014-01-18,,2025-03-13,SMS,Y,N,Resident,N,44.0,N,N,Y,2025-04-08,B,Social Renter,Resident,1.0,573.0,Y,Y,2025-10-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+775332348,2005-04-18,592.0,2025-02-14,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Resident,9.0,940.0,Y,Y,2022-03-11,Zone 3 - Only dp3 says Resident,86.8,Tier 2 – Medium Risk
+464155364,2004-02-21,1544.0,2025-01-22,Phone,N,N,Unmatched,,,,,,,D,,Resident,7.0,851.0,Y,N,2024-05-27,Zone 3 - Only dp3 says Resident,,
+880763735,2013-11-10,1812.0,2025-02-19,Email,N,Y,Resident,N,64.0,N,N,Y,2024-11-24,C,Private Renter,Resident,9.0,765.0,Y,Y,2019-02-11,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+963922317,2002-10-02,694.0,,SMS,Y,N,Resident,N,81.0,N,Y,N,2025-03-17,D,Owner,Resident,2.0,854.0,Y,Y,2025-09-30,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+940694074,1996-03-02,23.0,2025-03-10,Email,N,Y,Resident,N,90.0,N,N,Y,2025-04-07,C,Private Renter,Resident,5.0,963.0,Y,Y,2024-02-21,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+435717502,2008-04-28,760.0,2025-03-22,Email,N,Y,Deceased,N,0.0,Y,Y,Y,2025-02-23,D,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+600911323,2013-05-17,184.0,2025-03-12,Email,N,Y,Resident,N,89.0,N,Y,Y,2025-03-20,A,Owner,Resident,7.0,919.0,Y,Y,2021-02-13,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+874331178,2015-05-14,1567.0,2024-12-26,Email,N,Y,Deceased,N,0.0,Y,Y,Y,2025-01-15,C,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+185151053,2003-04-13,1985.0,2025-02-03,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Forwarding Address,3.0,862.0,Y,Y,2025-07-01,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+368241195,2004-10-15,99.0,,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-04-09,A,Owner,Resident,3.0,976.0,Y,Y,2025-05-23,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+857375959,2013-01-29,61.0,2025-04-09,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+769834773,2013-05-05,22.0,2025-03-16,Email,N,Y,Resident,N,96.0,N,Y,N,2025-04-05,B,Owner,Resident,6.0,988.0,Y,Y,2023-07-29,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+381465266,2012-03-04,828.0,2025-03-25,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+795348776,2007-06-09,2179.0,2024-10-13,Email,N,Y,Resident,N,27.0,N,N,N,2025-01-03,D,Social Renter,Resident,5.0,533.0,Y,Y,2024-04-24,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+101711316,2014-01-08,27.0,2025-03-15,Email,N,Y,Resident,N,89.0,N,Y,N,2025-03-30,A,Owner,Resident,6.0,951.0,Y,Y,2021-10-02,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+866734639,1996-08-22,65.0,2025-04-07,Email,N,Y,Deceased,N,0.0,Y,Y,Y,2025-04-06,C,,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+281226611,2018-06-28,1216.0,2024-12-14,Email,N,Y,Resident,N,77.0,N,N,Y,2025-02-22,F,Owner,Deceased,,,Y,N,,Zone 2 - Only dp1 says Resident,171.5,Tier 3 – High Risk
+682434809,2001-05-09,64.0,2025-04-07,SMS,Y,N,Resident,N,90.0,N,N,Y,2025-03-21,A,Owner,Resident,9.0,970.0,Y,Y,2021-08-17,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+628635989,2001-09-11,,2025-03-30,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-03-16,E,Social Renter,Resident,7.0,967.0,Y,Y,2021-11-13,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+256173221,2005-04-07,4171.0,2020-09-14,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3.0,25.0,Y,Y,2025-07-04,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+584519245,2017-09-07,20.0,2025-03-28,Phone,N,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,4.0,954.0,Y,Y,2025-04-01,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+343847511,2004-11-19,22.0,2025-03-23,SMS,Y,N,Resident,N,91.0,N,Y,Y,2025-03-23,,Private Renter,Resident,3.0,977.0,Y,N,2025-07-03,Zone 1 - Agreement,,
+207910570,2013-10-10,44.0,2025-03-29,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+154760415,2009-10-20,73.0,2025-03-30,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-12,C,Owner,Resident,6.0,969.0,Y,Y,2022-07-13,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+617721246,2008-07-25,923.0,2025-02-22,SMS,Y,N,Resident,N,92.0,N,Y,N,2025-03-12,A,Social Renter,Resident,9.0,880.0,Y,Y,2021-06-17,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+587526569,2002-05-11,1717.0,2025-02-05,SMS,Y,N,Resident,N,74.0,N,N,N,2025-02-28,D,Social Renter,Resident,7.0,757.0,Y,Y,2020-09-03,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+954460937,2004-05-07,51.0,2025-03-30,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,2.0,979.0,Y,Y,2025-09-26,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+128204887,2017-03-23,365.0,2025-03-06,Phone,N,N,Resident,N,79.0,N,N,Y,2025-02-08,B,Private Renter,Resident,8.0,853.0,N,N,2020-12-08,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+638667680,2008-09-14,1516.0,2024-12-11,Phone,N,N,Resident,N,69.0,N,N,N,2025-02-07,D,Social Renter,Resident,8.0,889.0,Y,Y,2021-03-25,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+877406737,2003-08-23,2122.0,2025-03-28,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+977018664,2006-09-28,779.0,2025-03-06,SMS,Y,N,Resident,N,87.0,N,N,Y,2025-03-10,B,Owner,Resident,1.0,949.0,Y,Y,2025-10-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+320082041,2003-12-20,55.0,2025-03-16,Phone,N,N,Resident,N,98.0,N,Y,Y,2025-03-17,A,Owner,Resident,1.0,956.0,Y,Y,2025-10-03,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+978914017,2013-06-12,37.0,2025-03-15,SMS,Y,N,Unmatched,,,,,,,D,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+710520527,2017-03-30,44.0,2025-03-14,SMS,Y,N,Deceased,N,0.0,Y,Y,N,2025-03-26,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+386945483,2001-02-10,99.0,2025-03-13,Email,N,Y,Resident,N,88.0,N,Y,Y,2025-03-17,A,Owner,Resident,7.0,958.0,Y,Y,2021-01-10,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+716310605,1997-11-19,3436.0,2023-06-08,Phone,N,N,Resident,N,25.0,N,N,N,2023-07-11,F,Owner,Resident,8.0,307.0,N,Y,2022-04-04,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+888120346,2013-04-12,2341.0,2025-02-05,Phone,N,N,Resident,N,36.0,N,N,N,2024-10-07,E,Social Renter,Resident,5.0,708.0,N,Y,2024-02-21,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+496676081,2002-08-27,521.0,,Email,N,Y,Resident,N,89.0,N,Y,Y,2025-03-24,D,Private Renter,Resident,7.0,959.0,Y,Y,2024-02-10,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+266012208,2002-02-13,2625.0,2024-10-15,Email,N,Y,Resident,N,53.0,N,Y,N,2024-09-15,E,Social Renter,Resident,7.0,592.0,Y,Y,2022-06-05,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+352945992,2007-05-06,719.0,2025-03-11,SMS,Y,N,Resident,N,88.0,N,Y,Y,2025-02-25,B,Owner,Resident,2.0,855.0,Y,Y,2025-09-21,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+326426261,2015-10-15,99.0,2025-03-19,SMS,Y,N,Resident,N,94.0,N,Y,Y,2025-03-17,B,Owner,Resident,5.0,983.0,Y,Y,2024-02-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+457721815,2013-11-12,634.0,2025-03-21,SMS,Y,N,Resident,N,85.0,N,Y,Y,2025-03-15,B,Owner,Resident,1.0,929.0,Y,Y,2025-10-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+884291181,1996-10-31,2225.0,2025-02-16,Phone,N,N,Unmatched,,,,,,,D,Private Renter,Forwarding Address,6.0,503.0,Y,N,2024-07-27,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+940579873,2001-05-02,79.0,2025-03-16,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,4.0,960.0,Y,Y,2025-03-02,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+588215957,2012-02-07,3304.0,,Email,N,Y,Unmatched,,,,,,,E,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+568554521,2007-05-31,2822.0,2024-12-17,Phone,N,N,Resident,N,40.0,N,N,N,2025-01-29,A,Private Renter,Resident,3.0,668.0,N,Y,2025-08-28,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+275803142,2003-01-20,96.0,2025-03-13,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+724149977,2006-10-24,2629.0,2024-10-01,Email,N,Y,Resident,N,49.0,N,N,N,2025-01-25,E,Social Renter,Resident,7.0,634.0,Y,Y,2021-03-15,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+928898933,2003-06-28,28.0,2025-03-15,Phone,N,N,Resident,N,85.0,N,Y,Y,2025-03-28,A,Owner,Resident,7.0,976.0,Y,Y,2024-03-01,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+871647576,2003-10-20,3725.0,2023-06-06,Phone,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+595065483,1998-02-21,56.0,2025-04-03,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2025-04-06,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+499843510,2014-12-09,28.0,2025-04-05,SMS,Y,N,Resident,N,98.0,N,Y,N,2025-03-21,E,,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+569117392,2014-05-08,87.0,2025-04-08,Email,N,Y,Resident,N,93.0,N,N,N,2025-04-02,B,Private Renter,Resident,6.0,973.0,Y,Y,2023-07-22,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+405840242,2004-04-21,285.0,2025-02-23,Email,N,Y,Resident,N,86.0,N,N,Y,2025-03-07,D,Private Renter,Resident,4.0,921.0,Y,Y,2025-03-21,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+135277912,1997-03-04,1557.0,2024-12-12,SMS,Y,N,Unmatched,,,,,,,D,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+619773177,2017-11-08,43.0,2025-03-19,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-15,A,Private Renter,Resident,8.0,963.0,Y,Y,2021-08-11,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+736808238,2007-09-26,2117.0,2025-02-16,Email,N,Y,Unmatched,,,,,,,F,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+647801606,2012-11-24,60.0,2025-03-27,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-03-17,B,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+422846134,2003-11-07,674.0,2025-02-25,Email,N,Y,Resident,N,75.0,N,Y,Y,2025-03-22,D,Owner,Resident,5.0,886.0,Y,N,2023-09-25,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+904815710,1996-07-14,4790.0,2019-11-08,Letter,N,N,Resident,N,4.0,N,Y,Y,2019-08-17,F,Private Renter,Resident,1.0,264.0,Y,Y,2025-10-03,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+435797289,2008-03-29,26.0,2025-03-20,Phone,N,N,Resident,N,99.0,N,N,Y,2025-03-25,A,Owner,Resident,3.0,988.0,Y,Y,2025-06-12,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+928566667,2003-05-07,875.0,2025-03-02,Email,N,Y,Resident,N,75.0,N,Y,N,2025-02-27,A,Owner,Resident,5.0,951.0,Y,Y,2023-10-02,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+185800242,2005-11-23,3512.0,2024-06-18,Email,N,Y,Resident,N,22.0,N,N,N,2023-03-15,F,Social Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+561053344,2017-12-28,2900.0,2024-12-24,Letter,N,N,Resident,N,49.0,N,N,N,2025-02-02,F,Social Renter,Resident,3.0,634.0,Y,Y,2025-08-01,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+656694662,2006-10-04,44.0,2025-03-30,Email,N,Y,Deceased,N,0.0,Y,N,Y,2025-03-24,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+584015339,2008-09-09,3936.0,2024-10-18,Phone,N,N,Resident,N,15.0,N,N,N,2024-02-14,D,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,136.7,Tier 3 – High Risk
+182051346,2015-10-02,926.0,2025-03-06,SMS,Y,N,Resident,N,82.0,N,Y,N,2025-02-20,C,Private Renter,Resident,2.0,925.0,Y,Y,2025-09-19,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+647919063,2012-12-02,56.0,2025-04-03,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-04-08,C,Private Renter,Resident,1.0,951.0,Y,Y,2025-10-03,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+834211099,2007-01-18,2702.0,2024-10-18,Email,N,Y,Resident,N,55.0,N,N,Y,2024-09-30,D,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+239773069,2000-05-25,47.0,2025-04-03,Email,N,Y,Resident,N,98.0,N,Y,Y,2025-03-25,A,Owner,Resident,7.0,981.0,Y,Y,2024-01-30,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+999066113,2009-08-13,3221.0,2023-07-03,Email,N,Y,Resident,N,15.0,N,Y,Y,2023-05-01,A,Social Renter,Resident,5.0,260.0,Y,Y,2024-02-08,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+750832456,2008-01-13,177.0,2025-04-04,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Forwarding Address,1.0,920.0,N,Y,2025-10-03,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+246821860,2016-11-17,3369.0,2023-05-15,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+726830740,1998-08-18,2093.0,2025-02-10,Email,N,Y,Resident,N,41.0,N,N,N,2024-09-20,E,Owner,Forwarding Address,6.0,627.0,Y,Y,2024-06-04,Zone 2 - Only dp1 says Resident,144.4,Tier 3 – High Risk
+739217062,2008-02-09,76.0,2025-04-03,SMS,Y,N,Resident,N,98.0,N,Y,Y,2025-03-29,,Owner,Resident,3.0,969.0,Y,Y,2025-07-13,Zone 1 - Agreement,,
+481150497,2010-12-17,587.0,2025-02-25,SMS,Y,N,Resident,N,78.0,N,N,N,2025-02-23,E,Private Renter,Resident,5.0,841.0,Y,Y,2023-10-27,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+290124232,2010-12-17,1054.0,2025-01-22,SMS,Y,N,Resident,N,57.0,N,Y,N,2025-01-29,E,Social Renter,Resident,3.0,734.0,N,Y,2025-03-11,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+934265374,2016-09-04,1306.0,2025-03-14,SMS,Y,N,Resident,N,62.0,N,Y,Y,2025-01-31,D,Private Renter,Deceased,,,N,Y,,Zone 2 - Only dp1 says Resident,136.7,Tier 3 – High Risk
+644114704,2004-07-10,72.0,2025-04-09,SMS,Y,N,Forwarding Address,N,98.0,N,N,Y,2025-04-03,,Owner,Forwarding Address,8.0,970.0,Y,Y,2021-12-08,Zone 4 - Neither says Resident,,
+330942040,2007-05-30,86.0,2025-04-07,SMS,Y,N,Resident,N,99.0,N,Y,N,2025-03-12,A,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+702164976,1995-07-08,5392.0,2024-03-23,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,9.0,11.0,Y,N,2019-05-03,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+279967583,2009-09-04,2371.0,2024-12-29,Phone,N,N,Resident,N,51.0,N,Y,Y,2024-12-01,D,Social Renter,Resident,9.0,684.0,N,N,2022-02-01,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+411733847,2010-09-04,2109.0,2024-12-31,Phone,N,N,Deceased,N,0.0,Y,Y,N,2024-10-30,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+530661137,2007-02-24,2656.0,2024-09-29,Email,N,Y,Unmatched,,,,,,,F,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+299122448,2007-07-27,2329.0,2025-02-22,Email,N,Y,Resident,N,44.0,N,Y,Y,2024-12-28,E,Private Renter,Forwarding Address,3.0,697.0,N,Y,2025-08-29,Zone 2 - Only dp1 says Resident,192.1,Tier 3 – High Risk
+684659481,2002-06-23,2940.0,2025-02-24,SMS,Y,N,Resident,N,30.0,N,Y,N,2024-11-25,E,Social Renter,Resident,5.0,669.0,Y,Y,2024-05-14,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+111349429,2006-08-23,4106.0,2021-05-20,Letter,N,N,Resident,Y,0.0,N,Y,N,2019-05-17,D,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,136.7,Tier 3 – High Risk
+942299819,2015-10-12,1124.0,2025-02-27,SMS,Y,N,Resident,N,80.0,N,Y,N,2024-12-12,B,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+757184264,2018-05-29,66.0,,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-04-09,B,Private Renter,Resident,4.0,950.0,Y,Y,2025-02-23,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+684288496,2009-07-04,217.0,2025-03-05,SMS,Y,N,Resident,N,78.0,N,Y,N,2025-03-11,C,Owner,Resident,5.0,915.0,Y,Y,2024-08-09,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+367179542,2008-03-21,34.0,2025-04-09,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-03-28,B,Social Renter,Resident,3.0,958.0,Y,Y,2025-04-11,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+311769194,1999-04-11,2974.0,,Email,N,Y,Resident,N,37.0,N,Y,N,2024-12-25,E,Social Renter,Resident,2.0,661.0,Y,Y,2025-09-22,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+524953143,2007-06-11,42.0,2025-04-05,SMS,Y,N,Deceased,N,0.0,Y,Y,N,2025-03-13,C,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+331669623,2000-03-08,754.0,2025-02-23,Phone,N,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+836501616,2001-08-11,6.0,2025-03-15,Letter,N,N,Resident,N,95.0,N,N,Y,2025-03-30,A,Owner,Resident,9.0,977.0,Y,Y,2019-01-20,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+184171505,2011-08-28,20.0,2025-03-20,SMS,Y,N,Resident,N,87.0,N,N,Y,2025-03-27,A,Owner,Resident,7.0,958.0,Y,Y,2021-07-28,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+483072967,2009-01-06,2636.0,2025-01-06,Phone,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,192.1,Tier 3 – High Risk
+523174397,2016-07-24,2487.0,2025-02-07,Letter,N,N,Resident,N,50.0,N,Y,N,2025-02-09,D,Owner,Resident,7.0,625.0,Y,Y,2024-01-28,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+554227368,2005-07-29,59.0,2025-04-07,Email,N,Y,Resident,N,95.0,N,N,Y,2025-04-02,A,Owner,Forwarding Address,7.0,960.0,Y,Y,2022-01-16,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+240296075,2003-08-17,2620.0,2024-11-16,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+484550850,2014-05-19,4243.0,2020-02-26,Letter,N,N,Resident,Y,2.0,N,N,N,2020-08-23,F,Social Renter,Resident,5.0,25.0,Y,Y,2023-10-14,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+648598769,2012-10-27,485.0,2025-04-01,SMS,Y,N,Resident,N,77.0,N,N,Y,2025-03-05,,Owner,Resident,4.0,905.0,Y,Y,2024-10-28,Zone 1 - Agreement,,
+337157173,1998-11-25,2680.0,2024-11-02,Phone,N,N,Resident,N,59.0,N,N,N,2024-12-05,F,Owner,Resident,7.0,667.0,Y,N,2022-05-27,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+316053565,2012-09-09,3946.0,2024-07-29,Phone,N,N,Resident,N,23.0,N,N,Y,2023-08-21,F,Social Renter,Resident,1.0,547.0,Y,Y,2025-10-03,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+674109991,2015-07-24,82.0,2025-04-05,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,97.8,Tier 2 – Medium Risk
+384917666,1997-06-25,92.0,2025-03-14,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1.0,961.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+946590722,2018-03-01,1248.0,2024-12-18,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+572318456,2003-06-01,41.0,2025-04-03,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-04-02,A,Owner,Forwarding Address,6.0,976.0,Y,Y,2023-01-18,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+563008860,1998-03-31,60.0,2025-03-27,SMS,Y,N,Resident,N,90.0,N,Y,N,2025-03-29,B,Owner,Resident,7.0,974.0,Y,Y,2022-07-01,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+999681890,2011-02-02,74.0,2025-03-21,SMS,Y,N,Resident,N,93.0,N,N,N,2025-03-20,B,Private Renter,Resident,8.0,977.0,Y,Y,2022-02-06,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+628396458,2009-03-15,51.0,2025-03-22,SMS,Y,N,Unmatched,,,,,,,A,,Resident,6.0,984.0,Y,Y,2021-09-16,Zone 3 - Only dp3 says Resident,,
+985257762,2017-08-15,14.0,2025-03-22,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,2.0,971.0,Y,Y,2025-09-24,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+567252096,2013-08-02,58.0,2025-03-13,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-03-16,B,Owner,Resident,8.0,958.0,Y,Y,2021-09-05,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+172569361,2013-10-20,548.0,2025-03-08,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-14,E,Owner,Resident,1.0,849.0,Y,Y,2025-10-03,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+851288038,2018-02-23,3246.0,2023-10-01,Phone,N,N,Resident,Y,7.0,N,Y,N,2023-08-25,F,Social Renter,Resident,4.0,150.0,Y,Y,2025-01-11,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+885394093,2007-04-18,22.0,2025-04-06,SMS,Y,N,Unmatched,,,,,,,C,Owner,Resident,1.0,977.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+735725983,2007-01-11,,2025-04-04,Letter,N,N,Resident,N,32.0,N,Y,Y,2025-04-06,D,Social Renter,Resident,7.0,285.0,Y,Y,2021-11-23,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+948627719,2002-09-29,95.0,2025-03-16,SMS,Y,N,Forwarding Address,N,93.0,N,N,Y,2025-04-07,A,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+192330985,1995-12-03,2097.0,,Email,N,Y,Resident,N,50.0,N,N,Y,2024-10-11,D,Private Renter,Resident,3.0,703.0,Y,Y,2025-05-01,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+299441961,2003-05-06,2998.0,2024-12-31,SMS,Y,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+145779345,2017-11-14,1085.0,2025-03-18,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+992477280,2015-01-06,86.0,2025-03-16,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,4.0,960.0,Y,Y,2024-10-04,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+857432579,2009-01-02,,2025-03-22,Email,N,Y,Resident,N,99.0,N,Y,Y,2025-03-31,F,Owner,Resident,4.0,184.0,Y,Y,2025-01-12,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+712803721,2008-02-28,3351.0,2025-02-05,Phone,N,N,Resident,N,15.0,N,N,Y,2023-02-12,E,Private Renter,Resident,3.0,415.0,Y,Y,2025-07-16,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+949902886,2007-01-19,,2025-03-15,Email,N,Y,Resident,N,70.0,N,N,N,2025-03-19,E,Owner,Resident,7.0,238.0,Y,Y,2024-02-22,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+580326062,2000-05-12,68.0,2025-03-22,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,9.0,960.0,Y,N,2021-04-24,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+164431465,2016-05-20,2719.0,,Email,N,Y,Resident,N,26.0,N,N,N,2024-09-15,E,Owner,Forwarding Address,5.0,559.0,Y,Y,2023-12-23,Zone 2 - Only dp1 says Resident,144.4,Tier 3 – High Risk
+607490562,2005-07-13,4699.0,2020-03-15,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Resident,7.0,231.0,Y,Y,2024-04-03,Zone 3 - Only dp3 says Resident,238.0,Tier 3 – High Risk
+234551627,2001-11-08,1874.0,2025-01-15,SMS,Y,N,Resident,N,74.0,N,N,Y,2025-01-22,D,Owner,Resident,1.0,859.0,N,Y,2025-10-03,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+512630341,2006-06-11,67.0,2025-03-10,Email,N,Y,Deceased,N,0.0,Y,Y,N,2025-04-05,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+822776781,2012-10-04,2683.0,2025-01-24,Letter,N,N,Unmatched,,,,,,,F,Owner,Resident,8.0,700.0,Y,Y,2020-10-20,Zone 3 - Only dp3 says Resident,171.5,Tier 3 – High Risk
+936946021,2005-06-06,,2025-04-01,Email,N,Y,Resident,N,83.0,N,Y,Y,2025-03-17,,Social Renter,Resident,1.0,824.0,Y,Y,2025-10-03,Zone 1 - Agreement,,
+826515123,1997-09-15,40.0,2025-03-13,Email,N,Y,Resident,N,96.0,N,Y,Y,2025-03-10,A,Owner,Resident,7.0,967.0,Y,Y,2024-04-15,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+474510176,2012-06-20,1506.0,2025-03-25,SMS,Y,N,Resident,N,51.0,N,N,N,2025-01-07,D,Owner,Resident,2.0,808.0,Y,Y,2025-09-27,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+755165644,2018-01-26,4522.0,2023-04-06,Letter,N,N,Resident,N,16.0,N,N,N,2020-12-19,F,Social Renter,Resident,3.0,253.0,Y,Y,2025-05-21,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+405178005,2003-10-25,97.0,2025-03-22,Phone,N,N,Resident,N,85.0,N,Y,Y,2025-03-30,A,Owner,Resident,9.0,973.0,Y,Y,2021-07-14,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+679627775,2002-03-13,26.0,2025-03-15,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,2.0,960.0,Y,Y,2025-09-24,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+213541390,2011-03-23,65.0,,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+662291367,2013-08-09,2219.0,,Email,N,Y,Deceased,N,0.0,Y,N,N,2024-12-20,F,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+453617881,2018-03-19,86.0,2025-03-19,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+551731115,1995-01-16,911.0,2025-03-12,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+745075195,1997-06-05,99.0,,Email,N,Y,Resident,N,88.0,N,N,Y,2025-03-13,C,Owner,Resident,7.0,960.0,Y,Y,2020-11-19,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+987351146,2013-02-12,,2025-03-23,SMS,Y,N,Resident,N,99.0,N,N,N,2025-03-17,B,Owner,Resident,6.0,703.0,Y,Y,2023-05-14,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+704133456,2014-11-27,85.0,2025-03-21,SMS,Y,N,Resident,N,85.0,N,Y,N,2025-03-22,A,Owner,Resident,3.0,990.0,Y,Y,2025-08-02,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+631572444,2012-06-28,25.0,2025-04-03,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+163545540,2006-01-18,77.0,2025-03-18,SMS,Y,N,Resident,N,94.0,N,Y,Y,2025-04-02,A,Private Renter,Resident,2.0,957.0,Y,Y,2025-09-27,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+282730999,2012-03-08,699.0,2025-03-10,Email,N,Y,Resident,N,80.0,N,Y,Y,2025-03-09,C,Private Renter,Resident,8.0,922.0,Y,Y,2022-10-06,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+602776202,1997-06-08,2187.0,,Phone,N,N,Resident,N,50.0,N,N,Y,2024-10-16,E,Private Renter,Resident,5.0,702.0,Y,Y,2023-10-23,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+711723654,2003-01-12,2242.0,2025-03-18,Letter,N,N,Resident,N,29.0,N,Y,N,2024-11-17,F,Owner,Resident,2.0,518.0,N,Y,2025-09-18,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+531647019,2006-06-15,1234.0,2024-12-28,Letter,N,N,Resident,N,78.0,N,N,N,2025-02-12,,Owner,Resident,8.0,846.0,Y,Y,2022-12-26,Zone 1 - Agreement,,
+870636019,2017-05-27,,2025-03-19,SMS,Y,N,Resident,N,91.0,N,N,N,2025-04-09,A,Private Renter,Resident,6.0,652.0,Y,Y,2024-08-19,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+908454602,2007-08-17,,2025-03-11,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,108.1,Tier 3 – High Risk
+214255294,2013-05-16,1735.0,2025-02-22,SMS,Y,N,Resident,N,53.0,N,Y,Y,2025-02-17,F,Private Renter,Resident,7.0,802.0,Y,Y,2021-05-18,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+551085390,2017-12-31,3560.0,2023-11-08,Phone,N,N,Resident,N,26.0,N,Y,N,2023-03-06,E,Private Renter,Resident,3.0,389.0,Y,Y,2025-03-10,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+199973173,1996-03-07,52.0,2025-03-14,SMS,Y,N,Resident,N,89.0,N,N,Y,2025-03-20,,Private Renter,Resident,6.0,969.0,Y,Y,2022-03-01,Zone 1 - Agreement,,
+825313478,1995-08-14,3197.0,2024-10-25,Email,N,Y,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+535208519,2010-06-09,67.0,2025-04-05,SMS,Y,N,Unmatched,,,,,,,,Owner,Resident,3.0,981.0,Y,Y,2025-05-25,Zone 3 - Only dp3 says Resident,,
+868520330,2012-03-11,121.0,2025-03-06,SMS,Y,N,Resident,N,83.0,N,Y,Y,2025-03-14,B,Private Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,86.8,Tier 2 – Medium Risk
+139060917,1997-05-04,15.0,2025-03-23,Email,N,Y,Forwarding Address,N,99.0,N,N,N,2025-03-25,E,Owner,Forwarding Address,5.0,954.0,Y,Y,2023-11-14,Zone 4 - Neither says Resident,144.4,Tier 3 – High Risk
+353840989,2008-10-10,88.0,2025-03-11,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1.0,979.0,N,Y,2025-10-03,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+272840342,2000-03-31,99.0,2025-03-16,Phone,N,N,Resident,N,97.0,N,Y,N,2025-03-11,C,Owner,Resident,8.0,982.0,N,Y,2023-02-08,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+793208927,2013-12-03,99.0,2025-03-15,SMS,Y,N,Resident,N,99.0,N,Y,N,2025-03-16,C,Owner,Resident,4.0,977.0,Y,Y,2025-03-16,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+535140363,2013-04-14,1863.0,2024-12-18,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+342715494,2008-08-22,2567.0,2024-11-01,Email,N,Y,Unmatched,,,,,,,F,Owner,Resident,8.0,563.0,Y,Y,2022-07-19,Zone 3 - Only dp3 says Resident,171.5,Tier 3 – High Risk
+378075233,2000-02-11,41.0,2025-03-27,SMS,Y,N,Resident,N,98.0,N,Y,N,2025-04-06,,Private Renter,Resident,9.0,951.0,Y,Y,2022-06-11,Zone 1 - Agreement,,
+736188103,1997-03-23,60.0,2025-03-25,SMS,Y,N,Resident,N,91.0,N,Y,Y,2025-04-05,A,Owner,Resident,4.0,967.0,Y,Y,2024-10-16,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+362559494,2006-09-23,2476.0,2024-10-28,Phone,N,N,Unmatched,,,,,,,F,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+701827595,2004-04-19,3291.0,2023-08-28,Phone,N,N,Resident,N,28.0,N,N,N,2024-01-17,F,Social Renter,Resident,8.0,256.0,Y,N,2020-08-16,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+591920149,1996-07-05,1069.0,2025-03-22,Phone,N,N,Resident,N,73.0,N,Y,N,2024-12-03,D,,Resident,6.0,849.0,Y,Y,2024-06-28,Zone 1 - Agreement,,
+993261710,2005-02-18,4777.0,,Letter,N,N,Deceased,Y,0.0,Y,N,Y,2021-07-12,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+470220465,2000-04-15,,2025-04-06,Phone,N,N,Resident,N,63.0,N,N,N,2025-04-04,E,Private Renter,Resident,8.0,463.0,Y,Y,2021-10-22,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+768599736,2012-09-06,81.0,2025-03-19,SMS,Y,N,Resident,N,97.0,N,Y,Y,2025-03-16,B,,Resident,7.0,987.0,Y,Y,2022-11-24,Zone 1 - Agreement,,
+504938749,2017-07-10,912.0,2025-03-15,Phone,N,N,Resident,N,75.0,N,Y,N,2025-03-03,D,Owner,Resident,5.0,876.0,Y,N,2023-12-26,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+389709736,2014-10-09,,2025-04-01,Phone,N,N,Resident,N,21.0,N,N,N,2025-03-13,,,Resident,3.0,2.0,Y,Y,2025-08-30,Zone 1 - Agreement,,
+966590364,2010-12-16,258.0,2025-02-14,Phone,N,N,Resident,N,76.0,N,N,Y,2025-03-25,D,Owner,Resident,6.0,916.0,Y,Y,2023-09-27,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+383219505,2008-06-29,2305.0,2024-10-23,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+769674465,2000-07-30,,2025-03-28,SMS,Y,N,Resident,N,38.0,N,Y,Y,2025-03-17,D,Owner,Resident,7.0,477.0,Y,Y,2023-04-30,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+419439177,2018-05-16,1609.0,2025-01-03,Phone,N,N,Resident,N,72.0,N,N,N,2025-02-16,D,Owner,Forwarding Address,4.0,792.0,Y,Y,2024-11-02,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+194477727,1999-11-24,96.0,2025-03-13,SMS,Y,N,Resident,N,99.0,N,Y,Y,2025-03-13,A,Social Renter,Resident,3.0,984.0,Y,Y,2025-05-05,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+347766251,2007-06-12,,2025-03-30,SMS,Y,N,Resident,N,22.0,N,N,Y,2025-03-16,E,Owner,Resident,3.0,794.0,N,Y,2025-03-15,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+849959851,2011-04-04,21.0,2025-03-24,SMS,Y,N,Resident,N,88.0,N,Y,Y,2025-03-11,A,Owner,Resident,8.0,966.0,Y,Y,2020-09-05,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+993893370,2015-04-11,2042.0,2025-01-04,Letter,N,N,Deceased,N,0.0,Y,N,N,2024-10-30,F,Social Renter,Deceased,,,N,N,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+773456945,1995-06-15,78.0,2025-03-29,SMS,Y,N,Unmatched,,,,,,,B,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+138881361,1995-07-16,,2025-03-22,SMS,Y,N,Resident,N,65.0,N,Y,Y,2025-03-15,D,Social Renter,Resident,1.0,616.0,N,Y,2025-10-03,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+265641730,2009-05-17,,2025-03-30,Letter,N,N,Resident,N,40.0,N,Y,Y,2025-04-03,E,Social Renter,Resident,7.0,725.0,N,N,2023-09-08,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+523984082,2004-06-06,3337.0,,Phone,N,N,Resident,N,21.0,N,Y,N,2023-12-04,E,Social Renter,Resident,2.0,275.0,Y,Y,2025-09-28,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+151247175,2008-01-10,1568.0,2025-03-16,SMS,Y,N,Resident,N,77.0,N,Y,Y,2025-01-14,B,Private Renter,Resident,6.0,852.0,Y,Y,2024-01-20,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+393777044,2018-09-16,52.0,2025-03-20,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-03-30,,Owner,Resident,4.0,979.0,Y,Y,2025-03-17,Zone 1 - Agreement,,
+891959671,2017-07-25,1175.0,2025-01-12,Email,N,Y,Resident,N,54.0,N,N,N,2025-01-12,D,Private Renter,Resident,6.0,778.0,Y,Y,2023-06-01,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+834556486,2017-08-01,339.0,2025-03-10,Email,N,Y,Resident,N,83.0,N,Y,Y,2025-03-20,B,Owner,Resident,9.0,951.0,Y,Y,2022-09-02,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+578045735,2016-03-15,826.0,2025-02-19,Phone,N,N,Resident,N,77.0,N,Y,N,2025-03-04,B,Social Renter,Resident,2.0,935.0,Y,Y,2025-09-24,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+805195699,2001-03-18,52.0,2025-03-22,SMS,Y,N,Resident,N,90.0,N,Y,N,2025-03-11,B,Owner,Resident,3.0,981.0,Y,Y,2025-04-02,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+818075967,2014-03-04,740.0,2025-03-24,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+516137993,2015-11-05,654.0,2025-03-26,SMS,Y,N,Deceased,N,0.0,Y,N,N,2025-03-24,B,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+414113517,2017-06-15,2367.0,2025-01-03,Email,N,Y,Resident,N,53.0,N,N,N,2024-11-28,C,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+181501813,2009-08-13,1689.0,2024-11-30,Phone,N,N,Resident,N,70.0,N,N,N,2024-12-14,D,Private Renter,Resident,6.0,753.0,Y,N,2023-04-10,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+177460685,2017-02-28,,2025-03-29,SMS,Y,N,Resident,N,54.0,N,Y,N,2025-04-04,C,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,108.1,Tier 3 – High Risk
+660097512,2014-03-10,957.0,2025-02-27,Email,N,Y,Resident,N,78.0,N,Y,N,2025-02-16,E,Owner,Resident,7.0,855.0,Y,Y,2022-12-24,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+425432804,2000-11-06,1172.0,2025-02-09,SMS,Y,N,Resident,N,56.0,N,Y,N,2024-12-22,B,Social Renter,Resident,1.0,766.0,Y,Y,2025-10-03,Zone 1 - Agreement,99.0,Tier 2 – Medium Risk
+514572087,2003-05-03,2274.0,2025-01-16,SMS,Y,N,Resident,N,40.0,N,Y,Y,2024-10-01,A,Owner,Resident,8.0,516.0,Y,Y,2023-01-17,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+748654834,1996-07-01,2706.0,,Phone,N,N,Resident,N,56.0,N,Y,Y,2024-10-18,E,Private Renter,Resident,6.0,655.0,Y,N,2023-01-16,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+982475200,2017-05-23,64.0,2025-04-02,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,2.0,978.0,Y,Y,2025-10-01,Zone 3 - Only dp3 says Resident,144.7,Tier 3 – High Risk
+358421963,1997-10-30,4416.0,2024-01-20,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk
+167593491,1999-05-17,259.0,,SMS,Y,N,Resident,N,79.0,N,N,N,2025-02-28,B,Private Renter,Resident,9.0,877.0,Y,Y,2020-03-30,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+613637257,2001-03-28,2003.0,,Phone,N,N,Resident,N,51.0,N,N,N,2024-12-07,B,Private Renter,Resident,7.0,660.0,N,Y,2022-10-18,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+397910633,2016-02-20,4606.0,2023-07-27,Letter,N,N,Resident,Y,6.0,N,N,N,2019-05-21,F,Social Renter,Resident,3.0,230.0,Y,Y,2025-04-06,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+331428751,1998-08-15,2210.0,2025-04-03,Letter,N,N,Resident,N,60.0,N,N,N,2024-10-05,E,Social Renter,Resident,9.0,562.0,N,Y,2019-01-04,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+191565897,2009-03-18,31.0,2025-03-31,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-13,A,Owner,Resident,8.0,968.0,Y,Y,2022-08-28,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+125554197,1998-03-25,2178.0,2025-02-19,Email,N,Y,Resident,N,25.0,N,N,N,2024-11-05,D,Social Renter,Resident,9.0,545.0,Y,N,2021-08-27,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+880489675,2009-12-06,2296.0,,Email,N,Y,Resident,N,42.0,N,Y,N,2024-12-08,E,Private Renter,Resident,1.0,614.0,Y,Y,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+745634294,2001-05-14,1072.0,2024-12-17,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,9.0,874.0,Y,Y,2020-02-14,Zone 3 - Only dp3 says Resident,108.1,Tier 3 – High Risk
+411366738,2004-07-01,2930.0,2025-01-11,Email,N,Y,Forwarding Address,N,27.0,N,N,Y,2024-11-24,B,Social Renter,Resident,1.0,685.0,N,Y,2025-10-03,Zone 3 - Only dp3 says Resident,99.0,Tier 2 – Medium Risk
+342589707,2017-09-03,627.0,2025-03-24,SMS,Y,N,Resident,N,80.0,N,Y,Y,2025-03-11,D,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,137.0,Tier 3 – High Risk
+665635039,2010-01-28,1189.0,2025-01-27,Email,N,Y,Resident,N,76.0,N,Y,N,2025-01-12,F,Owner,Resident,9.0,772.0,Y,Y,2020-06-19,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+503262349,2017-10-24,376.0,2025-03-09,Email,N,Y,Resident,N,78.0,N,N,N,2025-03-08,B,Owner,Resident,1.0,914.0,Y,Y,2025-10-03,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+635041990,2010-01-02,1621.0,2025-02-16,Email,N,Y,Resident,N,74.0,N,N,N,2025-01-19,A,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+478858075,2004-03-03,1222.0,2025-02-09,Phone,N,N,Unmatched,,,,,,,C,Owner,Resident,1.0,774.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,97.8,Tier 2 – Medium Risk
+776547649,2016-04-10,886.0,2025-03-12,SMS,Y,N,Resident,N,79.0,N,N,N,2025-02-23,B,Private Renter,Resident,5.0,875.0,Y,Y,2024-07-18,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+164842727,2010-01-10,5375.0,2023-07-03,Letter,N,N,Deceased,Y,0.0,Y,N,N,2019-04-17,E,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,212.6,Tier 3 – High Risk
+315926340,2018-06-26,4121.0,2022-09-28,Letter,N,N,Resident,N,16.0,N,N,N,2020-11-15,,Private Renter,Resident,8.0,89.0,Y,N,2022-07-10,Zone 1 - Agreement,,
+759664863,2000-01-01,16.0,2025-03-17,SMS,Y,N,Resident,N,90.0,N,N,Y,2025-03-22,B,Owner,Resident,9.0,967.0,Y,Y,2021-08-12,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+669513455,2017-06-18,72.0,2025-03-14,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,8.0,983.0,Y,Y,2020-02-25,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+224801646,2012-05-15,86.0,2025-03-11,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-04-01,C,Owner,Resident,9.0,976.0,Y,Y,2019-07-31,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+815806262,2007-06-09,16.0,2025-03-21,SMS,Y,N,Resident,N,86.0,N,Y,Y,2025-03-26,A,Social Renter,Resident,1.0,982.0,Y,Y,2025-10-03,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+313386641,2011-07-04,2088.0,2024-12-02,Phone,N,N,Resident,N,25.0,N,N,Y,2024-08-29,D,Private Renter,Resident,7.0,698.0,Y,Y,2020-10-31,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+206410033,2004-12-03,79.0,2025-04-09,SMS,Y,N,Resident,N,94.0,N,Y,N,2025-03-22,A,Owner,Forwarding Address,9.0,963.0,Y,Y,2020-12-14,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+460467984,1996-02-11,4532.0,,Letter,N,N,Resident,Y,7.0,N,N,N,2021-06-09,E,Private Renter,Resident,1.0,50.0,N,N,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+341825138,2011-02-26,58.0,2025-04-02,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+866157966,2004-09-27,668.0,2025-02-22,Email,N,Y,Resident,N,83.0,N,Y,N,2025-02-24,E,Owner,Resident,1.0,874.0,Y,Y,2025-10-03,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+759768472,2017-05-13,,2025-03-25,Phone,N,N,Resident,N,53.0,N,Y,Y,2025-04-03,A,Social Renter,Resident,7.0,438.0,Y,N,2024-06-20,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+929813215,2011-02-17,1950.0,2025-02-21,Email,N,Y,Forwarding Address,N,73.0,N,N,N,2025-01-25,F,Private Renter,Resident,2.0,721.0,Y,Y,2025-09-23,Zone 3 - Only dp3 says Resident,213.1,Tier 3 – High Risk
+138948828,1995-06-11,1467.0,2025-01-15,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+630936661,1997-12-28,147.0,2025-03-25,Phone,N,N,Deceased,N,0.0,Y,Y,Y,2025-02-14,D,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+801771202,2012-12-17,2406.0,2024-11-17,Phone,N,N,Resident,N,56.0,N,N,N,2024-11-06,E,Owner,Resident,4.0,643.0,Y,Y,2025-04-01,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+741099377,2014-08-02,315.0,2025-03-12,SMS,Y,N,Forwarding Address,N,88.0,N,N,Y,2025-03-04,A,Private Renter,Forwarding Address,9.0,914.0,Y,Y,2019-02-27,Zone 4 - Neither says Resident,73.0,Tier 2 – Medium Risk
+853936434,1996-03-12,3134.0,2023-07-16,SMS,Y,N,Resident,N,28.0,N,N,N,2024-02-10,F,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,238.0,Tier 3 – High Risk
+101683595,2018-05-27,1680.0,2025-03-02,Letter,N,N,Resident,N,65.0,N,N,N,2025-01-01,E,Private Renter,Resident,1.0,881.0,Y,Y,2025-10-03,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+546563286,2007-02-19,1063.0,2024-12-12,Email,N,Y,Resident,N,75.0,N,Y,Y,2025-02-09,D,Social Renter,Forwarding Address,1.0,883.0,Y,Y,2025-10-03,Zone 2 - Only dp1 says Resident,160.7,Tier 3 – High Risk
+687856277,2000-06-11,5024.0,2019-03-01,Letter,N,N,Unmatched,,,,,,,C,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+538284082,2017-07-06,59.0,2025-04-07,SMS,Y,N,Unmatched,,,,,,,C,,Unmatched,,,,,,Zone 4 - Neither says Resident,,
+185251959,2014-08-24,1817.0,2024-12-19,Email,N,Y,Resident,N,58.0,N,N,N,2025-02-19,B,Owner,Resident,9.0,730.0,Y,Y,2021-05-12,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+689095719,2013-05-31,553.0,2025-03-09,Email,N,Y,Resident,N,81.0,N,Y,N,2025-03-04,B,Owner,Resident,9.0,842.0,Y,N,2019-09-25,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+639032183,2002-06-17,35.0,,Email,N,Y,Resident,N,90.0,N,Y,Y,2025-03-20,A,Owner,Resident,3.0,981.0,Y,Y,2025-08-08,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+496221450,2018-08-08,933.0,2025-03-17,SMS,Y,N,Resident,N,93.0,N,Y,N,2025-03-07,C,Social Renter,Resident,1.0,896.0,N,Y,2025-10-03,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+274718119,2017-03-07,,2025-03-30,Email,N,Y,Resident,N,51.0,N,N,N,2025-03-24,E,Private Renter,Resident,4.0,465.0,Y,Y,2025-01-14,Zone 1 - Agreement,192.1,Tier 3 – High Risk
+895386312,2000-03-14,1946.0,,SMS,Y,N,Resident,N,79.0,N,Y,Y,2025-01-25,A,Owner,Resident,3.0,808.0,Y,Y,2025-07-05,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+492344987,2018-07-16,644.0,2025-03-09,SMS,Y,N,Resident,N,94.0,N,N,Y,2025-02-23,B,Owner,Resident,9.0,942.0,Y,Y,2019-02-02,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+471373804,2016-05-11,33.0,2025-03-21,SMS,Y,N,Deceased,N,0.0,Y,Y,Y,2025-03-19,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+772956704,2012-04-06,2121.0,2024-09-02,Email,N,Y,Deceased,N,0.0,Y,N,N,2025-02-07,E,Private Renter,Resident,8.0,610.0,Y,Y,2019-09-17,Zone 3 - Only dp3 says Resident,192.1,Tier 3 – High Risk
+825922744,2012-01-05,4.0,2025-03-23,Phone,N,N,Resident,N,92.0,N,Y,N,2025-03-18,A,Social Renter,Resident,6.0,969.0,Y,Y,2024-02-15,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+364110544,2018-02-12,71.0,2025-04-07,Email,N,Y,Resident,N,97.0,N,Y,Y,2025-04-05,B,Owner,Resident,6.0,950.0,N,Y,2023-02-12,Zone 1 - Agreement,81.6,Tier 2 – Medium Risk
+145701644,2013-05-26,6.0,,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,99.0,Tier 2 – Medium Risk
+796726334,2007-07-11,1761.0,2024-12-10,Email,N,Y,Resident,N,69.0,N,N,N,2024-12-23,C,Owner,Resident,9.0,739.0,N,Y,2019-04-01,Zone 1 - Agreement,97.8,Tier 2 – Medium Risk
+401047732,2001-07-06,739.0,2025-04-02,SMS,Y,N,Resident,N,81.0,N,Y,N,2025-03-13,,Owner,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,,
+419963879,2000-01-14,1352.0,2025-03-13,Phone,N,N,Resident,N,75.0,N,Y,Y,2025-02-24,A,Social Renter,Resident,6.0,861.0,Y,Y,2022-05-03,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+537404147,2000-01-28,612.0,2025-03-02,Email,N,Y,Resident,N,93.0,N,Y,Y,2025-03-16,D,,Resident,9.0,864.0,Y,Y,2022-08-30,Zone 1 - Agreement,,
+273061244,2014-07-21,,2025-04-09,Letter,N,N,Unmatched,,,,,,,A,Owner,Resident,6.0,146.0,N,Y,2022-02-21,Zone 3 - Only dp3 says Resident,73.5,Tier 2 – Medium Risk
+767094752,2005-10-26,557.0,2025-02-22,SMS,Y,N,Resident,N,77.0,N,Y,N,2025-04-08,A,Owner,Forwarding Address,7.0,862.0,Y,Y,2021-11-28,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+671027527,1999-04-27,,2025-03-22,SMS,Y,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+396268156,2018-08-09,878.0,2025-02-25,SMS,Y,N,Resident,N,83.0,N,Y,Y,2025-03-19,A,Owner,Resident,4.0,914.0,Y,N,2024-12-20,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+901068950,2012-06-27,2559.0,2024-11-26,Letter,N,N,Resident,N,41.0,N,N,Y,2024-11-06,E,Social Renter,Resident,4.0,587.0,Y,Y,2025-02-19,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+907565926,2018-02-15,431.0,2025-02-25,SMS,Y,N,Resident,N,92.0,N,N,N,2025-02-21,D,Social Renter,Resident,5.0,925.0,Y,Y,2023-09-10,Zone 1 - Agreement,160.7,Tier 3 – High Risk
+575263370,2003-02-24,2376.0,2024-09-07,Phone,N,N,Deceased,N,0.0,Y,Y,N,2024-09-25,F,,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,,
+503458732,2012-11-26,760.0,,SMS,Y,N,Resident,N,95.0,N,N,Y,2025-03-12,A,Social Renter,Resident,1.0,936.0,Y,Y,2025-10-03,Zone 1 - Agreement,125.7,Tier 3 – High Risk
+151791916,2008-08-29,75.0,2025-04-06,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-03-24,B,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+924449508,1995-02-23,2.0,2025-04-03,SMS,Y,N,Resident,N,91.0,N,N,Y,2025-03-31,A,Owner,Resident,5.0,969.0,Y,Y,2023-09-16,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+189977269,2005-02-27,18.0,2025-03-19,SMS,Y,N,Resident,N,95.0,N,Y,Y,2025-04-04,A,Owner,Resident,5.0,973.0,Y,Y,2024-02-01,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+664829574,2011-01-02,499.0,2025-03-22,Email,N,Y,Resident,N,84.0,N,N,Y,2025-02-25,D,Owner,Resident,1.0,870.0,Y,Y,2025-10-03,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+997890406,2007-03-18,1980.0,2025-02-05,Phone,N,N,Resident,N,72.0,N,N,N,2025-02-08,,Owner,Resident,9.0,819.0,N,Y,2020-09-06,Zone 1 - Agreement,,
+805911389,1999-09-20,1591.0,2025-02-11,SMS,Y,N,Resident,N,72.0,N,N,N,2024-11-22,D,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,160.7,Tier 3 – High Risk
+581440490,2012-02-23,24.0,2025-04-03,Email,N,Y,Resident,N,98.0,N,Y,Y,2025-04-04,B,Private Renter,Resident,8.0,982.0,Y,Y,2021-03-07,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+386888806,1999-02-06,2071.0,2024-12-28,SMS,Y,N,Forwarding Address,N,36.0,N,Y,Y,2025-01-20,C,Social Renter,Forwarding Address,8.0,659.0,Y,Y,2021-08-16,Zone 4 - Neither says Resident,144.7,Tier 3 – High Risk
+738587567,2004-06-28,54.0,2025-03-24,SMS,Y,N,Resident,N,85.0,N,Y,Y,2025-03-30,,Owner,Resident,7.0,960.0,Y,Y,2022-11-18,Zone 1 - Agreement,,
+716008206,2010-07-13,89.0,,SMS,Y,N,Resident,N,85.0,N,N,Y,2025-04-05,C,Private Renter,Resident,9.0,953.0,Y,Y,2021-04-05,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+223549300,2002-07-30,2274.0,2025-03-06,Email,N,Y,Resident,N,34.0,N,Y,Y,2024-09-05,E,Private Renter,Forwarding Address,2.0,509.0,Y,Y,2025-10-01,Zone 2 - Only dp1 says Resident,192.1,Tier 3 – High Risk
+568496921,2004-11-22,2498.0,2025-03-05,Phone,N,N,Resident,N,48.0,N,N,N,2024-09-22,F,Private Renter,Resident,1.0,547.0,Y,N,2025-10-03,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+485074733,2000-01-21,1962.0,2025-02-07,Email,N,Y,Unmatched,,,,,,,D,Private Renter,Resident,1.0,763.0,Y,Y,2025-10-03,Zone 3 - Only dp3 says Resident,136.7,Tier 3 – High Risk
+527493268,1995-07-04,,2025-03-28,Phone,N,N,Resident,N,90.0,N,N,N,2025-03-17,B,Private Renter,Resident,7.0,284.0,Y,Y,2022-04-11,Zone 1 - Agreement,86.8,Tier 2 – Medium Risk
+316996351,2014-09-24,673.0,2025-03-28,Phone,N,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+548640729,1998-11-06,5256.0,2020-08-24,Letter,N,N,Resident,Y,7.0,N,Y,N,2020-10-11,E,Social Renter,Resident,7.0,270.0,Y,Y,2020-10-04,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+278838940,2006-09-28,2832.0,2025-02-27,Email,N,Y,Resident,N,54.0,N,N,N,2025-01-20,E,Social Renter,Resident,1.0,707.0,Y,Y,2025-10-03,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+379590791,1996-04-30,81.0,2025-04-01,SMS,Y,N,Resident,N,93.0,N,Y,Y,2025-04-06,A,Owner,Resident,5.0,980.0,Y,Y,2023-12-31,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+191861971,2001-06-03,2721.0,2024-10-11,Phone,N,N,Resident,N,29.0,N,N,Y,2024-10-27,F,Social Renter,Resident,4.0,659.0,N,Y,2025-01-18,Zone 1 - Agreement,238.0,Tier 3 – High Risk
+176306725,2015-10-23,40.0,2025-03-14,SMS,Y,N,Resident,N,87.0,N,Y,Y,2025-03-30,B,Owner,Forwarding Address,3.0,959.0,Y,Y,2025-05-30,Zone 2 - Only dp1 says Resident,81.6,Tier 2 – Medium Risk
+876280536,2012-05-04,4291.0,2024-08-05,Letter,N,N,Resident,Y,3.0,N,N,N,2020-08-24,,Private Renter,Resident,8.0,172.0,Y,Y,2020-09-22,Zone 1 - Agreement,,
+872610100,2015-09-23,1553.0,2025-01-08,Email,N,Y,Resident,N,79.0,N,Y,Y,2024-12-29,D,Owner,Resident,7.0,759.0,Y,Y,2022-12-02,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+148562116,2007-06-08,75.0,2025-04-05,Email,N,Y,Resident,N,93.0,N,Y,Y,2025-03-10,A,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,73.5,Tier 2 – Medium Risk
+624034719,1998-08-03,64.0,2025-03-10,SMS,Y,N,Resident,N,94.0,N,Y,Y,2025-04-06,E,Owner,Resident,6.0,963.0,Y,Y,2022-10-22,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+363054422,2004-07-20,876.0,2025-02-26,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,,Zone 4 - Neither says Resident,160.7,Tier 3 – High Risk
+770015126,2006-11-03,1686.0,2024-12-23,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Resident,3.0,721.0,N,Y,2025-03-26,Zone 3 - Only dp3 says Resident,160.7,Tier 3 – High Risk
+132265457,1995-11-23,29.0,2025-03-30,SMS,Y,N,Forwarding Address,N,99.0,N,N,Y,2025-03-23,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+117937699,2001-07-03,1637.0,2025-02-25,Email,N,Y,Deceased,N,0.0,Y,N,N,2024-12-20,D,Owner,Deceased,,,Y,N,,Zone 4 - Neither says Resident,137.0,Tier 3 – High Risk
+621254651,2010-02-04,71.0,2025-03-29,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,2.0,986.0,Y,Y,2025-09-28,Zone 3 - Only dp3 says Resident,81.6,Tier 2 – Medium Risk
+221784606,2008-11-01,,2025-03-31,Email,N,Y,Resident,Y,56.0,N,N,Y,2025-03-12,D,Private Renter,Resident,6.0,58.0,Y,Y,2021-10-29,Zone 1 - Agreement,136.7,Tier 3 – High Risk
+468138007,2013-06-01,1646.0,,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,2.0,753.0,Y,Y,2025-09-25,Zone 3 - Only dp3 says Resident,144.7,Tier 3 – High Risk
+450146318,2011-06-15,20.0,,SMS,Y,N,Resident,N,92.0,N,Y,Y,2025-03-12,A,Owner,Resident,2.0,965.0,Y,Y,2025-09-24,Zone 1 - Agreement,73.5,Tier 2 – Medium Risk
+177444760,2008-02-16,1801.0,2025-02-19,Email,N,Y,Resident,N,79.0,N,N,N,2025-02-27,,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,,
+683376374,2015-07-04,2193.0,2024-10-02,Phone,N,N,Resident,N,46.0,N,N,Y,2024-08-31,C,Social Renter,Resident,2.0,709.0,Y,Y,2025-10-02,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+701453953,2009-08-06,97.0,2025-03-18,SMS,Y,N,Forwarding Address,N,96.0,N,Y,Y,2025-03-16,A,Owner,Forwarding Address,6.0,969.0,Y,Y,2022-10-31,Zone 4 - Neither says Resident,73.5,Tier 2 – Medium Risk
+614936958,2012-11-18,1661.0,2024-12-14,Email,N,Y,Resident,N,51.0,N,Y,Y,2024-12-06,C,Owner,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,97.8,Tier 2 – Medium Risk
+941961859,2006-10-18,845.0,2025-02-19,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,136.7,Tier 3 – High Risk
+685813863,1999-06-27,1671.0,2025-02-24,Letter,N,N,Resident,N,80.0,N,Y,N,2024-12-23,F,Owner,Resident,8.0,880.0,Y,N,2023-07-07,Zone 1 - Agreement,171.5,Tier 3 – High Risk
+137630203,1998-03-08,,2025-03-10,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,3.0,437.0,Y,Y,2025-07-14,Zone 3 - Only dp3 says Resident,144.7,Tier 3 – High Risk
+913081390,2005-03-26,,,SMS,Y,N,Resident,N,18.0,N,N,Y,2025-03-26,C,Private Renter,Resident,7.0,1.0,Y,Y,2020-11-18,Zone 1 - Agreement,108.1,Tier 3 – High Risk
+533018755,1996-04-02,2318.0,2024-11-26,Email,N,Y,Resident,N,45.0,N,N,Y,2025-02-09,E,Social Renter,Resident,8.0,687.0,Y,Y,2020-04-18,Zone 1 - Agreement,212.6,Tier 3 – High Risk
+556184177,2015-05-07,2000.0,2025-02-19,Email,N,Y,Resident,N,69.0,N,Y,Y,2024-12-10,E,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,212.6,Tier 3 – High Risk
+858828192,2018-01-30,4327.0,2025-01-05,Letter,N,N,Resident,Y,6.0,N,N,N,2019-09-28,F,Private Renter,Resident,2.0,192.0,Y,Y,2025-09-23,Zone 1 - Agreement,213.1,Tier 3 – High Risk
+711549902,2013-04-15,68.0,2025-03-12,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,3.0,958.0,Y,Y,2025-05-15,Zone 3 - Only dp3 says Resident,73.0,Tier 2 – Medium Risk
+302855087,2006-10-03,,2025-03-31,Email,N,Y,Forwarding Address,N,55.0,N,N,Y,2025-04-03,A,Social Renter,Forwarding Address,7.0,836.0,Y,Y,2022-05-21,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+576733251,2008-08-01,2483.0,2024-12-04,Email,N,Y,Resident,N,34.0,N,N,Y,2024-10-30,E,Owner,Resident,3.0,633.0,Y,N,2025-07-22,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+895654089,2015-11-01,77.0,2025-04-03,SMS,Y,N,Forwarding Address,N,93.0,N,N,N,2025-03-22,B,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,86.8,Tier 2 – Medium Risk
+334563927,1995-04-12,12.0,2025-03-17,SMS,Y,N,Deceased,N,0.0,Y,N,N,2025-04-08,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+747965903,2011-07-04,12.0,2025-03-26,SMS,Y,N,Resident,N,90.0,N,Y,Y,2025-04-07,,Private Renter,Resident,6.0,956.0,Y,Y,2022-02-21,Zone 1 - Agreement,,
+187995843,2004-01-02,1603.0,2024-11-19,Email,N,Y,Resident,N,52.0,N,N,Y,2025-02-04,D,Owner,Resident,8.0,794.0,N,Y,2019-09-09,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+418159485,2011-10-04,3069.0,2024-12-29,SMS,Y,N,Resident,Y,0.0,N,N,N,2023-03-08,,Owner,Resident,5.0,260.0,Y,Y,2024-03-23,Zone 1 - Agreement,,
+463507941,2014-06-21,2001.0,2024-12-08,Phone,N,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,,Zone 4 - Neither says Resident,171.5,Tier 3 – High Risk
+928253117,1996-07-17,2460.0,2024-10-12,Phone,N,N,Deceased,N,0.0,Y,N,Y,2025-02-21,F,Private Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,213.1,Tier 3 – High Risk
+169637283,2009-03-18,1055.0,2025-03-27,Phone,N,N,Resident,N,52.0,N,N,Y,2025-02-20,C,Social Renter,Resident,8.0,790.0,Y,N,2022-12-18,Zone 1 - Agreement,144.7,Tier 3 – High Risk
+822919916,2000-03-13,1339.0,2025-03-25,Phone,N,N,Resident,N,62.0,N,N,N,2025-01-08,B,Social Renter,Unmatched,,,,,,Zone 2 - Only dp1 says Resident,99.0,Tier 2 – Medium Risk
+433003842,2018-08-03,30.0,2025-04-01,SMS,Y,N,Resident,N,89.0,N,Y,Y,2025-03-10,A,Private Renter,Resident,6.0,988.0,N,Y,2023-01-22,Zone 1 - Agreement,73.0,Tier 2 – Medium Risk
+222035324,1997-05-16,542.0,2025-03-10,SMS,Y,N,Resident,N,84.0,N,Y,Y,2025-02-26,C,Private Renter,Deceased,,,Y,Y,,Zone 2 - Only dp1 says Resident,108.1,Tier 3 – High Risk
+169923096,2011-05-17,93.0,2025-04-05,SMS,Y,N,Unmatched,,,,,,,B,Owner,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,81.6,Tier 2 – Medium Risk
+114286918,2018-06-04,2713.0,2024-08-21,SMS,Y,N,Resident,N,29.0,N,N,Y,2025-02-01,E,Owner,Resident,2.0,533.0,Y,Y,2025-09-28,Zone 1 - Agreement,144.4,Tier 3 – High Risk
+169592786,2017-12-29,1313.0,2024-12-09,SMS,Y,N,Resident,N,59.0,N,Y,N,2024-11-30,D,Owner,Resident,7.0,792.0,Y,Y,2022-02-20,Zone 1 - Agreement,137.0,Tier 3 – High Risk
+214257871,2015-01-12,88.0,2025-04-04,Email,N,Y,Deceased,N,0.0,Y,Y,Y,2025-03-15,A,Social Renter,Deceased,,,Y,Y,,Zone 4 - Neither says Resident,125.7,Tier 3 – High Risk
+118925492,2008-07-03,71.0,2025-03-26,SMS,Y,N,Resident,N,94.0,N,N,Y,2025-03-27,A,,Resident,3.0,952.0,Y,Y,2025-03-22,Zone 1 - Agreement,,
+427139427,2014-12-28,4698.0,2023-04-21,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Forwarding Address,9.0,0.0,Y,Y,2021-09-22,Zone 4 - Neither says Resident,238.0,Tier 3 – High Risk

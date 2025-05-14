@@ -1,0 +1,563 @@
+UID,Risk Tier,Final Action,Contact Path,Success,Comment
+194477727,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+384979263,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+278387760,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+793208927,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+626258645,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+768599736,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+193700333,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+444355405,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+644114704,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+895570481,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+572318456,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+956302972,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+739217062,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+231234245,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+259586050,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+245996316,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+274353255,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+551187389,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+178181770,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+874702087,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+216133270,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+378075233,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+569937851,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+393777044,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+106504409,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+189977269,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+407709860,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+858229213,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+941340767,Tier 1 - Low Risk,None,SMS → Email → Call,0,No contact success
+307111297,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+701453953,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+512778860,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+200872587,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+832143050,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+498595799,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+326426261,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+621123043,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+302325791,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+676447399,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+237111459,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+307046892,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+812551758,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+978693146,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+312593657,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+379590791,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+999681890,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+792320040,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+925998290,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+652977133,Tier 1 - Low Risk,None,SMS → Email → Call,0,No contact success
+496458582,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+146189180,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+624034719,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+881172023,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+368241195,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+206410033,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+261250777,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+109652942,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+163545540,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+450621146,Tier 1 - Low Risk,None,SMS → Email → Call,0,No contact success
+425529755,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+118925492,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+343847511,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+450146318,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+484183477,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+924449508,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+822676632,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+277804390,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+103060434,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+805195699,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+433003842,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+948800303,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+367179542,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+736188103,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+691622014,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+563008860,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+224801646,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+647919063,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+759664863,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+682434809,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+643034599,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+347770789,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+993512273,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+606163220,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+954275044,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+694148273,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+747965903,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+199973173,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+511154791,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+567252096,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+932523976,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+368799403,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+948003049,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+611485642,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+266536571,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+546781701,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+725085379,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+314630499,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+849959851,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+767494162,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+841025085,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+815806262,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+650757444,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+921611928,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+928709651,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+191358966,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+944657714,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+173612550,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+367351310,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+757184264,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+704133456,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+398466977,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+849035780,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+128167032,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+907054865,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+619773177,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+832982466,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+423668720,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+184171505,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+176306725,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+191565897,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+741304687,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+953002473,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+154760415,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+994647729,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+492344987,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+398469779,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+427141785,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+255694840,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+503458732,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+282301048,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+482649386,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+464322349,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+738587567,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+707652808,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+907565926,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+141726252,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+499622775,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+716008206,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+581440490,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+239773069,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+333630483,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+510545176,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+830849780,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+769834773,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+139060917,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+256259603,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+691237331,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+975230117,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+741099377,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+854902435,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+826515123,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+369918467,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+160329895,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+209213497,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+575784316,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+876581331,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+364110544,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+479725862,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+977018664,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+433582752,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+876557087,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+554227368,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+496221450,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+101727745,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+830205633,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+702872763,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+569117392,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+303600415,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+853249958,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+745868401,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+457721815,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+818897201,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+182053799,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+639032183,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+615632965,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+617721246,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+319239117,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+938847883,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+940694074,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+670529303,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+897215186,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+229321171,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+741235324,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+358600742,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+166962694,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+231891905,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+865138414,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+684288496,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+101711316,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+894354121,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+477481308,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+114936964,Tier 1 - Low Risk,None,SMS → Email → Call,0,No contact success
+745075195,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+352945992,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+923855486,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+386945483,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+330902021,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+243997861,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+442506900,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+396268156,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+570996653,Tier 1 - Low Risk,Email,SMS → Email,1,Success via Email
+661888095,Tier 1 - Low Risk,Call,SMS → Email → Call,1,Success via Call
+182051346,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+661941758,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+207948967,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+178049468,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+530608356,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+172569361,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+167593491,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+756940253,Tier 1 - Low Risk,SMS,SMS,1,Success via SMS
+820238454,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+496676081,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+304971810,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+648598769,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+600911323,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+115854033,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+714709782,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+450704884,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+569022607,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+299733797,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+963922317,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+639524998,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+557283809,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+515308316,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+202958867,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+405840242,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+628530051,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+510962926,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+650973054,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+834556486,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+972156241,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+776547649,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+767094752,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+697182149,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+822680286,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+949653177,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+358060748,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+537404147,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+481150497,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+920546839,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+704293176,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+420953415,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+878104128,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+967273874,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+664829574,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+503262349,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+282730999,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+414099252,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+435797289,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+866157966,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+702946500,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+530352120,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+151247175,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+920333758,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+522975892,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+845449722,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+268593036,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+111953448,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+928566667,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+272840342,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+299869639,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+360349534,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+278522580,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+320082041,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+689095719,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+270909943,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+943723201,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+836501616,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+555017875,Tier 2 - Medium Risk,None,SMS → Email → Call,0,No contact success
+905347182,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+683448389,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+234551627,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+285732130,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+895386312,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+422846134,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+625413336,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+844406256,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+663034289,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+458710903,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+860392550,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+825922744,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+198428699,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+375319578,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+807628936,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+342153304,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+660097512,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+952214600,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+378351415,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+414551500,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+546563286,Tier 2 - Medium Risk,Email,SMS → Email,1,Success via Email
+471957009,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+238152746,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+902415583,Tier 2 - Medium Risk,SMS,SMS,1,Success via SMS
+437075293,Tier 2 - Medium Risk,Call,SMS → Email → Call,1,Success via Call
+290274780,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+587526569,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+928898933,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+691998973,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+405178005,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+579910599,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+769591034,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+341343663,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+853948239,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+169592786,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+665635039,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+645424237,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+956196043,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+872610100,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+250576578,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+619360858,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+714394054,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+777152916,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+425432804,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+227155108,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+368315520,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+290124232,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+447960041,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+542240545,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+893937490,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+359287877,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+251370646,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+797134839,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+731581993,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+474510176,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+274690833,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+214255294,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+425735148,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+449243758,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+966590364,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+138454684,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+527092278,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+552542730,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+123193798,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+593258104,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+128588998,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+570603026,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+578045735,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+128204887,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+308314476,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+206211142,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+485762673,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+232891241,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+698008219,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+219974147,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+929813215,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+482057671,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+796726334,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+626538242,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+144732605,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+880763735,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+715781077,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+895400665,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+504938749,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+891959671,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+952850128,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+646696178,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+997390935,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+864847959,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+556212494,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+685813863,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+531647019,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+187995843,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+419963879,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+591920149,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+620761294,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+861266532,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+185251959,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+320509935,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+427766840,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+968150791,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+361021241,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+638667680,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+922412687,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+786160296,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+496191591,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+391210228,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+957994679,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+857593580,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+179049932,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+502703183,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+101683595,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+496348983,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+419439177,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+997890406,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+192330985,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+469237822,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+386888806,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+600409006,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+278838940,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+181501813,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+899777980,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+570996218,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+251932469,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+258568966,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+961151002,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+819142306,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+782536519,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+533018755,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+299122448,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+950641540,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+731587561,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+169637283,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+198387336,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+922056652,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+754935111,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+724149977,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+266012208,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+514572087,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+230836826,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+684659481,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+918374410,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+631975337,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+467736760,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+726830740,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+936318190,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+990120813,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+330074074,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+142055730,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+880489675,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+632910038,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+180148358,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+794950581,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+149576375,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+527691154,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+544540490,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+122738353,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+311038785,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+198809815,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+176849717,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+311769194,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+661650397,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+404567372,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+504124986,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+576733251,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+114286918,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+382594975,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+913731479,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+411366738,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+474808016,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+337157173,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+602776202,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+993792506,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+613637257,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+801771202,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+279967583,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+223549300,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+683376374,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+748654834,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+331428751,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+127044283,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+886987009,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+795348776,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+125554197,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+388292647,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+164431465,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+363631081,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+523174397,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+535182014,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+254088791,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+889379831,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+293957703,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+238705982,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+561053344,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+888120346,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+641079246,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+481623203,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+568554521,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+568496921,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+857544841,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+391547504,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+901068950,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+313386641,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+806513258,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+627539131,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+772956704,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+905808569,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+681586889,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+958168105,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+472623681,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+163600593,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+879027437,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+274353592,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+219776171,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+191861971,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+645227299,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+702107275,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+429484058,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+142369338,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+950979079,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+711723654,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+293048991,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+261904985,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+478531743,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+558907726,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+179004913,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+933782995,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+599748413,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+418159485,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+456534349,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+999066113,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+852494370,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+514224829,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+316053565,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+831593760,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+235919917,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+634929326,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+915535571,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+222122817,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+211904295,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+551085390,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+734796782,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+327170018,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+540802514,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+347070350,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+584203193,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+835239506,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+712803721,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+815396619,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+239948135,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+152472190,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+906910453,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+716310605,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+957753922,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+701827595,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+202312981,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+278236549,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+523984082,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+625034800,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+509256103,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+152128816,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+153693439,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+281669130,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+680261899,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+755165644,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+666201152,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+851288038,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+558350373,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+151114404,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+791815758,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+987532158,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+315926340,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+537279802,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+397910633,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+904815710,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+858828192,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+548640729,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+876280536,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+577758674,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+134848953,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+717419609,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+869451307,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+356089749,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+683040413,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+458062255,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+976000380,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+935102197,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+460467984,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+484550850,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
+516195093,Tier 3 - High Risk,Call,SMS → Email → Call,1,Success via Call
+547121414,Tier 3 - High Risk,Email,SMS → Email,1,Success via Email
+970502905,Tier 3 - High Risk,SMS,SMS,1,Success via SMS
+848417976,Tier 3 - High Risk,None,SMS → Email → Call,0,No contact success
