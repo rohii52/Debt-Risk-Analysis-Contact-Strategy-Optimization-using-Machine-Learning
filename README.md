@@ -42,12 +42,13 @@ This project is a complete end-to-end case study on optimizing debt recovery usi
 
 ---
 
-## 🤖 CD Bot (LLM Assistant)
+## 🤖 Project Yellow (LLM Assistant)
 
 Built a Flask + LangChain-based assistant that:
 - Understands company and project context
 - Answers queries using custom memory, prompt injection, and vector DB
 - Responds to internal team members or external users differently
+- Please email me for the whole pipeline and source code of this AI Assistant
 
 ---
 
@@ -63,7 +64,7 @@ Built a Flask + LangChain-based assistant that:
 ## 📁 Folders
 
 ```
-📦 Notebooks
+📦 Python Notebooks
  ┣ 📄 test_1.ipynb               ← Cleaning + Scoring + Zones
  ┣ 📄 unique_segment_scores.ipynb← Segment Score Logic
  ┣ 📄 risk_prediction_xgboost.ipynb
@@ -73,11 +74,9 @@ Built a Flask + LangChain-based assistant that:
  ┣ 📄 Anomaly_Detection.ipynb
  ┗ 📄 deep_mobile_prediction_model.ipynb
 
-📦 Flask_Bot
- ┣ 📄 CD_bot.py                  ← Flask Server
- ┣ 📄 templates/chat.html
- ┣ 📄 static/cd_logo.png
- ┗ 📄 memory/                    ← txt files for project & company knowledge
+📦 Project Yellow
+ ┣ 📄 Project Yellow.mp4         ← Demo Video
+
 ```
 
 ---
