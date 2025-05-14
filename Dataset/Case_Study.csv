@@ -1,0 +1,1001 @@
+﻿UID,Account Open Date,Arrears Balance,Last Payment Date,Last Collections Action,Mobile Flag,Email Flag,dp1 Result Code,dp1 IVA/CCJ Flag,dp1 Score,dp1 Deceased Flag,dp1 Mobile Flag,dp1 Email Flag,dp1 Latest Residency Confirmation Date,dp2 Council Tax Band,dp2 Occupancy Style,dp3 Match Type,dp3 Match Level,dp3 Score,dp3 Mobile Flag,dp3 Email Flag,dp3 Latest Residency Confirmation Date
+320509935,24/07/1996,16,19/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,N,21/03/2025,C,Owner,Forwarding Address,7,963,Y,Y,12/07/2023
+665617030,03/06/2018,175,01/03/2025,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,7,854,Y,Y,01/11/2023
+725301195,15/11/2013,,,SMS,Y,N,Resident,N,46,N,Y,Y,10/03/2025,C,Social Renter,Unmatched,,,,,
+339206697,05/03/2015,2224,05/03/2025,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Resident,7,611,Y,Y,16/03/2023
+737529315,29/11/2010,3737,18/11/2023,Email,N,Y,Unmatched,,,,,,,E,Owner,Forwarding Address,9,299,Y,Y,17/12/2018
+920546839,10/01/2007,534,02/03/2025,SMS,Y,N,Resident,N,76,N,Y,N,02/03/2025,,Owner,Forwarding Address,5,855,Y,N,09/06/2024
+857544841,09/07/2005,2821,,Phone,N,N,Resident,N,39,N,N,N,03/01/2025,E,Owner,Resident,8,665,N,Y,05/04/2020
+205263952,02/02/2001,2341,14/02/2025,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+741235324,04/12/2013,309,28/03/2025,SMS,Y,N,Resident,N,82,N,N,N,15/02/2025,A,Private Renter,Resident,4,893,Y,N,25/10/2024
+153693439,17/10/2016,3879,,Phone,N,N,Resident,N,16,N,Y,N,03/06/2023,E,Private Renter,Resident,2,296,Y,Y,22/09/2025
+146189180,14/01/1995,40,11/03/2025,SMS,Y,N,Resident,N,93,N,Y,Y,22/03/2025,C,Owner,Resident,6,971,N,Y,12/11/2021
+915535571,11/06/2007,4120,29/04/2019,Email,N,Y,Resident,N,14,N,N,N,12/08/2021,F,Social Renter,Resident,8,269,N,Y,07/10/2022
+876581331,02/08/2007,48,21/03/2025,Email,N,Y,Resident,N,93,N,N,N,31/03/2025,B,Owner,Forwarding Address,5,988,Y,Y,17/11/2023
+265579534,23/07/2000,32,17/03/2025,SMS,Y,N,Deceased,N,0,Y,N,Y,27/03/2025,A,Owner,Deceased,,,Y,N,
+952214600,08/01/1997,1306,20/01/2025,SMS,Y,N,Resident,N,73,N,N,N,29/12/2024,C,Owner,Resident,7,768,Y,Y,15/09/2021
+830205633,19/03/2010,3,19/03/2025,Email,N,Y,Resident,N,91,N,Y,N,10/03/2025,C,Social Renter,Resident,7,989,Y,Y,19/06/2022
+202312981,21/02/2015,3036,11/12/2024,Letter,N,N,Resident,N,19,N,N,N,03/11/2023,B,Social Renter,Resident,1,320,Y,Y,03/10/2025
+414099252,08/01/2009,995,08/03/2025,Email,N,Y,Forwarding Address,N,82,N,Y,Y,28/02/2025,C,Owner,Resident,2,930,Y,Y,30/09/2025
+626258645,07/01/1995,15,05/04/2025,SMS,Y,N,Forwarding Address,N,98,N,Y,Y,16/03/2025,A,Social Renter,Forwarding Address,6,975,Y,Y,27/06/2024
+820238454,11/04/1997,64,,Email,N,Y,Resident,N,85,N,Y,N,12/03/2025,B,,Resident,8,955,Y,Y,04/12/2022
+853948239,08/10/2008,1757,10/03/2025,SMS,Y,N,Resident,N,73,N,N,Y,16/02/2025,C,Owner,Forwarding Address,3,706,N,Y,04/04/2025
+797134839,11/04/1998,1320,10/02/2025,SMS,Y,N,Resident,N,50,N,Y,N,04/12/2024,D,Owner,Resident,2,803,Y,Y,26/09/2025
+701553550,24/10/1995,2896,20/11/2024,Email,N,Y,Resident,N,53,N,N,N,16/12/2024,B,Owner,Deceased,,,Y,Y,
+943723201,20/11/2001,896,27/02/2025,Email,N,Y,Resident,N,82,N,N,Y,09/03/2025,C,Owner,Resident,3,866,Y,N,29/05/2025
+673408969,01/08/2007,22,11/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,
+949653177,28/02/2015,929,11/03/2025,SMS,Y,N,Resident,N,81,N,N,Y,18/02/2025,B,Owner,Resident,4,853,Y,Y,05/09/2024
+160329895,11/12/2010,379,07/02/2025,SMS,Y,N,Resident,N,94,N,N,Y,22/03/2025,C,Private Renter,Resident,4,849,Y,Y,17/10/2024
+516195093,22/01/2018,4907,,Letter,N,N,Resident,Y,1,N,N,N,20/06/2020,F,,Resident,1,75,N,Y,03/10/2025
+897215186,05/09/2000,79,06/04/2025,Email,N,Y,Resident,N,89,N,N,N,14/03/2025,B,Owner,Resident,3,977,N,Y,23/07/2025
+929911724,26/10/2017,28,08/04/2025,SMS,Y,N,Unmatched,,,,,,,B,,Resident,6,984,Y,Y,14/01/2023
+821542299,05/05/2015,,04/04/2025,Email,N,Y,Resident,N,89,N,Y,N,16/03/2025,A,Private Renter,Unmatched,,,,,
+954275044,06/02/2007,96,22/03/2025,SMS,Y,N,Resident,N,89,N,Y,Y,21/03/2025,B,Private Renter,Resident,6,977,Y,Y,31/01/2022
+644536408,08/04/2008,2009,27/10/2024,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Resident,7,512,N,N,14/11/2022
+318943984,16/05/2018,2283,11/12/2024,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Resident,7,600,Y,Y,13/11/2022
+152128816,06/11/2012,3365,17/10/2024,Letter,N,N,Resident,N,15,N,Y,Y,20/03/2023,E,Private Renter,Resident,1,282,Y,Y,03/10/2025
+376917175,20/06/2010,2007,10/01/2025,Phone,N,N,Unmatched,,,,,,,,Owner,Deceased,,,Y,Y,
+636118594,31/10/1999,2655,22/11/2024,Phone,N,N,Deceased,N,0,Y,Y,Y,25/09/2024,C,Private Renter,Deceased,,,Y,N,
+895570481,04/08/2000,66,24/03/2025,SMS,Y,N,Resident,N,99,N,Y,Y,07/04/2025,,Owner,Resident,9,959,Y,Y,14/08/2019
+227155108,12/02/1999,1257,30/12/2024,Email,N,Y,Resident,N,80,N,Y,Y,13/12/2024,B,Owner,Resident,7,701,Y,Y,02/02/2022
+496348983,04/05/2009,1726,01/02/2025,Email,N,Y,Resident,N,50,N,N,Y,02/01/2025,E,,Resident,8,700,Y,Y,09/07/2020
+341349808,06/04/2000,114,23/03/2025,Email,N,Y,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+857593580,09/07/2000,2213,26/02/2025,SMS,Y,N,Resident,N,39,N,N,N,13/11/2024,E,Owner,Resident,1,709,Y,Y,03/10/2025
+464322349,24/03/2013,69,09/04/2025,SMS,Y,N,Resident,N,85,N,Y,N,14/03/2025,B,Private Renter,Resident,2,964,Y,Y,23/09/2025
+613696709,17/03/2010,1337,28/12/2024,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,
+474808016,27/03/1998,2971,18/10/2024,Email,N,Y,Resident,N,28,N,N,N,03/09/2024,E,Private Renter,Resident,8,675,N,Y,25/12/2019
+237111459,11/12/2017,18,23/03/2025,SMS,Y,N,Resident,N,92,N,Y,Y,06/04/2025,B,Owner,Resident,5,989,Y,Y,04/05/2024
+835239506,13/08/2001,3584,24/04/2024,Phone,N,N,Resident,N,22,N,Y,N,24/07/2023,F,Social Renter,Forwarding Address,6,379,Y,Y,18/12/2022
+330074074,20/05/2005,1696,18/02/2025,Phone,N,N,Resident,N,62,N,N,Y,24/11/2024,E,Social Renter,Resident,7,701,Y,Y,07/04/2021
+694148273,20/04/2001,224,15/03/2025,SMS,Y,N,Resident,N,92,N,Y,Y,15/03/2025,A,Social Renter,Resident,6,959,Y,Y,20/10/2022
+357654044,07/04/2005,100,28/03/2025,SMS,Y,N,Unmatched,,,,,,,A,,Resident,6,968,Y,Y,06/12/2023
+176849717,15/12/2012,2512,23/12/2024,SMS,Y,N,Resident,N,27,N,N,N,27/10/2024,F,Private Renter,Resident,3,549,Y,Y,27/08/2025
+826693495,21/10/2011,1734,17/01/2025,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+865138414,24/10/2007,34,17/03/2025,Email,N,Y,Resident,N,88,N,Y,Y,06/04/2025,A,Owner,Resident,6,966,Y,Y,28/01/2022
+861026783,12/06/2002,,18/03/2025,Email,N,Y,Resident,N,42,N,Y,Y,03/04/2025,F,,Resident,8,702,N,Y,24/02/2023
+643034599,10/07/2017,17,21/03/2025,SMS,Y,N,Resident,N,91,N,Y,N,28/03/2025,A,Private Renter,Resident,5,954,N,Y,17/12/2023
+346717172,01/08/2011,21,21/03/2025,Email,N,Y,Unmatched,,,,,,,,Owner,Unmatched,,,,,
+860392550,18/05/2007,1351,,SMS,Y,N,Resident,N,74,N,Y,N,03/12/2024,,Private Renter,Forwarding Address,7,789,Y,Y,16/02/2021
+923855486,09/08/2001,47,17/03/2025,Email,N,Y,Resident,N,86,N,Y,N,08/04/2025,B,Owner,Resident,5,974,Y,Y,11/11/2023
+261250777,13/04/1997,74,22/03/2025,SMS,Y,N,Resident,N,93,N,N,Y,21/03/2025,C,Owner,Resident,1,972,Y,Y,03/10/2025
+832608454,15/12/2000,2761,01/09/2024,Phone,N,N,Deceased,N,0,Y,N,N,01/10/2024,,Private Renter,Deceased,,,N,Y,
+159411917,12/08/2001,5463,28/11/2020,Phone,N,N,Unmatched,,,,,,,F,Private Renter,Resident,4,243,Y,Y,05/02/2025
+854902435,10/01/1996,74,14/03/2025,Email,N,Y,Resident,N,98,N,N,Y,18/03/2025,A,Social Renter,Resident,1,955,Y,Y,03/10/2025
+630016911,04/12/2015,,09/04/2025,Letter,N,N,Deceased,N,0,Y,Y,N,23/03/2025,D,Owner,Deceased,,,Y,N,
+391615365,21/09/1998,69,20/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,07/04/2025,B,Owner,Deceased,,,Y,Y,
+951229030,03/08/2001,2405,30/10/2024,Phone,N,N,Unmatched,,,,,,,D,Social Renter,Resident,5,622,Y,Y,18/12/2023
+384979263,18/11/2006,68,18/03/2025,SMS,Y,N,Resident,N,98,N,Y,N,25/03/2025,C,Owner,Resident,9,988,Y,Y,11/10/2021
+861266532,05/08/2002,2120,20/10/2024,SMS,Y,N,Resident,N,51,N,N,Y,14/08/2024,D,Private Renter,Resident,3,666,N,Y,18/06/2025
+259442689,29/06/2004,27,16/03/2025,Email,N,Y,Deceased,N,0,Y,N,Y,21/03/2025,A,Owner,Deceased,,,Y,Y,
+794950581,16/05/2002,2415,03/01/2025,Email,N,Y,Resident,N,36,N,Y,N,05/01/2025,E,Private Renter,Resident,9,660,Y,Y,14/02/2022
+773567736,31/03/2004,904,28/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Social Renter,Unmatched,,,,,
+717419609,27/11/1998,3439,04/01/2025,Phone,N,N,Resident,Y,7,N,N,N,03/06/2023,E,Social Renter,Resident,9,17,Y,N,07/07/2021
+843492217,22/04/2016,240,25/02/2025,Email,N,Y,Unmatched,,,,,,,B,Owner,Resident,2,939,Y,Y,19/09/2025
+219776171,27/04/2007,2955,04/02/2025,Phone,N,N,Resident,N,41,N,N,N,12/10/2024,D,Social Renter,Resident,4,582,Y,Y,30/11/2024
+993133886,11/10/2006,2869,22/02/2025,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+957753922,26/01/2006,3247,27/11/2023,Phone,N,N,Resident,N,16,N,N,N,24/04/2023,F,Social Renter,Resident,3,375,Y,Y,10/03/2025
+791815758,04/05/2001,5002,21/07/2020,Letter,N,N,Resident,N,19,N,N,N,24/11/2020,F,Social Renter,Resident,7,179,Y,Y,16/06/2021
+943918762,13/02/2012,3091,13/11/2023,Phone,N,N,Deceased,N,0,Y,N,N,25/12/2023,,Private Renter,Deceased,,,N,Y,
+202958867,27/09/2012,384,01/03/2025,Email,N,Y,Forwarding Address,N,89,N,Y,Y,12/03/2025,D,Private Renter,Forwarding Address,7,902,Y,Y,27/09/2020
+702946500,26/01/1999,998,,Email,N,Y,Resident,N,85,N,N,N,07/03/2025,B,Private Renter,Resident,1,887,N,Y,03/10/2025
+384931346,05/08/2009,,01/04/2025,SMS,Y,N,Resident,N,13,N,Y,N,04/04/2025,C,Private Renter,Resident,3,753,Y,Y,22/06/2025
+191358966,29/12/2000,61,25/03/2025,SMS,Y,N,Resident,N,89,N,Y,Y,22/03/2025,A,Private Renter,Resident,5,951,Y,Y,13/05/2024
+600590519,22/09/2008,2996,02/10/2024,Phone,N,N,Deceased,N,0,Y,Y,Y,04/12/2024,F,Social Renter,Deceased,,,Y,N,
+610763039,23/06/2018,1880,19/02/2025,Email,N,Y,Unmatched,,,,,,,B,Owner,Resident,1,840,Y,Y,03/10/2025
+278236549,05/03/2017,3776,27/06/2023,Phone,N,N,Resident,N,23,N,N,Y,07/02/2024,E,Social Renter,Resident,1,326,N,Y,03/10/2025
+933782995,03/06/1997,3182,16/02/2025,Email,N,Y,Resident,N,16,N,N,N,14/11/2023,F,Private Renter,Resident,2,342,Y,Y,23/09/2025
+341343663,09/04/2014,189,18/02/2025,Phone,N,N,Resident,N,86,N,Y,N,10/03/2025,D,Social Renter,Resident,9,954,Y,Y,28/06/2022
+530352120,28/10/2007,98,31/03/2025,Letter,N,N,Resident,N,99,N,Y,Y,27/03/2025,A,Private Renter,Resident,9,988,Y,Y,17/11/2019
+484183477,02/03/2013,86,,SMS,Y,N,Resident,N,93,N,N,N,05/04/2025,C,Private Renter,Resident,6,959,Y,Y,19/08/2022
+512448337,08/02/1997,504,10/03/2025,SMS,Y,N,Resident,N,75,N,N,N,31/03/2025,A,Owner,Unmatched,,,,,
+556212494,25/05/2000,1711,22/02/2025,Email,N,Y,Resident,N,58,N,N,Y,30/01/2025,C,Private Renter,Resident,4,771,Y,Y,17/09/2024
+489299107,22/06/1999,21,09/04/2025,SMS,Y,N,Forwarding Address,N,99,N,N,Y,26/03/2025,A,Owner,Deceased,,,Y,Y,
+714709782,25/06/2017,551,09/03/2025,Email,N,Y,Resident,N,89,N,Y,Y,28/03/2025,B,Owner,Resident,3,951,Y,Y,08/03/2025
+455794031,25/12/2005,2709,04/12/2024,Email,N,Y,Unmatched,,,,,,,F,Owner,Resident,2,520,N,Y,18/09/2025
+658339434,30/10/2000,3552,21/06/2023,Email,N,Y,Resident,N,29,N,N,N,29/03/2023,C,Social Renter,Unmatched,,,,,
+279802922,16/01/2005,2505,26/12/2024,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+308314476,01/07/2017,1479,26/02/2025,Email,N,Y,Resident,N,62,N,Y,Y,24/12/2024,A,,Resident,6,799,Y,Y,01/10/2022
+810979390,31/12/1999,2757,24/10/2024,Phone,N,N,Resident,N,36,N,Y,N,30/11/2024,F,Social Renter,Deceased,,,Y,N,
+917534320,26/05/2017,,,SMS,Y,N,Resident,N,89,N,Y,Y,12/03/2025,C,Social Renter,Resident,6,792,Y,Y,02/02/2022
+180148358,07/07/2004,2948,12/10/2024,Email,N,Y,Resident,N,49,N,Y,N,30/11/2024,D,Private Renter,Resident,5,585,Y,Y,12/10/2023
+670529303,31/05/2011,116,05/04/2025,SMS,Y,N,Resident,N,75,N,Y,N,15/02/2025,A,Social Renter,Resident,3,954,Y,Y,10/08/2025
+166962694,29/11/1998,29,28/03/2025,Email,N,Y,Resident,N,89,N,N,Y,22/03/2025,A,Owner,Resident,3,958,Y,Y,20/06/2025
+745868401,21/12/2008,26,20/03/2025,Email,N,Y,Resident,N,92,N,Y,N,06/04/2025,A,Owner,Forwarding Address,8,969,Y,Y,10/09/2020
+149487753,07/01/2010,50,22/03/2025,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Unmatched,,,,,
+565108561,10/12/2000,318,04/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,
+584203193,28/08/2002,3758,15/10/2023,Letter,N,N,Resident,N,20,N,N,N,16/03/2023,,Social Renter,Resident,1,432,Y,Y,03/10/2025
+858229213,14/10/2011,70,10/03/2025,SMS,Y,N,Forwarding Address,N,95,N,Y,Y,11/03/2025,B,Owner,Forwarding Address,3,977,Y,Y,01/06/2025
+510962926,25/04/1997,789,23/03/2025,Email,N,Y,Resident,N,89,N,N,N,13/02/2025,D,Private Renter,Resident,8,938,Y,Y,27/09/2020
+558350373,15/08/1997,4147,,Letter,N,N,Resident,Y,2,N,N,N,16/08/2020,A,Social Renter,Resident,7,282,Y,N,15/03/2021
+640324347,09/07/2006,,18/03/2025,Phone,N,N,Resident,N,55,N,Y,N,22/03/2025,E,Social Renter,Resident,2,896,Y,Y,24/09/2025
+895400665,09/06/2012,1793,,SMS,Y,N,Resident,N,50,N,Y,N,11/02/2025,D,,Resident,2,716,Y,Y,19/09/2025
+243997861,16/01/1998,95,31/03/2025,Email,N,Y,Resident,N,86,N,Y,Y,07/04/2025,,Owner,Resident,6,975,Y,Y,30/10/2021
+328849517,10/04/2007,1124,07/12/2024,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,
+818897201,04/12/2008,305,19/02/2025,SMS,Y,N,Resident,N,87,N,Y,Y,28/02/2025,B,Owner,Forwarding Address,8,875,Y,Y,11/04/2021
+304971810,20/07/2008,217,13/02/2025,Email,N,Y,Resident,N,95,N,N,Y,23/03/2025,B,Social Renter,Resident,3,866,Y,Y,02/04/2025
+163600593,03/11/1998,2282,18/03/2025,Letter,N,N,Resident,N,38,N,Y,Y,20/10/2024,E,Social Renter,Resident,1,561,N,Y,03/10/2025
+841025085,22/02/2009,11,05/04/2025,SMS,Y,N,Forwarding Address,N,86,N,N,Y,08/04/2025,C,Owner,Resident,1,983,Y,Y,03/10/2025
+816508552,02/06/2001,2155,,Letter,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,
+920010850,23/03/2008,,01/04/2025,SMS,Y,N,Resident,N,91,N,Y,N,10/03/2025,F,Social Renter,Resident,2,259,Y,Y,21/09/2025
+496191591,21/08/2015,1020,16/02/2025,Phone,N,N,Resident,N,69,N,N,Y,08/12/2024,C,Private Renter,Resident,3,808,Y,N,20/06/2025
+725085379,07/09/2000,5,11/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,26/03/2025,D,Owner,Resident,9,987,Y,Y,01/07/2019
+843582763,21/07/2009,,30/03/2025,Letter,N,N,Resident,N,95,N,Y,N,02/04/2025,D,Social Renter,Forwarding Address,4,585,Y,Y,25/03/2025
+899777980,01/03/2006,1559,07/02/2025,Phone,N,N,Resident,N,71,N,Y,N,06/01/2025,D,Private Renter,Resident,8,718,N,Y,20/08/2020
+398466977,05/10/2015,50,07/04/2025,SMS,Y,N,Resident,N,88,N,Y,Y,06/04/2025,B,Owner,Resident,8,956,Y,Y,06/12/2020
+647212549,31/08/2016,1936,18/01/2025,SMS,Y,N,Resident,N,65,N,N,N,30/12/2024,,Owner,Unmatched,,,,,
+281243942,22/09/2012,2647,10/12/2024,Phone,N,N,Unmatched,,,,,,,E,Owner,Unmatched,,,,,
+121794878,21/02/2013,2771,12/01/2025,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+302476184,08/01/2012,,,Phone,N,N,Resident,N,38,N,N,N,26/03/2025,,Social Renter,Resident,6,256,Y,Y,17/05/2022
+920333758,28/09/2012,984,09/03/2025,Email,N,Y,Resident,N,78,N,Y,Y,10/03/2025,D,Social Renter,Resident,9,945,Y,Y,31/01/2020
+356500916,06/09/2013,900,03/03/2025,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Resident,9,958,Y,Y,04/11/2019
+566609594,11/07/2010,2448,27/11/2024,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Resident,2,580,Y,Y,29/09/2025
+830849780,17/04/2006,69,08/04/2025,Email,N,Y,Resident,N,97,N,Y,Y,14/03/2025,E,Private Renter,Resident,6,983,Y,Y,22/08/2023
+378351415,17/07/2001,40,30/03/2025,Phone,N,N,Forwarding Address,N,89,N,Y,Y,26/03/2025,C,Private Renter,Resident,2,981,Y,Y,18/09/2025
+494973936,02/07/1997,72,17/03/2025,Email,N,Y,Deceased,N,0,Y,N,Y,07/04/2025,C,Private Renter,Unmatched,,,,,
+162290706,30/04/2010,71,23/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+826497313,03/09/2006,258,27/02/2025,SMS,Y,N,Unmatched,,,,,,,E,Private Renter,Resident,6,885,Y,Y,14/11/2023
+769591034,07/04/2009,60,01/04/2025,Phone,N,N,Resident,N,85,N,N,Y,02/04/2025,D,Social Renter,Resident,8,963,Y,Y,11/12/2022
+446451035,30/01/2011,1729,,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,
+179602041,13/07/2017,,26/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,
+807881619,29/12/2005,375,14/03/2025,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Resident,1,937,Y,Y,03/10/2025
+768749982,09/03/2004,84,30/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Social Renter,Forwarding Address,9,960,Y,Y,07/03/2019
+702173323,24/10/2014,126,28/02/2025,Phone,N,N,Unmatched,,,,,,,B,,Resident,9,882,Y,Y,07/06/2019
+757384236,31/08/2001,1985,28/12/2024,Email,N,Y,Unmatched,,,,,,,D,Owner,Resident,1,720,Y,Y,03/10/2025
+952850128,18/07/2009,1321,30/01/2025,Phone,N,N,Resident,N,80,N,Y,Y,13/01/2025,E,Owner,Resident,1,865,N,Y,03/10/2025
+493832581,11/09/1999,,07/04/2025,Phone,N,N,Resident,N,10,N,Y,N,09/04/2025,D,Owner,Resident,9,867,Y,N,25/02/2021
+245996316,21/07/2009,87,11/03/2025,SMS,Y,N,Resident,N,98,N,Y,Y,24/03/2025,,Owner,Resident,9,967,Y,Y,01/12/2018
+449243758,10/08/2005,1946,02/01/2025,Email,N,Y,Resident,N,68,N,N,Y,30/11/2024,E,Owner,Resident,7,833,N,Y,08/05/2024
+230836826,16/07/2003,2466,25/12/2024,Email,N,Y,Resident,N,48,N,Y,N,09/01/2025,E,Owner,Resident,4,609,N,N,06/11/2024
+625034800,21/10/1995,3397,,Letter,N,N,Resident,N,18,N,N,N,25/02/2024,D,Owner,Resident,6,294,Y,Y,08/09/2021
+994647729,23/01/2015,48,21/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,20/03/2025,,Owner,Resident,6,963,Y,Y,20/06/2023
+849035780,18/08/1995,2,04/04/2025,SMS,Y,N,Resident,N,87,N,Y,Y,30/03/2025,B,Owner,Resident,9,961,Y,Y,14/07/2019
+510545176,20/06/1995,37,26/03/2025,Email,N,Y,Forwarding Address,N,99,N,Y,Y,25/03/2025,A,Private Renter,Forwarding Address,8,963,N,N,10/09/2022
+874702087,14/07/2003,97,,SMS,Y,N,Resident,N,96,N,Y,Y,19/03/2025,A,Owner,Resident,5,979,Y,Y,18/10/2023
+623790506,22/08/1999,,18/03/2025,Letter,N,N,Resident,N,52,N,N,N,17/03/2025,E,Social Renter,Resident,3,701,Y,Y,07/04/2025
+270909943,09/07/2017,13,24/03/2025,Letter,N,N,Resident,N,95,N,N,Y,20/03/2025,,Owner,Resident,6,981,N,Y,09/09/2021
+625413336,30/09/2003,1676,25/12/2024,SMS,Y,N,Resident,N,69,N,N,Y,02/12/2024,D,Private Renter,Resident,7,879,Y,Y,18/07/2023
+768634659,01/07/2016,2,,SMS,Y,N,Resident,N,93,N,N,Y,19/03/2025,A,Private Renter,Unmatched,,,,,
+853249958,24/04/2014,27,02/04/2025,Email,N,Y,Resident,N,91,N,Y,N,16/03/2025,,Owner,Resident,1,981,Y,Y,03/10/2025
+388292647,08/08/2018,2134,04/02/2025,Phone,N,N,Resident,N,58,N,N,N,06/01/2025,F,Private Renter,Resident,4,537,Y,Y,23/10/2024
+329412879,18/10/2013,46,04/04/2025,Email,N,Y,Unmatched,,,,,,,,Private Renter,Unmatched,,,,,
+162001196,07/03/1999,1419,24/02/2025,Email,N,Y,Unmatched,,,,,,,C,Owner,Unmatched,,,,,
+281669130,10/05/2000,3684,21/02/2025,Letter,N,N,Resident,N,15,N,Y,Y,08/11/2023,D,Social Renter,Resident,5,268,Y,Y,02/06/2024
+711586616,20/07/1999,2831,21/11/2024,SMS,Y,N,Resident,N,52,N,N,N,01/09/2024,D,Social Renter,Unmatched,,,,,
+695595429,15/05/2003,129,,Email,N,Y,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,
+382594975,14/11/1997,2575,24/02/2025,Phone,N,N,Resident,N,60,N,Y,Y,07/02/2025,E,Social Renter,Resident,9,665,Y,N,27/03/2020
+875764043,15/05/2018,2068,21/12/2024,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,
+128588998,12/05/2015,1900,18/01/2025,Email,N,Y,Resident,N,69,N,N,N,13/02/2025,F,Owner,Resident,5,795,Y,Y,26/05/2024
+472623681,01/02/2012,2054,30/12/2024,Phone,N,N,Resident,N,41,N,Y,Y,17/01/2025,D,Social Renter,Resident,4,510,Y,Y,09/09/2024
+762411743,18/10/2013,,14/03/2025,SMS,Y,N,Resident,N,20,N,N,Y,08/04/2025,D,Social Renter,Resident,5,658,Y,Y,14/01/2024
+593258104,05/04/2018,920,12/03/2025,Phone,N,N,Resident,N,78,N,N,Y,21/03/2025,E,Owner,Resident,8,946,Y,N,27/10/2019
+250576578,16/12/2008,872,17/03/2025,Phone,N,N,Forwarding Address,N,93,N,Y,Y,17/02/2025,C,Social Renter,Forwarding Address,5,878,Y,N,15/06/2024
+913731479,20/12/2006,2624,28/08/2024,Email,N,Y,Resident,N,30,N,N,N,11/10/2024,F,Social Renter,Resident,4,630,Y,Y,16/10/2024
+889379831,20/11/2000,3697,06/04/2023,SMS,Y,N,Resident,N,18,N,N,Y,26/08/2023,F,Social Renter,Resident,6,537,Y,Y,12/11/2022
+570996653,09/08/2002,65,28/03/2025,Email,N,Y,Resident,N,87,N,N,N,23/03/2025,B,Owner,Resident,6,959,Y,Y,28/06/2022
+820768196,27/07/1998,3603,01/06/2024,Email,N,Y,Resident,N,18,N,N,N,11/01/2024,F,Owner,Deceased,,,Y,Y,
+956302972,09/03/2018,1,26/03/2025,SMS,Y,N,Resident,N,98,N,Y,Y,24/03/2025,A,Owner,Resident,8,962,Y,Y,18/05/2020
+988097754,04/09/2018,,03/04/2025,SMS,Y,N,Resident,N,99,N,N,Y,18/03/2025,C,Private Renter,Resident,9,193,Y,Y,09/02/2020
+447960041,26/08/2005,1268,27/12/2024,SMS,Y,N,Resident,N,61,N,N,Y,23/12/2024,E,Private Renter,Resident,8,706,Y,Y,02/06/2020
+935690671,20/09/2018,,18/03/2025,Letter,N,N,Deceased,N,0,Y,N,Y,19/03/2025,E,Private Renter,Deceased,,,Y,Y,
+984095911,20/10/2006,36,07/04/2025,Phone,N,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+615632965,28/03/2006,812,22/02/2025,SMS,Y,N,Resident,N,84,N,N,Y,29/03/2025,D,Owner,Resident,7,950,Y,Y,11/03/2023
+990120813,19/01/2004,2266,07/03/2025,Email,N,Y,Resident,N,51,N,Y,N,30/11/2024,D,Private Renter,Resident,1,536,Y,Y,03/10/2025
+734123071,20/05/2001,2668,24/01/2025,Email,N,Y,Forwarding Address,N,40,N,N,Y,31/10/2024,A,Private Renter,Unmatched,,,,,
+639524998,09/02/2001,841,05/03/2025,SMS,Y,N,Resident,N,80,N,N,Y,09/03/2025,D,Private Renter,Resident,9,878,Y,Y,06/05/2020
+317190823,18/09/2002,138,21/02/2025,SMS,Y,N,Resident,N,77,N,Y,Y,10/03/2025,,Owner,Deceased,,,N,Y,
+527092278,29/08/2012,1996,21/12/2024,Email,N,Y,Resident,N,62,N,Y,N,09/01/2025,F,Private Renter,Resident,3,886,Y,Y,25/06/2025
+546781701,15/10/1996,424,,SMS,Y,N,Resident,N,95,N,N,Y,07/03/2025,B,Social Renter,Resident,9,939,Y,Y,05/07/2022
+754798613,03/09/2005,261,04/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+284185683,02/07/1995,,09/04/2025,Email,N,Y,Resident,N,35,N,Y,Y,30/03/2025,A,Owner,Resident,5,455,Y,Y,10/04/2024
+178181770,28/10/1998,26,23/03/2025,SMS,Y,N,Resident,N,98,N,Y,Y,12/03/2025,,Owner,Resident,2,952,Y,N,24/09/2025
+934178507,15/05/1999,2139,26/03/2025,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Forwarding Address,7,535,Y,Y,12/07/2023
+600409006,03/07/2006,2136,19/12/2024,Email,N,Y,Resident,N,60,N,N,Y,02/09/2024,E,Private Renter,Resident,3,586,N,Y,11/07/2025
+783645971,03/12/2002,2008,10/11/2024,Email,N,Y,Deceased,N,0,Y,Y,N,02/02/2025,E,Owner,Unmatched,,,,,
+654143067,08/08/2015,4891,05/03/2022,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Resident,2,219,Y,Y,23/09/2025
+391547504,10/12/2014,2533,11/02/2025,Phone,N,N,Resident,N,49,N,Y,Y,14/11/2024,,Owner,Forwarding Address,7,514,Y,Y,10/12/2020
+611485642,01/07/2002,12,16/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,24/03/2025,E,Social Renter,Resident,6,980,Y,Y,18/09/2022
+303274192,16/04/2011,1620,20/11/2024,Email,N,Y,Resident,N,60,N,N,N,15/12/2024,F,Private Renter,Unmatched,,,,,
+961151002,03/06/2018,2319,04/03/2025,Email,N,Y,Resident,N,44,N,Y,N,13/02/2025,E,Private Renter,Resident,2,707,Y,Y,24/09/2025
+634929326,01/12/1998,3058,,Letter,N,N,Resident,N,28,N,N,N,31/07/2023,F,Private Renter,Resident,1,362,Y,Y,03/10/2025
+425735148,13/04/2009,1547,25/12/2024,SMS,Y,N,Resident,N,54,N,N,Y,10/12/2024,E,Owner,Forwarding Address,5,771,Y,Y,01/02/2024
+921260144,29/04/1997,1850,23/12/2024,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+613326613,15/08/2009,3087,13/07/2024,Email,N,Y,Unmatched,,,,,,,D,Owner,Resident,3,383,N,N,15/04/2025
+111953448,25/05/2011,480,10/03/2025,Email,N,Y,Resident,N,80,N,Y,Y,26/03/2025,C,Owner,Resident,2,868,Y,Y,01/10/2025
+141726252,21/09/1998,814,13/02/2025,SMS,Y,N,Resident,N,94,N,N,Y,07/03/2025,B,Private Renter,Resident,3,942,Y,Y,04/04/2025
+376815303,28/04/2000,45,12/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+297643299,19/02/2007,78,29/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Resident,5,965,Y,Y,21/08/2024
+815396619,03/04/1996,3663,11/07/2024,Letter,N,N,Resident,N,19,N,N,N,03/10/2023,F,Social Renter,Resident,1,394,Y,Y,03/10/2025
+433582752,18/05/2009,73,21/03/2025,Email,N,Y,Resident,N,93,N,Y,Y,22/03/2025,A,Owner,Resident,7,985,Y,Y,13/08/2021
+111049089,19/04/2000,,,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Resident,2,667,Y,Y,28/09/2025
+232413423,30/07/2007,1206,13/12/2024,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,
+368315520,01/03/1999,697,22/03/2025,Letter,N,N,Resident,N,93,N,N,Y,01/03/2025,B,Private Renter,Resident,9,847,Y,N,25/11/2021
+806513258,10/12/2002,3658,01/11/2024,Email,N,Y,Resident,N,23,N,N,Y,25/04/2023,E,Private Renter,Resident,5,537,Y,Y,02/04/2024
+796649895,21/09/1995,3017,,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+735009948,12/02/1995,97,21/03/2025,Email,N,Y,Deceased,N,0,Y,Y,Y,17/03/2025,A,Owner,Deceased,,,Y,Y,
+849599648,20/01/2014,2588,31/10/2024,Phone,N,N,Unmatched,,,,,,,E,Owner,Resident,6,693,Y,N,23/09/2021
+206146008,22/08/2004,32,03/04/2025,SMS,Y,N,Resident,N,89,N,Y,Y,31/03/2025,B,,Unmatched,,,,,
+175335269,24/02/2008,,06/04/2025,Phone,N,N,Resident,N,13,N,N,Y,03/04/2025,C,Owner,Resident,7,998,Y,Y,21/08/2022
+822676632,03/06/2014,69,03/04/2025,SMS,Y,N,Resident,N,90,N,N,N,29/03/2025,A,Owner,Resident,4,985,Y,Y,10/03/2025
+878104128,15/03/2009,161,19/03/2025,Email,N,Y,Resident,N,82,N,Y,N,24/03/2025,B,Private Renter,Resident,7,890,Y,Y,03/01/2024
+646696178,15/09/1999,1956,08/01/2025,Email,N,Y,Resident,N,60,N,N,N,28/11/2024,E,Private Renter,Resident,5,795,Y,Y,06/09/2023
+291639776,08/04/2012,4036,14/10/2022,Letter,N,N,Deceased,Y,0,Y,N,N,07/01/2020,C,Social Renter,Deceased,,,N,Y,
+504438724,01/12/2008,1105,23/12/2024,Phone,N,N,Resident,N,78,N,Y,Y,12/02/2025,C,Owner,Deceased,,,Y,Y,
+918832666,17/09/2009,,,SMS,Y,N,Forwarding Address,N,57,N,N,N,21/03/2025,C,Owner,Resident,1,782,Y,N,03/10/2025
+274353255,26/06/2009,51,27/03/2025,SMS,Y,N,Resident,N,97,N,Y,Y,01/04/2025,C,Private Renter,Resident,6,972,Y,Y,14/02/2024
+705029847,11/06/2017,900,28/02/2025,Email,N,Y,Unmatched,,,,,,,,Social Renter,Unmatched,,,,,
+219974147,18/04/1998,1688,19/02/2025,Email,N,Y,Resident,N,65,N,N,N,04/02/2025,D,Private Renter,Resident,4,777,Y,Y,14/03/2025
+809705284,27/08/1995,4530,06/06/2024,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+153779682,29/11/1996,1766,24/12/2024,Phone,N,N,Unmatched,,,,,,,,Owner,Resident,2,723,Y,Y,22/09/2025
+676533101,05/02/2002,61,31/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Forwarding Address,9,976,Y,Y,30/10/2020
+747788750,05/12/2015,974,21/03/2025,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+702872763,04/11/2011,36,22/03/2025,Email,N,Y,Resident,N,91,N,Y,N,03/04/2025,B,Social Renter,Resident,6,989,Y,Y,11/01/2023
+165565947,13/01/2010,5139,29/07/2023,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+360349534,22/10/2002,89,22/03/2025,Phone,N,N,Resident,N,98,N,Y,Y,19/03/2025,D,Owner,Resident,7,966,Y,Y,29/07/2022
+848417976,15/03/2004,4668,,Letter,N,N,Resident,Y,1,N,N,N,10/05/2019,F,Private Renter,Forwarding Address,6,4,Y,N,07/05/2024
+530608356,12/10/2011,9,17/03/2025,Email,N,Y,Resident,N,86,N,N,Y,06/04/2025,C,Private Renter,Resident,1,953,Y,Y,03/10/2025
+687323600,31/08/2008,,02/04/2025,Phone,N,N,Resident,N,17,N,Y,N,27/03/2025,A,Private Renter,Forwarding Address,8,896,Y,N,17/10/2020
+707652808,24/12/2016,7,18/03/2025,SMS,Y,N,Resident,N,85,N,Y,N,29/03/2025,A,Private Renter,Resident,8,955,Y,Y,23/11/2020
+935102197,26/03/2008,4915,08/08/2019,Letter,N,N,Resident,N,3,N,N,N,14/12/2021,E,Social Renter,Resident,2,133,Y,Y,18/09/2025
+652977133,30/10/2004,68,22/03/2025,SMS,Y,N,Resident,N,92,N,N,N,26/03/2025,A,Owner,Resident,7,985,N,N,16/04/2023
+182053799,16/02/2016,70,16/03/2025,Email,N,Y,Resident,N,92,N,N,Y,31/03/2025,E,Owner,Resident,8,965,Y,Y,20/11/2022
+142369338,29/07/1995,2620,07/01/2025,Phone,N,N,Resident,N,26,N,N,N,31/01/2025,F,Social Renter,Resident,1,589,Y,Y,03/10/2025
+213327594,21/07/2013,2021,17/12/2024,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3,501,Y,Y,05/03/2025
+928709651,15/05/2014,93,,SMS,Y,N,Resident,N,86,N,N,Y,27/03/2025,A,Owner,Resident,9,986,Y,Y,29/08/2019
+504683331,25/08/2012,,18/03/2025,Email,N,Y,Unmatched,,,,,,,,Social Renter,Resident,7,92,Y,Y,25/10/2020
+922411508,06/01/2014,77,01/04/2025,Email,N,Y,Resident,N,88,N,Y,Y,05/04/2025,D,Private Renter,Unmatched,,,,,
+542903586,22/04/2017,1672,04/01/2025,Phone,N,N,Unmatched,,,,,,,E,Owner,Unmatched,,,,,
+116268437,18/07/2012,595,17/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,
+162826926,29/12/1995,1616,02/12/2024,Phone,N,N,Deceased,N,0,Y,Y,N,16/12/2024,E,Private Renter,Deceased,,,Y,Y,
+576678758,22/09/1997,34,13/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+884612336,12/12/2016,1512,22/01/2025,SMS,Y,N,Resident,N,76,N,N,Y,06/01/2025,E,Private Renter,Unmatched,,,,,
+469237822,30/12/1995,1644,21/02/2025,Phone,N,N,Resident,N,65,N,N,N,07/12/2024,,Private Renter,Resident,3,840,Y,Y,26/05/2025
+391210228,26/09/2015,1562,11/01/2025,Phone,N,N,Resident,N,69,N,Y,N,24/02/2025,B,Private Renter,Resident,9,862,Y,N,14/10/2020
+395833316,07/11/2011,72,18/03/2025,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+333755164,29/06/1997,3455,27/09/2023,Letter,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,
+788419934,04/11/2017,1832,21/11/2024,Phone,N,N,Deceased,N,0,Y,N,N,13/11/2024,D,,Deceased,,,N,Y,
+897277224,05/02/2004,77,,SMS,Y,N,Deceased,N,0,Y,Y,N,22/03/2025,B,Social Renter,Deceased,,,Y,N,
+922412687,12/01/2006,1635,26/12/2024,Email,N,Y,Resident,N,51,N,Y,Y,11/01/2025,,Owner,Resident,4,725,Y,Y,18/01/2025
+950641540,06/07/1995,2511,12/12/2024,SMS,Y,N,Resident,N,38,N,N,N,03/09/2024,E,Social Renter,Resident,7,604,Y,Y,22/03/2023
+905808569,11/07/2013,2212,22/01/2025,Phone,N,N,Resident,N,29,N,N,N,23/01/2025,D,,Resident,9,662,Y,Y,14/03/2021
+383022401,23/01/2003,7,04/04/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+456534349,02/09/2017,3161,24/12/2024,Letter,N,N,Resident,N,22,N,N,Y,11/06/2023,F,Private Renter,Resident,4,539,N,Y,05/02/2025
+391670589,22/12/2003,40,27/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Forwarding Address,4,975,Y,Y,03/11/2024
+676447399,23/01/2002,75,31/03/2025,SMS,Y,N,Resident,N,93,N,Y,Y,08/04/2025,B,Owner,Resident,9,985,Y,Y,28/02/2020
+128167032,24/12/2000,432,08/03/2025,SMS,Y,N,Resident,N,95,N,N,N,13/03/2025,D,Private Renter,Resident,6,923,Y,Y,23/05/2022
+552542730,14/08/2004,1209,,Email,N,Y,Resident,N,66,N,Y,Y,26/11/2024,F,Social Renter,Resident,6,765,Y,N,24/12/2023
+869451307,18/01/2006,4500,11/02/2025,Letter,N,N,Resident,N,11,N,N,N,31/12/2021,,,Resident,6,82,Y,Y,12/11/2022
+986348721,18/03/1995,5956,19/06/2021,Letter,N,N,Deceased,N,0,Y,N,N,20/10/2020,E,Social Renter,Deceased,,,Y,Y,
+299733797,22/06/2017,723,04/03/2025,SMS,Y,N,Resident,N,79,N,Y,N,07/03/2025,B,Social Renter,Resident,6,880,Y,Y,30/09/2021
+491728096,26/06/2001,836,19/02/2025,Email,N,Y,Resident,N,88,N,Y,Y,21/02/2025,C,Social Renter,Unmatched,,,,,
+683040413,23/11/2012,4524,13/09/2019,Letter,N,N,Resident,Y,10,N,N,Y,31/01/2021,E,Private Renter,Resident,1,38,Y,N,03/10/2025
+949431243,15/10/2014,,22/03/2025,SMS,Y,N,Resident,N,78,N,N,N,04/04/2025,B,Owner,Resident,6,856,Y,Y,20/02/2024
+569937851,02/09/2018,79,22/03/2025,SMS,Y,N,Resident,N,98,N,N,N,09/04/2025,E,Owner,Resident,3,954,Y,Y,14/03/2025
+558907726,22/11/2006,3080,21/10/2023,Phone,N,N,Resident,N,30,N,N,N,09/09/2023,,Social Renter,Resident,9,539,N,Y,04/12/2021
+704293176,18/01/2009,129,12/03/2025,Email,N,Y,Resident,N,86,N,Y,Y,21/02/2025,C,,Resident,7,867,Y,Y,24/03/2022
+257299627,21/10/2001,216,14/03/2025,Email,N,Y,Resident,N,95,N,N,N,12/03/2025,D,Owner,Unmatched,,,,,
+456482592,21/05/1999,2544,04/11/2024,Email,N,Y,Resident,N,58,N,N,N,09/11/2024,C,Social Renter,Unmatched,,,,,
+767494162,10/03/2000,52,06/04/2025,SMS,Y,N,Resident,N,86,N,Y,Y,06/04/2025,A,Owner,Resident,6,989,Y,Y,26/05/2024
+921340332,22/05/2011,3559,27/11/2023,SMS,Y,N,Deceased,N,0,Y,N,N,24/04/2023,E,Social Renter,Deceased,,,Y,Y,
+458710903,08/03/2004,1806,27/12/2024,SMS,Y,N,Resident,N,76,N,Y,Y,17/12/2024,D,Social Renter,Resident,9,816,Y,Y,12/10/2019
+153305344,08/08/2005,246,,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,
+445208344,16/07/2010,,03/04/2025,Phone,N,N,Resident,N,79,N,N,N,12/03/2025,D,Owner,Resident,1,340,Y,Y,03/10/2025
+450704884,14/10/1996,901,10/03/2025,SMS,Y,N,Resident,N,82,N,Y,Y,23/03/2025,B,Private Renter,Resident,1,882,Y,Y,03/10/2025
+537279802,23/07/2003,3716,07/04/2023,Letter,N,N,Resident,Y,9,N,N,N,04/05/2023,D,Social Renter,Resident,8,112,Y,Y,16/04/2023
+627539131,22/07/2007,2837,05/10/2024,Phone,N,N,Resident,N,48,N,N,Y,17/09/2024,D,Owner,Resident,8,538,Y,N,14/02/2022
+786160296,30/04/2018,1973,01/02/2025,Email,N,Y,Forwarding Address,N,56,N,Y,N,07/02/2025,B,Owner,Resident,8,707,Y,N,13/06/2021
+535182014,16/08/2003,2194,18/08/2024,Phone,N,N,Resident,N,38,N,N,N,11/11/2024,F,Owner,Resident,7,709,Y,Y,15/05/2023
+293957703,08/07/2015,2689,03/10/2024,Phone,N,N,Resident,N,50,N,N,N,31/10/2024,F,Social Renter,Resident,2,614,Y,N,20/09/2025
+680261899,29/01/1997,2930,10/01/2025,Phone,N,N,Resident,Y,10,N,N,N,23/08/2024,D,Social Renter,Forwarding Address,4,216,Y,Y,27/11/2024
+481623203,05/08/2005,2942,20/08/2024,Letter,N,N,Resident,N,42,N,N,Y,26/02/2025,D,Private Renter,Resident,6,669,Y,Y,12/07/2022
+134848953,15/05/2004,4370,,Letter,N,N,Resident,Y,6,N,N,N,08/03/2019,,Social Renter,Resident,6,139,Y,Y,16/01/2024
+359287877,19/07/2015,1717,20/02/2025,SMS,Y,N,Resident,N,56,N,N,Y,30/11/2024,D,Owner,Resident,3,787,Y,Y,02/04/2025
+407845951,29/10/2014,669,13/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,9,957,Y,Y,12/05/2022
+695301457,14/07/2012,373,19/02/2025,Letter,N,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+481763633,14/05/2005,2526,18/01/2025,Email,N,Y,Deceased,N,0,Y,Y,N,22/02/2025,F,Social Renter,Deceased,,,Y,Y,
+361021241,20/06/2009,1678,20/12/2024,Email,N,Y,Forwarding Address,N,54,N,N,N,03/12/2024,E,Private Renter,Resident,1,727,Y,Y,03/10/2025
+231234245,29/04/2008,31,23/03/2025,SMS,Y,N,Resident,N,99,N,Y,Y,11/03/2025,A,Owner,Resident,5,952,Y,Y,29/12/2023
+514224829,04/12/2006,3947,11/08/2023,Phone,N,N,Resident,N,28,N,Y,N,26/05/2023,,Private Renter,Resident,6,498,Y,N,06/02/2024
+450621146,27/04/2002,98,15/03/2025,SMS,Y,N,Resident,N,93,N,Y,Y,21/03/2025,B,Social Renter,Resident,1,967,Y,Y,03/10/2025
+830281262,30/10/2002,412,27/03/2025,SMS,Y,N,Forwarding Address,N,91,N,Y,Y,07/03/2025,C,Private Renter,Deceased,,,Y,Y,
+106504409,25/10/2016,8,01/04/2025,SMS,Y,N,Resident,N,95,N,Y,Y,30/03/2025,B,Owner,Resident,7,974,Y,Y,21/10/2021
+749500164,13/11/2005,26,25/03/2025,Phone,N,N,Deceased,N,0,Y,Y,N,12/03/2025,A,Owner,Deceased,,,Y,Y,
+103060434,25/05/2005,28,30/03/2025,SMS,Y,N,Resident,N,91,N,Y,Y,10/03/2025,A,Social Renter,Resident,8,969,Y,Y,17/10/2021
+691998973,24/08/2009,1408,28/01/2025,SMS,Y,N,Resident,N,73,N,N,Y,02/01/2025,E,Owner,Resident,8,727,Y,Y,04/11/2020
+496458582,10/04/2018,90,26/03/2025,SMS,Y,N,Resident,N,93,N,Y,Y,02/04/2025,B,Owner,Resident,1,977,Y,Y,03/10/2025
+504124986,16/04/2004,2339,17/10/2024,Email,N,Y,Forwarding Address,N,43,N,N,N,30/01/2025,E,Owner,Resident,2,532,Y,Y,19/09/2025
+515271667,09/04/2013,68,20/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,
+477481308,09/03/2016,608,10/03/2025,SMS,Y,N,Resident,N,84,N,N,N,04/03/2025,C,Owner,Resident,7,890,Y,Y,18/03/2021
+147367001,11/05/1997,281,04/03/2025,Email,N,Y,Resident,N,88,N,Y,Y,27/02/2025,F,Owner,Unmatched,,,,,
+715781077,01/12/2016,1737,19/02/2025,Email,N,Y,Resident,N,68,N,Y,N,11/12/2024,,Private Renter,Resident,2,701,Y,Y,29/09/2025
+514380020,17/02/2000,38,08/04/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+373725870,16/09/1999,,21/03/2025,Email,N,Y,Resident,N,97,N,N,N,12/03/2025,C,Owner,Resident,2,511,Y,Y,25/09/2025
+860426146,30/12/2007,833,05/03/2025,SMS,Y,N,Unmatched,,,,,,,B,,Resident,3,848,Y,Y,11/05/2025
+575784316,29/05/2015,123,07/03/2025,SMS,Y,N,Resident,N,82,N,Y,Y,11/03/2025,C,Owner,Resident,6,942,Y,Y,06/01/2024
+216202454,24/11/2000,15,07/04/2025,Email,N,Y,Deceased,N,0,Y,Y,N,10/03/2025,C,Owner,Deceased,,,Y,Y,
+278522580,07/12/2012,100,27/03/2025,Phone,N,N,Resident,N,98,N,Y,Y,18/03/2025,B,Owner,Resident,5,967,Y,Y,28/06/2024
+407709860,17/04/2016,25,19/03/2025,SMS,Y,N,Resident,N,94,N,Y,Y,06/04/2025,B,Social Renter,Resident,7,983,Y,Y,03/02/2021
+941340767,07/11/2013,15,02/04/2025,SMS,Y,N,Resident,N,97,N,Y,Y,31/03/2025,B,Owner,Resident,3,951,Y,Y,18/06/2025
+925998290,31/10/2003,82,,SMS,Y,N,Resident,N,93,N,N,Y,20/03/2025,A,Social Renter,Resident,2,977,Y,Y,21/09/2025
+428853474,07/05/2012,110,21/02/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,9,859,Y,Y,05/12/2019
+691237331,13/02/2014,190,02/03/2025,SMS,Y,N,Resident,N,89,N,N,Y,25/03/2025,C,Owner,Resident,6,899,Y,Y,22/10/2022
+518443736,28/11/2003,567,26/02/2025,SMS,Y,N,Unmatched,,,,,,,B,,Unmatched,,,,,
+114936964,21/01/2009,69,24/03/2025,Email,N,Y,Resident,N,86,N,Y,Y,20/03/2025,A,Owner,Resident,1,977,Y,Y,03/10/2025
+502703183,13/10/2011,1740,19/03/2025,Phone,N,N,Resident,N,75,N,Y,N,10/01/2025,D,Owner,Resident,1,787,Y,Y,03/10/2025
+603495783,25/02/1997,60,26/03/2025,Email,N,Y,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+623003147,30/11/2014,,,Phone,N,N,Unmatched,,,,,,,F,Owner,Resident,8,32,Y,N,22/10/2020
+383139841,16/11/2001,1762,21/01/2025,Phone,N,N,Unmatched,,,,,,,A,Social Renter,Unmatched,,,,,
+932523976,06/04/1996,46,,SMS,Y,N,Resident,N,89,N,N,Y,04/04/2025,B,Owner,Resident,5,965,Y,Y,20/09/2023
+244107988,20/01/2013,1961,29/12/2024,SMS,Y,N,Resident,N,59,N,N,N,15/01/2025,B,Social Renter,Unmatched,,,,,
+239948135,04/03/2018,3179,06/12/2024,Letter,N,N,Resident,N,25,N,N,N,04/05/2023,E,Social Renter,Resident,1,284,Y,Y,03/10/2025
+191185658,02/10/2006,1531,25/03/2025,Letter,N,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+427766840,16/12/2015,50,02/04/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,03/04/2025,A,Owner,Forwarding Address,9,964,Y,Y,14/05/2021
+968150791,28/03/2002,1759,01/03/2025,Email,N,Y,Resident,N,57,N,Y,Y,08/02/2025,F,Private Renter,Forwarding Address,5,715,N,Y,06/04/2024
+620761294,08/11/2013,1039,03/03/2025,Letter,N,N,Resident,N,73,N,Y,Y,15/01/2025,,Private Renter,Resident,7,840,Y,N,12/07/2022
+620998921,18/10/2004,,10/03/2025,SMS,Y,N,Resident,N,66,N,Y,N,20/03/2025,A,Owner,Resident,6,647,Y,N,18/07/2023
+997390935,19/10/2010,1296,,Email,N,Y,Forwarding Address,N,50,N,Y,N,24/01/2025,,Owner,Forwarding Address,8,823,N,Y,15/01/2023
+231891905,20/11/1998,50,30/03/2025,Email,N,Y,Resident,N,88,N,Y,N,20/03/2025,A,Private Renter,Resident,8,969,Y,N,23/06/2023
+978990915,15/02/1996,96,15/03/2025,SMS,Y,N,Deceased,N,0,Y,N,Y,22/03/2025,D,Private Renter,Deceased,,,Y,Y,
+555017875,20/10/2015,54,,Phone,N,N,Resident,N,94,N,Y,N,14/03/2025,A,Owner,Forwarding Address,5,987,Y,Y,02/06/2024
+822680286,16/07/2004,881,10/03/2025,Email,N,Y,Resident,N,88,N,N,N,14/03/2025,B,Owner,Resident,1,947,Y,Y,03/10/2025
+232891241,21/07/1996,1699,05/01/2025,Email,N,Y,Resident,N,70,N,N,Y,02/02/2025,E,Social Renter,Resident,4,736,Y,Y,10/12/2024
+661941758,11/11/2004,381,25/03/2025,SMS,Y,N,Resident,N,83,N,Y,Y,12/03/2025,B,Social Renter,Resident,4,859,Y,N,30/12/2024
+458062255,03/09/2001,4186,22/08/2022,Letter,N,N,Resident,Y,7,N,N,N,27/01/2022,D,Owner,Resident,4,26,Y,Y,10/11/2024
+822875548,16/05/2014,727,,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,6,882,Y,Y,09/12/2023
+427105064,17/10/2013,608,30/03/2025,Phone,N,N,Unmatched,,,,,,,B,Social Renter,Resident,1,916,Y,Y,03/10/2025
+731581993,07/11/2002,1668,16/01/2025,Email,N,Y,Resident,N,77,N,N,Y,29/01/2025,D,Social Renter,Resident,8,732,Y,Y,26/03/2020
+645227299,03/08/1997,3219,20/03/2023,Email,N,Y,Resident,N,15,N,Y,N,11/03/2023,E,Social Renter,Resident,2,506,Y,Y,27/09/2025
+666201152,14/06/1999,2913,21/03/2025,Phone,N,N,Resident,Y,8,N,N,N,10/09/2024,F,Private Renter,Resident,7,151,N,Y,21/10/2020
+193700333,29/05/2000,4,11/03/2025,SMS,Y,N,Resident,N,99,N,Y,Y,23/03/2025,C,Owner,Resident,7,958,Y,N,19/10/2022
+995958681,01/03/2008,,29/03/2025,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Resident,5,92,Y,Y,08/12/2023
+307046892,05/08/2014,58,29/03/2025,SMS,Y,N,Resident,N,92,N,Y,Y,10/03/2025,,Owner,Resident,4,990,Y,Y,16/03/2025
+330902021,11/05/2001,62,03/04/2025,Email,N,Y,Resident,N,87,N,N,Y,02/04/2025,B,Owner,Resident,5,964,Y,Y,16/10/2023
+570996218,03/11/2007,2736,23/10/2024,Email,N,Y,Resident,N,53,N,Y,N,16/09/2024,,Private Renter,Resident,3,677,Y,Y,10/05/2025
+557283809,23/06/1997,387,08/03/2025,SMS,Y,N,Resident,N,77,N,Y,Y,24/02/2025,D,Private Renter,Resident,7,857,Y,Y,29/12/2023
+347770789,06/08/2017,51,08/04/2025,SMS,Y,N,Resident,N,89,N,Y,Y,13/03/2025,B,Private Renter,Resident,6,976,Y,Y,16/07/2024
+350205093,01/07/2016,318,03/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,06/03/2025,,,Deceased,,,Y,Y,
+368893612,04/02/2010,3349,11/03/2024,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+254088791,14/11/2007,2301,,Phone,N,N,Resident,N,50,N,Y,N,08/02/2025,F,Private Renter,Resident,6,599,Y,Y,03/02/2024
+606163220,13/07/1998,83,05/04/2025,SMS,Y,N,Forwarding Address,N,90,N,Y,Y,19/03/2025,D,Owner,Resident,3,969,Y,Y,25/07/2025
+629475037,10/04/1998,4847,21/03/2023,Letter,N,N,Deceased,N,0,Y,N,N,23/07/2020,C,Social Renter,Deceased,,,N,Y,
+254780176,28/01/2006,30,05/04/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,24/03/2025,A,Private Renter,Deceased,,,Y,Y,
+575303542,22/12/2004,1793,29/12/2024,SMS,Y,N,Unmatched,,,,,,,,Social Renter,Forwarding Address,5,834,N,Y,25/11/2023
+812238987,05/07/1995,1606,05/12/2024,Email,N,Y,Resident,N,61,N,N,N,05/03/2025,,Owner,Unmatched,,,,,
+771698603,07/10/2004,69,01/04/2025,SMS,Y,N,Forwarding Address,N,88,N,Y,Y,10/03/2025,B,Private Renter,Deceased,,,Y,N,
+140611002,06/11/2006,10,24/03/2025,Email,N,Y,Unmatched,,,,,,,A,Private Renter,Deceased,,,Y,Y,
+799845958,18/05/1995,92,21/03/2025,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,2,956,Y,Y,30/09/2025
+922056652,13/08/2009,2171,09/12/2024,SMS,Y,N,Resident,N,35,N,N,N,06/01/2025,F,Owner,Resident,1,568,Y,Y,03/10/2025
+980110692,14/07/2002,3170,27/10/2024,Email,N,Y,Deceased,N,0,Y,N,N,26/09/2023,,Social Renter,Deceased,,,Y,Y,
+672680634,08/10/2006,1343,16/03/2025,Email,N,Y,Deceased,N,0,Y,N,Y,06/02/2025,B,Social Renter,Deceased,,,Y,Y,
+274690833,10/12/2010,1084,11/01/2025,Email,N,Y,Resident,N,61,N,N,Y,12/01/2025,D,Private Renter,Resident,5,825,Y,Y,24/08/2024
+406790663,27/04/2004,,01/04/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+302325791,17/07/1998,36,,SMS,Y,N,Resident,N,95,N,Y,Y,31/03/2025,A,Private Renter,Resident,2,963,Y,Y,19/09/2025
+877038640,22/09/2010,2776,07/02/2025,Phone,N,N,Unmatched,,,,,,,,,Unmatched,,,,,
+233055916,20/03/1997,34,12/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Forwarding Address,8,974,Y,Y,27/11/2019
+261904985,17/11/1999,2584,08/11/2024,Phone,N,N,Forwarding Address,N,31,N,N,Y,27/10/2024,E,Owner,Resident,2,511,Y,Y,18/09/2025
+363879996,13/10/2001,,23/03/2025,Email,N,Y,Resident,N,83,N,N,Y,27/03/2025,C,Private Renter,Resident,4,499,Y,Y,22/09/2024
+948003049,30/09/2000,71,04/04/2025,SMS,Y,N,Resident,N,87,N,Y,Y,03/04/2025,B,Private Renter,Resident,1,986,Y,Y,03/10/2025
+286844148,13/06/1997,82,06/04/2025,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,4,952,Y,Y,08/01/2025
+957994679,30/01/2006,1192,04/02/2025,Phone,N,N,Resident,N,66,N,N,N,02/01/2025,C,Social Renter,Resident,4,847,Y,N,17/09/2024
+651745176,16/09/2003,2963,24/11/2024,Phone,N,N,Unmatched,,,,,,,,Social Renter,Unmatched,,,,,
+485641868,30/06/2002,,11/03/2025,Phone,N,N,Resident,N,81,N,N,Y,04/04/2025,E,Private Renter,Resident,5,406,Y,Y,09/01/2024
+976000380,13/06/2012,4794,30/06/2019,Letter,N,N,Resident,Y,1,N,Y,N,18/08/2020,E,Social Renter,Resident,5,141,Y,N,19/11/2023
+654801623,03/07/1995,520,30/03/2025,Phone,N,N,Deceased,N,0,Y,Y,Y,03/03/2025,B,Owner,Deceased,,,Y,Y,
+879537264,04/02/2009,2302,27/02/2025,Email,N,Y,Resident,N,58,N,N,Y,31/08/2024,B,Owner,Unmatched,,,,,
+356089749,12/03/1998,4338,02/11/2024,Letter,N,N,Resident,N,0,N,N,N,13/08/2022,E,Social Renter,Resident,6,155,Y,Y,29/12/2023
+777152916,22/06/2008,1928,14/03/2025,Email,N,Y,Forwarding Address,N,70,N,N,Y,18/02/2025,E,Owner,Forwarding Address,4,873,Y,N,17/11/2024
+697182149,11/01/2004,728,21/03/2025,Email,N,Y,Resident,N,95,N,Y,Y,14/03/2025,A,Private Renter,Resident,3,865,Y,Y,15/07/2025
+717062913,28/09/1995,70,16/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,5,987,Y,Y,22/02/2024
+397494070,20/02/2010,1867,01/12/2024,SMS,Y,N,Resident,N,78,N,Y,N,16/01/2025,,Private Renter,Deceased,,,Y,Y,
+661888095,16/12/2014,6,31/03/2025,Email,N,Y,Resident,N,87,N,Y,N,04/04/2025,B,Owner,Resident,5,950,Y,Y,30/04/2024
+698008219,30/10/2006,1596,15/12/2024,Email,N,Y,Resident,N,66,N,N,N,29/01/2025,E,Private Renter,Resident,2,764,Y,Y,23/09/2025
+423668720,02/07/2014,18,06/04/2025,SMS,Y,N,Resident,N,87,N,Y,Y,31/03/2025,A,Owner,Resident,2,960,Y,Y,29/09/2025
+199112152,04/02/1999,,,Email,N,Y,Resident,N,78,N,N,N,05/04/2025,D,Social Renter,Resident,4,924,Y,Y,29/12/2024
+854337778,21/09/2005,3220,30/06/2023,Letter,N,N,Deceased,N,0,Y,Y,N,12/03/2023,E,Private Renter,Deceased,,,Y,Y,
+391738929,27/12/2006,76,,SMS,Y,N,Deceased,N,0,Y,Y,Y,25/03/2025,A,Owner,Deceased,,,Y,Y,
+551187389,27/01/2004,55,05/04/2025,SMS,Y,N,Resident,N,96,N,Y,Y,14/03/2025,A,Owner,Resident,7,977,Y,Y,08/07/2021
+333630483,11/11/2016,696,22/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,29/03/2025,B,Private Renter,Resident,8,953,Y,Y,08/08/2021
+442506900,04/02/1997,333,03/03/2025,SMS,Y,N,Resident,N,84,N,Y,N,28/03/2025,C,Social Renter,Resident,2,851,Y,Y,25/09/2025
+342153304,30/10/2010,1679,11/03/2025,SMS,Y,N,Resident,N,76,N,N,N,03/02/2025,D,Owner,Resident,6,782,N,N,07/07/2023
+810086920,09/06/2016,,19/03/2025,Letter,N,N,Resident,N,81,N,N,Y,19/03/2025,A,Social Renter,Resident,3,366,N,Y,12/03/2025
+144732605,24/07/2016,1293,,Email,N,Y,Resident,N,60,N,N,Y,02/03/2025,B,,Resident,1,767,Y,Y,03/10/2025
+648766298,19/05/2003,2007,23/09/2024,Phone,N,N,Deceased,N,0,Y,Y,N,16/08/2024,E,Social Renter,Deceased,,,Y,Y,
+307343641,19/04/2013,,01/04/2025,Email,N,Y,Resident,N,17,N,Y,N,11/03/2025,B,Private Renter,Resident,1,267,N,Y,03/10/2025
+105185108,05/03/2008,,04/04/2025,Email,N,Y,Resident,N,32,N,Y,Y,01/04/2025,D,Private Renter,Resident,5,702,Y,N,14/04/2024
+198428699,03/02/2013,1512,04/12/2024,SMS,Y,N,Forwarding Address,N,70,N,Y,Y,22/02/2025,D,,Forwarding Address,8,832,Y,N,02/02/2023
+209213497,15/05/2015,87,27/03/2025,Email,N,Y,Resident,N,96,N,Y,N,02/04/2025,A,Owner,Resident,9,966,Y,N,05/11/2018
+151114404,01/05/2009,4249,01/03/2025,Letter,N,N,Resident,Y,6,N,Y,N,14/12/2021,,Social Renter,Resident,5,247,Y,Y,02/02/2024
+542240545,24/09/1996,1162,17/11/2024,Email,N,Y,Resident,N,67,N,N,Y,18/12/2024,C,Owner,Resident,5,798,N,Y,21/09/2023
+858009336,03/02/2011,,25/03/2025,Letter,N,N,Resident,N,46,N,N,Y,25/03/2025,F,Private Renter,Unmatched,,,,,
+748979857,15/02/2016,1221,15/01/2025,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,
+944657714,14/02/2008,56,16/03/2025,SMS,Y,N,Resident,N,85,N,Y,Y,04/04/2025,B,Private Renter,Resident,7,990,Y,Y,12/08/2024
+939506997,19/07/1997,,24/03/2025,SMS,Y,N,Resident,N,6,N,N,N,21/03/2025,C,Owner,Resident,6,658,Y,Y,26/06/2022
+487116334,02/08/2009,59,31/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Private Renter,Forwarding Address,2,973,Y,Y,02/10/2025
+179004913,08/02/2012,2939,14/09/2024,Phone,N,N,Resident,N,29,N,N,N,27/01/2025,D,Social Renter,Resident,4,534,Y,Y,19/03/2025
+173612550,28/04/1996,29,30/03/2025,SMS,Y,N,Resident,N,88,N,Y,Y,07/04/2025,C,Owner,Resident,8,957,Y,Y,10/01/2023
+736712574,16/08/2011,3039,15/12/2024,Letter,N,N,Deceased,N,0,Y,N,N,31/03/2023,D,Social Renter,Deceased,,,Y,Y,
+628530051,02/02/2017,639,11/03/2025,SMS,Y,N,Resident,N,76,N,Y,N,03/03/2025,D,Social Renter,Resident,7,887,Y,N,13/01/2023
+632910038,18/03/2006,2666,28/02/2025,Email,N,Y,Resident,N,53,N,N,Y,08/11/2024,F,Owner,Resident,5,522,Y,N,02/04/2024
+885383458,28/10/2007,3688,10/01/2024,Phone,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+844406256,19/08/2007,96,13/03/2025,Phone,N,N,Resident,N,95,N,Y,Y,23/03/2025,F,,Resident,5,960,Y,Y,05/07/2024
+251629879,15/11/2017,3321,21/09/2024,Letter,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+387161185,05/07/2012,1852,02/03/2025,Phone,N,N,Unmatched,,,,,,,C,Social Renter,Resident,5,773,Y,Y,31/12/2023
+725539212,01/04/2009,,20/03/2025,Email,N,Y,Forwarding Address,N,44,N,N,Y,02/04/2025,F,,Resident,1,398,Y,Y,03/10/2025
+950979079,15/10/2001,2804,02/02/2025,Letter,N,N,Resident,N,31,N,N,N,15/09/2024,E,Social Renter,Resident,5,557,Y,Y,09/08/2024
+343565799,14/12/2009,58,18/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+661650397,24/05/2003,2227,13/11/2024,Email,N,Y,Resident,N,27,N,Y,N,17/12/2024,E,Owner,Resident,5,681,N,Y,09/11/2023
+663034289,17/08/2003,939,01/03/2025,Email,N,Y,Resident,N,78,N,Y,N,02/03/2025,B,,Resident,9,881,Y,Y,07/05/2022
+815312562,31/12/2007,1865,04/12/2024,Email,N,Y,Resident,N,68,N,N,N,16/12/2024,D,Owner,Unmatched,,,,,
+420953415,26/10/2001,468,26/02/2025,Email,N,Y,Resident,N,87,N,Y,Y,15/02/2025,E,Owner,Resident,9,886,Y,N,04/09/2019
+554005864,18/11/2007,92,29/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+301809403,05/04/1997,1407,24/11/2024,SMS,Y,N,Deceased,N,0,Y,N,N,10/01/2025,F,Owner,Deceased,,,Y,N,
+256347952,12/01/1997,84,31/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+251370646,31/10/1997,1799,15/02/2025,SMS,Y,N,Resident,N,53,N,N,N,03/02/2025,C,Owner,Resident,1,825,Y,Y,03/10/2025
+907054865,10/05/2001,77,06/04/2025,SMS,Y,N,Forwarding Address,N,87,N,Y,Y,04/04/2025,A,Private Renter,Resident,3,967,Y,Y,22/03/2025
+119930934,23/05/2002,33,24/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,4,969,Y,Y,18/09/2024
+499622775,25/07/2010,39,10/03/2025,SMS,Y,N,Resident,N,85,N,Y,N,15/03/2025,C,Owner,Resident,3,950,Y,Y,28/05/2025
+444355405,22/12/1999,78,13/03/2025,SMS,Y,N,Resident,N,98,N,Y,Y,24/03/2025,A,Private Renter,Resident,8,972,Y,Y,23/05/2022
+577758674,23/07/2008,4432,15/07/2021,Letter,N,N,Resident,Y,7,N,N,N,22/02/2020,E,Social Renter,Resident,2,139,Y,Y,02/10/2025
+571219773,15/01/1999,3080,,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+285732130,26/04/2000,695,,Email,N,Y,Resident,N,80,N,N,N,07/03/2025,B,Social Renter,Resident,2,846,Y,Y,24/09/2025
+718111156,13/03/2012,2523,06/02/2025,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Resident,6,510,Y,Y,09/11/2021
+894354121,04/09/2008,822,25/02/2025,SMS,Y,N,Resident,N,86,N,Y,N,27/02/2025,A,Private Renter,Resident,9,893,Y,Y,31/05/2021
+921178149,16/02/2014,167,,Email,N,Y,Resident,N,84,N,Y,Y,22/02/2025,B,Owner,Unmatched,,,,,
+282301048,14/03/2013,17,,Email,N,Y,Resident,N,99,N,Y,Y,27/03/2025,,Owner,Resident,6,986,Y,N,20/08/2022
+863847198,15/06/2006,156,16/03/2025,Email,N,Y,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+312593657,09/07/2018,75,14/03/2025,SMS,Y,N,Resident,N,96,N,Y,Y,01/04/2025,A,Private Renter,Resident,8,950,Y,Y,10/08/2021
+258568966,26/01/2002,2038,,Email,N,Y,Resident,N,42,N,Y,N,21/12/2024,,Owner,Resident,9,707,Y,N,27/12/2019
+326501297,24/03/2018,,07/04/2025,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Deceased,,,Y,Y,
+745133409,30/06/2012,64,06/04/2025,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+498595799,18/08/2008,51,03/04/2025,SMS,Y,N,Forwarding Address,N,93,N,Y,Y,14/03/2025,,Owner,Resident,4,989,Y,Y,17/10/2024
+266536571,30/03/2011,23,21/03/2025,SMS,Y,N,Resident,N,89,N,Y,N,14/03/2025,B,Owner,Resident,6,960,Y,Y,20/05/2022
+681586889,15/02/2013,3045,12/06/2023,Email,N,Y,Resident,N,27,N,N,Y,19/05/2023,F,Social Renter,Resident,6,428,Y,Y,25/12/2023
+427141785,22/07/2000,333,09/03/2025,SMS,Y,N,Resident,N,91,N,N,N,24/02/2025,,Social Renter,Forwarding Address,9,937,Y,Y,26/12/2021
+735466560,11/11/2016,2046,24/09/2024,Email,N,Y,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,
+881172023,17/02/1996,24,,SMS,Y,N,Resident,N,93,N,Y,N,27/03/2025,C,Owner,Resident,2,969,Y,Y,02/10/2025
+812551758,15/12/2017,83,06/04/2025,SMS,Y,N,Resident,N,96,N,N,N,13/03/2025,C,Private Renter,Resident,3,952,Y,Y,04/06/2025
+478531743,31/10/2001,2967,10/10/2024,Phone,N,N,Forwarding Address,N,34,N,Y,Y,03/10/2024,D,Owner,Resident,2,515,Y,Y,19/09/2025
+886048343,23/04/1996,2214,22/12/2024,Phone,N,N,Unmatched,,,,,,,F,Private Renter,Unmatched,,,,,
+101727745,10/06/2012,690,14/02/2025,SMS,Y,N,Resident,N,85,N,Y,N,12/03/2025,A,Owner,Resident,7,951,Y,Y,08/01/2023
+291859303,22/04/2010,6383,10/03/2020,Letter,N,N,Deceased,N,0,Y,N,N,14/11/2021,F,Social Renter,Deceased,,,N,Y,
+734796782,27/02/1995,2542,17/03/2025,Phone,N,N,Deceased,N,0,Y,Y,Y,10/02/2025,D,Social Renter,Resident,5,532,Y,Y,26/09/2023
+429484058,01/02/2001,3870,18/01/2025,Email,N,Y,Resident,N,23,N,N,N,03/11/2023,F,Owner,Resident,2,447,Y,Y,28/09/2025
+509762279,21/03/2014,982,15/03/2025,SMS,Y,N,Resident,N,94,N,Y,Y,12/03/2025,C,Private Renter,Unmatched,,,,,
+314630499,02/03/1996,73,,SMS,Y,N,Resident,N,88,N,N,Y,20/03/2025,B,Owner,Resident,9,973,Y,Y,13/09/2020
+658827118,12/06/2018,89,21/03/2025,SMS,Y,N,Forwarding Address,N,93,N,N,Y,05/04/2025,A,Owner,Unmatched,,,,,
+478866201,22/05/2015,,23/03/2025,Letter,N,N,Resident,N,30,N,N,Y,31/03/2025,E,Social Renter,Deceased,,,Y,Y,
+949221761,26/01/2009,,01/04/2025,SMS,Y,N,Resident,N,55,N,Y,Y,16/03/2025,B,Private Renter,Resident,9,887,Y,Y,06/08/2022
+347070350,29/09/2015,3994,29/07/2024,Letter,N,N,Forwarding Address,N,27,N,N,N,15/01/2024,F,Social Renter,Forwarding Address,6,395,N,Y,06/10/2023
+958168105,12/08/2005,3060,19/05/2023,Email,N,Y,Resident,N,19,N,N,N,02/03/2024,F,Private Renter,Resident,4,500,Y,Y,18/10/2024
+178049468,23/01/2005,946,,SMS,Y,N,Resident,N,90,N,Y,Y,05/03/2025,B,Social Renter,Resident,5,842,Y,Y,12/09/2023
+290274780,29/07/2004,13,01/04/2025,Phone,N,N,Resident,N,85,N,N,N,10/03/2025,,Owner,Resident,2,984,Y,Y,22/09/2025
+597654150,14/07/2006,,14/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,
+549692615,07/12/2012,98,18/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,3,965,Y,Y,28/06/2025
+511154791,03/02/2004,26,18/03/2025,SMS,Y,N,Resident,N,88,N,N,Y,06/04/2025,A,Owner,Resident,5,976,Y,Y,06/01/2024
+370881776,11/03/2004,81,27/03/2025,SMS,Y,N,Resident,N,85,N,N,Y,06/04/2025,A,Private Renter,Unmatched,,,,,
+327170018,03/11/2017,3615,08/04/2023,Letter,N,N,Resident,N,24,N,N,N,11/02/2024,C,Social Renter,Resident,6,394,N,Y,14/03/2023
+144109833,27/06/2001,3430,15/11/2023,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Resident,8,319,Y,Y,31/08/2022
+548065337,30/06/1995,1346,31/01/2025,Email,N,Y,Unmatched,,,,,,,B,,Resident,2,805,Y,Y,28/09/2025
+792994202,20/10/2006,2254,25/08/2024,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3,687,Y,Y,09/03/2025
+993512273,26/02/2001,62,14/03/2025,SMS,Y,N,Resident,N,89,N,Y,Y,07/04/2025,A,Owner,Resident,6,977,Y,Y,26/11/2022
+200872587,11/01/1998,81,22/03/2025,SMS,Y,N,Resident,N,97,N,Y,Y,22/03/2025,,Private Renter,Resident,5,955,Y,N,09/10/2023
+151239860,21/04/2004,,30/03/2025,SMS,Y,N,Resident,N,85,N,Y,Y,19/03/2025,,Owner,Forwarding Address,6,83,Y,N,17/12/2023
+978304808,02/11/1997,2985,15/11/2024,Email,N,Y,Unmatched,,,,,,,F,Social Renter,Resident,1,517,Y,Y,03/10/2025
+437075293,30/01/2003,1405,06/02/2025,SMS,Y,N,Resident,N,65,N,N,Y,29/11/2024,,Owner,Forwarding Address,2,825,N,Y,27/09/2025
+102724681,28/01/2001,1998,19/03/2025,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,
+724339784,29/11/2004,648,,Letter,N,N,Resident,N,90,N,N,N,09/03/2025,,Private Renter,Unmatched,,,,,
+599748413,24/10/2006,2611,20/01/2025,Phone,N,N,Resident,N,26,N,N,N,30/01/2025,F,Social Renter,Resident,3,505,Y,Y,05/06/2025
+198809815,06/11/2016,2021,30/09/2024,Email,N,Y,Resident,N,39,N,N,N,22/09/2024,F,Private Renter,Resident,5,556,Y,Y,15/01/2024
+206211142,11/09/2005,1722,13/12/2024,SMS,Y,N,Resident,N,54,N,N,N,27/02/2025,A,Owner,Resident,3,736,Y,Y,23/04/2025
+956196043,08/03/2009,1359,19/02/2025,Email,N,Y,Resident,N,79,N,N,Y,02/12/2024,C,Owner,Resident,1,750,N,Y,03/10/2025
+527691154,04/01/2011,2607,11/11/2024,Email,N,Y,Resident,N,52,N,Y,N,07/11/2024,E,Social Renter,Resident,3,507,Y,N,03/06/2025
+375319578,09/12/2011,91,12/03/2025,Phone,N,N,Resident,N,92,N,N,Y,29/03/2025,A,Owner,Resident,6,969,Y,Y,05/12/2023
+132288798,19/08/1996,661,03/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+277804390,12/10/1998,21,12/03/2025,SMS,Y,N,Resident,N,90,N,N,Y,20/03/2025,C,Owner,Forwarding Address,8,980,Y,Y,24/10/2020
+735000504,09/09/2013,541,20/03/2025,Email,N,Y,Resident,N,88,N,Y,N,23/02/2025,B,Social Renter,Unmatched,,,,,
+905347182,13/12/2012,1755,21/12/2024,SMS,Y,N,Resident,N,74,N,N,Y,07/12/2024,D,Private Renter,Resident,3,855,Y,Y,03/06/2025
+931857341,12/12/2017,1575,23/12/2024,Phone,N,N,Unmatched,,,,,,,,Owner,Resident,7,841,Y,Y,31/01/2022
+702107275,28/09/2017,2180,,Phone,N,N,Resident,N,27,N,Y,N,02/11/2024,A,Social Renter,Resident,4,589,N,Y,07/10/2024
+509256103,23/05/2003,3576,09/12/2024,Phone,N,N,Resident,N,16,N,N,N,08/05/2023,E,Social Renter,Resident,7,319,Y,N,20/12/2020
+864847959,26/09/2006,1490,24/12/2024,Email,N,Y,Resident,N,55,N,N,N,01/02/2025,D,Owner,Resident,4,792,Y,N,25/12/2024
+404567372,07/02/2004,2798,,Email,N,Y,Resident,N,40,N,N,Y,18/11/2024,B,Private Renter,Resident,9,608,Y,N,02/10/2018
+319239117,14/01/2002,433,11/02/2025,SMS,Y,N,Resident,N,89,N,N,N,08/02/2025,B,Owner,Forwarding Address,5,854,Y,N,06/02/2024
+684937948,10/03/2003,31,21/03/2025,SMS,Y,N,Unmatched,,,,,,,E,,Resident,4,959,Y,Y,09/11/2024
+972156241,13/12/2014,407,19/03/2025,Email,N,Y,Resident,N,92,N,Y,N,24/02/2025,B,Owner,Resident,4,866,Y,Y,07/01/2025
+758873677,24/10/2013,,24/03/2025,Email,N,Y,Resident,N,25,N,N,N,28/03/2025,A,Social Renter,Resident,4,914,Y,Y,21/01/2025
+974335046,15/06/2017,1129,05/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Forwarding Address,4,828,N,Y,12/10/2024
+975230117,02/11/1997,439,14/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,13/03/2025,A,Social Renter,Resident,7,937,Y,Y,16/10/2023
+949201383,24/04/2006,2842,10/02/2025,Phone,N,N,Resident,N,40,N,N,N,28/10/2024,F,Owner,Deceased,,,N,Y,
+309614232,09/08/2010,443,20/03/2025,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+281274204,27/11/2002,2633,20/12/2024,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,8,609,Y,N,28/06/2023
+540802514,25/02/2008,3945,06/04/2025,Phone,N,N,Resident,N,20,N,N,N,13/11/2023,E,Private Renter,Resident,7,465,N,Y,08/12/2022
+179049932,21/07/2008,1720,23/12/2024,Phone,N,N,Resident,N,77,N,Y,N,22/12/2024,C,Social Renter,Resident,5,777,N,Y,11/07/2024
+367351310,06/08/2012,43,23/03/2025,SMS,Y,N,Resident,N,85,N,Y,Y,14/03/2025,A,Owner,Resident,7,988,Y,Y,16/01/2021
+621123043,01/05/2014,57,18/03/2025,SMS,Y,N,Resident,N,96,N,Y,Y,27/03/2025,C,Private Renter,Resident,6,956,Y,N,03/07/2024
+642190969,26/12/1998,3595,,Phone,N,N,Resident,N,19,N,N,N,11/07/2023,E,Social Renter,Unmatched,,,,,
+512778860,24/03/1995,94,11/03/2025,SMS,Y,N,Resident,N,95,N,N,N,28/03/2025,B,Private Renter,Resident,6,978,Y,Y,09/12/2023
+967273874,28/11/1998,258,14/03/2025,Email,N,Y,Resident,N,78,N,Y,N,22/03/2025,A,Private Renter,Resident,8,916,Y,Y,01/08/2022
+783986397,14/09/2010,62,20/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,14/03/2025,B,Owner,Deceased,,,Y,Y,
+876557087,13/02/1997,472,10/03/2025,SMS,Y,N,Resident,N,90,N,N,Y,27/02/2025,C,Private Renter,Resident,6,886,Y,Y,30/08/2023
+645424237,12/03/2014,1053,15/01/2025,SMS,Y,N,Resident,N,55,N,Y,Y,24/12/2024,E,Owner,Resident,4,797,N,Y,01/04/2025
+479725862,24/08/1995,292,15/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,11/03/2025,A,Private Renter,Resident,9,912,N,Y,27/02/2021
+269862527,08/02/1995,949,10/03/2025,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+987532158,04/10/2010,4469,26/05/2019,Letter,N,N,Resident,Y,9,N,Y,Y,21/12/2022,F,Social Renter,Resident,7,223,N,Y,30/05/2021
+307111297,26/08/2006,46,20/03/2025,SMS,Y,N,Resident,N,95,N,Y,Y,10/03/2025,,Private Renter,Resident,2,974,Y,Y,24/09/2025
+369918467,20/11/2007,22,,Email,N,Y,Resident,N,94,N,Y,Y,30/03/2025,,Private Renter,Resident,6,980,Y,Y,02/12/2022
+411551298,11/09/2008,54,29/03/2025,Phone,N,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+304108878,22/04/2012,,22/03/2025,Letter,N,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,
+660853543,06/07/2014,2366,26/11/2024,Email,N,Y,Unmatched,,,,,,,E,Owner,Resident,3,658,Y,Y,25/07/2025
+984811170,24/09/2000,12,04/04/2025,Phone,N,N,Unmatched,,,,,,,,Owner,Unmatched,,,,,
+216133270,23/08/2007,79,09/04/2025,SMS,Y,N,Resident,N,97,N,Y,Y,09/04/2025,B,Social Renter,Resident,3,967,Y,Y,02/06/2025
+414551500,29/11/2008,1486,12/03/2025,SMS,Y,N,Resident,N,63,N,N,N,01/12/2024,C,Owner,Forwarding Address,6,879,Y,N,19/10/2023
+259586050,03/03/2007,94,12/03/2025,SMS,Y,N,Resident,N,98,N,Y,Y,03/04/2025,A,Owner,Resident,9,968,Y,Y,02/11/2018
+993792506,23/10/1995,2935,30/11/2024,Email,N,Y,Resident,N,41,N,Y,Y,17/01/2025,E,Owner,Resident,6,526,Y,Y,03/04/2023
+554988055,29/01/2002,97,23/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,01/04/2025,B,Social Renter,Unmatched,,,,,
+200175445,22/04/2016,,16/03/2025,Email,N,Y,Resident,N,31,N,N,Y,02/04/2025,E,Private Renter,Forwarding Address,1,786,Y,N,03/10/2025
+961132930,14/06/2004,6,27/03/2025,Email,N,Y,Deceased,N,0,Y,Y,N,24/03/2025,C,Private Renter,Deceased,,,Y,Y,
+358060748,16/07/2001,462,05/03/2025,SMS,Y,N,Resident,N,77,N,Y,Y,17/02/2025,B,Social Renter,Resident,8,843,N,Y,08/12/2019
+544540490,26/12/2017,2093,08/12/2024,Phone,N,N,Resident,N,60,N,Y,Y,26/10/2024,D,Owner,Resident,3,708,Y,Y,22/08/2025
+991681392,11/02/2001,1,06/04/2025,SMS,Y,N,Resident,N,96,N,Y,Y,01/04/2025,B,Private Renter,Deceased,,,Y,Y,
+832982466,15/01/2005,86,06/04/2025,SMS,Y,N,Resident,N,86,N,Y,Y,31/03/2025,B,Private Renter,Resident,1,977,Y,Y,03/10/2025
+714394054,23/01/2010,538,17/03/2025,Phone,N,N,Resident,N,91,N,N,Y,23/03/2025,A,Private Renter,Resident,5,858,Y,Y,30/07/2024
+547121414,30/04/2001,5848,20/07/2019,Letter,N,N,Resident,Y,10,N,Y,Y,17/08/2022,F,Private Renter,Resident,5,75,Y,Y,08/05/2024
+831593760,27/06/2012,3419,26/11/2023,Phone,N,N,Resident,N,22,N,N,N,05/08/2023,F,Private Renter,Resident,6,477,Y,Y,10/04/2023
+921611928,19/07/2001,73,30/03/2025,SMS,Y,N,Resident,N,89,N,Y,Y,03/04/2025,A,Owner,Resident,3,955,Y,Y,29/05/2025
+338941055,11/05/1998,,,Letter,N,N,Resident,N,21,N,Y,N,19/03/2025,B,Owner,Forwarding Address,8,367,Y,Y,23/09/2022
+486741382,07/04/2001,4667,18/03/2021,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+311038785,23/02/2010,2172,27/03/2025,Email,N,Y,Resident,N,34,N,N,Y,13/09/2024,F,Owner,Resident,6,627,Y,N,09/09/2022
+299869639,08/11/2000,58,06/04/2025,Phone,N,N,Forwarding Address,N,96,N,Y,N,22/03/2025,A,Owner,Forwarding Address,1,987,Y,Y,03/10/2025
+358600742,19/08/2017,45,27/03/2025,Email,N,Y,Resident,N,88,N,Y,Y,27/03/2025,A,Private Renter,Resident,5,973,N,Y,12/07/2024
+988606490,07/12/2006,45,06/04/2025,SMS,Y,N,Unmatched,,,,,,,,Owner,Resident,3,982,Y,Y,26/05/2025
+177401549,28/08/2012,5,16/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,
+619360858,01/09/2001,1583,11/01/2025,Email,N,Y,Resident,N,73,N,N,N,26/01/2025,B,Private Renter,Resident,3,813,Y,Y,20/08/2025
+948800303,25/11/1999,73,,SMS,Y,N,Resident,N,90,N,Y,N,02/04/2025,A,Private Renter,Resident,5,982,Y,Y,11/11/2023
+123193798,06/03/2014,1462,17/12/2024,Email,N,Y,Resident,N,59,N,Y,N,25/11/2024,E,Owner,Resident,7,858,Y,Y,22/01/2021
+832143050,28/06/1997,17,,SMS,Y,N,Resident,N,93,N,Y,Y,26/03/2025,B,Private Renter,Resident,9,988,Y,Y,22/01/2021
+253298985,08/05/2004,,30/03/2025,Letter,N,N,Unmatched,,,,,,,A,Social Renter,Resident,3,248,Y,Y,31/08/2025
+268593036,06/07/2010,11,18/03/2025,Phone,N,N,Resident,N,99,N,Y,N,24/03/2025,A,Owner,Resident,5,965,Y,Y,03/04/2024
+845449722,07/03/2008,35,01/04/2025,Phone,N,N,Resident,N,98,N,Y,N,20/03/2025,E,,Resident,5,982,Y,Y,30/09/2023
+442086666,08/05/2015,4066,22/03/2021,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,
+467736760,11/11/2008,2360,18/02/2025,Email,N,Y,Resident,N,53,N,Y,N,30/12/2024,E,Private Renter,Resident,7,538,Y,Y,08/05/2023
+200218621,22/02/2012,595,25/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,8,900,Y,Y,22/04/2023
+791461280,09/01/2009,85,07/04/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,27/03/2025,A,Private Renter,Deceased,,,Y,Y,
+207624094,15/04/2010,3562,25/03/2024,Phone,N,N,Resident,N,16,N,N,N,16/08/2023,A,Social Renter,Unmatched,,,,,
+683448389,13/05/2006,1103,,SMS,Y,N,Resident,N,78,N,N,Y,14/02/2025,F,Owner,Resident,4,747,N,Y,03/12/2024
+149576375,01/08/2002,2844,17/02/2025,Email,N,Y,Resident,N,53,N,N,N,24/02/2025,C,Owner,Resident,7,522,Y,Y,15/03/2024
+626538242,07/05/2011,1253,,Email,N,Y,Resident,N,54,N,Y,Y,09/02/2025,D,Owner,Resident,8,826,Y,Y,22/08/2021
+482057671,17/04/1995,1706,,SMS,Y,N,Resident,N,55,N,Y,N,10/12/2024,D,Private Renter,Resident,2,709,N,Y,22/09/2025
+211067138,04/09/2016,,10/03/2025,Phone,N,N,Resident,N,28,N,N,Y,08/04/2025,C,,Resident,6,198,Y,Y,20/02/2022
+342345670,26/08/2002,87,23/03/2025,SMS,Y,N,Deceased,N,0,Y,N,Y,15/03/2025,A,Owner,Deceased,,,Y,Y,
+579910599,09/06/2011,1898,17/12/2024,SMS,Y,N,Resident,N,79,N,Y,N,16/12/2024,E,Private Renter,Resident,1,713,Y,Y,03/10/2025
+274353592,30/06/1999,3576,17/04/2024,SMS,Y,N,Resident,N,28,N,N,Y,20/07/2023,E,Private Renter,Resident,2,275,Y,Y,19/09/2025
+731587561,19/06/2018,2642,11/09/2024,Email,N,Y,Resident,N,44,N,N,N,25/01/2025,D,Owner,Resident,7,708,Y,Y,30/09/2022
+135558542,13/02/1998,3043,16/10/2024,Email,N,Y,Deceased,N,0,Y,N,N,15/08/2023,E,Private Renter,Deceased,,,Y,N,
+775846637,19/03/1996,1894,08/03/2025,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,
+906910453,03/01/2010,3278,16/01/2025,Letter,N,N,Resident,N,17,N,Y,Y,20/06/2023,B,Private Renter,Resident,6,372,Y,Y,23/06/2023
+430239795,30/06/2000,2176,04/12/2024,Email,N,Y,Unmatched,,,,,,,E,Private Renter,Forwarding Address,9,534,Y,N,29/10/2021
+151617898,22/06/2006,,10/03/2025,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Resident,8,161,Y,Y,25/11/2021
+674974586,13/10/2009,330,25/03/2025,Email,N,Y,Unmatched,,,,,,,A,Social Renter,Resident,6,855,Y,Y,28/05/2022
+613928894,11/05/2003,64,04/04/2025,Phone,N,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,1,950,Y,Y,03/10/2025
+741304687,04/06/2003,563,16/03/2025,SMS,Y,N,Resident,N,92,N,Y,Y,14/03/2025,D,Social Renter,Resident,3,960,Y,Y,31/07/2025
+207948967,03/10/1995,892,10/03/2025,SMS,Y,N,Resident,N,79,N,N,Y,08/02/2025,D,Private Renter,Resident,6,949,Y,Y,07/07/2023
+110895918,31/08/2007,68,05/04/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,
+482649386,07/09/1995,77,02/04/2025,SMS,Y,N,Resident,N,86,N,N,Y,13/03/2025,B,Owner,Resident,7,955,Y,Y,10/12/2022
+462788165,04/11/2009,,01/04/2025,Phone,N,N,Deceased,N,0,Y,N,N,08/04/2025,D,Social Renter,Deceased,,,Y,Y,
+819142306,01/05/1999,1960,09/01/2025,Phone,N,N,Resident,N,58,N,Y,N,14/02/2025,D,Social Renter,Resident,7,864,Y,Y,11/06/2022
+425529755,20/08/2016,7,09/04/2025,SMS,Y,N,Resident,N,90,N,Y,N,09/04/2025,B,Private Renter,Resident,4,986,Y,Y,17/10/2024
+152472190,28/07/2010,3083,03/04/2023,Phone,N,N,Resident,N,16,N,N,Y,29/11/2023,E,Social Renter,Resident,3,364,Y,Y,17/06/2025
+482061056,03/07/2015,370,18/03/2025,Email,N,Y,Deceased,N,0,Y,N,N,06/03/2025,D,Private Renter,Deceased,,,Y,Y,
+251932469,23/11/2001,2026,18/01/2025,Email,N,Y,Resident,N,51,N,N,N,14/11/2024,C,Owner,Resident,2,617,Y,Y,01/10/2025
+938847883,31/08/2011,5,21/03/2025,Email,N,Y,Resident,N,89,N,N,Y,31/03/2025,A,Owner,Resident,3,972,Y,Y,24/05/2025
+535876814,03/12/2008,4501,30/12/2019,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+792320040,23/01/2015,18,04/04/2025,SMS,Y,N,Resident,N,93,N,Y,Y,14/03/2025,A,Owner,Resident,5,971,Y,Y,31/10/2023
+990957090,14/06/2003,45,11/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Forwarding Address,9,963,Y,Y,30/06/2020
+898755027,19/05/2016,,29/03/2025,Phone,N,N,Unmatched,,,,,,,D,Owner,Resident,2,611,Y,Y,19/09/2025
+363631081,03/08/1998,2309,17/02/2025,Email,N,Y,Resident,N,26,N,N,Y,25/11/2024,F,Social Renter,Resident,1,517,Y,N,03/10/2025
+229321171,18/06/2012,950,09/03/2025,SMS,Y,N,Resident,N,90,N,N,Y,15/03/2025,A,Owner,Resident,2,883,Y,Y,25/09/2025
+641079246,10/10/2004,2047,03/11/2024,Phone,N,N,Resident,N,49,N,N,Y,04/11/2024,C,Owner,Resident,8,542,Y,N,06/01/2023
+894863438,02/05/2013,510,12/03/2025,SMS,Y,N,Unmatched,,,,,,,,Owner,Forwarding Address,2,953,Y,Y,29/09/2025
+943059248,09/12/2004,225,,Email,N,Y,Unmatched,,,,,,,A,Social Renter,Forwarding Address,2,876,Y,Y,19/09/2025
+211904295,26/02/2006,3332,03/07/2023,Letter,N,N,Resident,N,27,N,N,N,19/04/2023,D,Private Renter,Resident,1,364,Y,Y,03/10/2025
+127044283,19/04/2000,2093,23/11/2024,Phone,N,N,Resident,N,46,N,N,Y,14/01/2025,F,Social Renter,Resident,5,676,Y,Y,27/11/2023
+650757444,20/01/2002,36,25/03/2025,SMS,Y,N,Forwarding Address,N,86,N,Y,N,08/04/2025,E,Social Renter,Resident,2,983,Y,Y,25/09/2025
+293048991,05/07/2001,2508,11/03/2025,Phone,N,N,Resident,N,29,N,N,N,04/01/2025,F,Private Renter,Resident,7,534,Y,N,06/04/2022
+537580099,11/06/2016,,02/04/2025,Letter,N,N,Resident,N,97,N,N,Y,28/03/2025,,Social Renter,Deceased,,,Y,N,
+569022607,21/03/1995,504,,SMS,Y,N,Resident,N,80,N,Y,Y,15/03/2025,B,Private Renter,Resident,8,854,N,Y,05/11/2020
+756940253,25/05/2006,663,21/03/2025,SMS,Y,N,Resident,N,80,N,Y,Y,02/03/2025,D,Private Renter,Resident,2,905,Y,Y,21/09/2025
+368799403,12/04/2018,89,25/03/2025,SMS,Y,N,Resident,N,89,N,Y,Y,04/04/2025,A,Owner,Forwarding Address,8,968,Y,N,02/06/2022
+627593283,13/01/2005,,06/04/2025,SMS,Y,N,Resident,N,69,N,Y,N,25/03/2025,B,Social Renter,Resident,1,371,Y,Y,03/10/2025
+335655632,03/04/2016,46,22/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1,954,Y,Y,03/10/2025
+485762673,13/09/2005,1878,10/03/2025,Email,N,Y,Resident,N,70,N,Y,N,07/12/2024,D,Social Renter,Resident,5,755,N,Y,11/01/2024
+115854033,05/10/1999,763,07/03/2025,SMS,Y,N,Resident,N,78,N,Y,Y,30/03/2025,D,Owner,Resident,3,919,Y,Y,18/03/2025
+335724309,20/04/2007,2746,06/10/2024,Phone,N,N,Resident,N,54,N,Y,Y,10/09/2024,E,Owner,Unmatched,,,,,
+691753405,30/01/1995,,,Phone,N,N,Resident,N,47,N,Y,Y,21/03/2025,A,Social Renter,Forwarding Address,4,69,Y,Y,16/10/2024
+833245873,13/03/2012,,23/03/2025,SMS,Y,N,Unmatched,,,,,,,F,Private Renter,Deceased,,,Y,Y,
+130305981,30/11/2003,3210,15/01/2025,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,9,348,Y,N,15/08/2020
+142055730,29/04/2000,2474,03/09/2024,Email,N,Y,Resident,N,50,N,N,N,26/09/2024,F,Social Renter,Resident,8,556,Y,Y,10/04/2021
+886987009,28/01/2006,3550,23/03/2024,SMS,Y,N,Resident,N,28,N,N,N,25/01/2024,F,Social Renter,Resident,9,494,Y,Y,31/03/2022
+782536519,21/12/2007,2546,23/08/2024,Email,N,Y,Resident,N,49,N,Y,Y,28/09/2024,D,Social Renter,Resident,1,672,N,Y,03/10/2025
+235919917,15/03/2012,3008,09/10/2023,Phone,N,N,Resident,N,19,N,N,N,06/11/2023,F,Social Renter,Resident,8,457,Y,N,11/12/2019
+473936649,26/01/2012,,09/04/2025,SMS,Y,N,Resident,N,26,N,N,N,02/04/2025,C,Social Renter,Resident,4,610,Y,Y,01/04/2025
+732784384,23/12/2008,37,16/03/2025,SMS,Y,N,Unmatched,,,,,,,,,Deceased,,,Y,Y,
+303600415,19/07/2011,867,01/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,17/03/2025,B,Social Renter,Resident,9,940,Y,Y,21/11/2020
+918234732,07/09/2012,,29/03/2025,Email,N,Y,Resident,N,15,N,Y,Y,10/03/2025,A,Owner,Deceased,,,Y,Y,
+807628936,10/05/2006,31,15/03/2025,Phone,N,N,Forwarding Address,N,91,N,Y,Y,19/03/2025,A,Private Renter,Forwarding Address,6,969,N,Y,20/10/2022
+122738353,22/10/2017,2892,,Email,N,Y,Resident,N,39,N,N,N,11/09/2024,E,Social Renter,Resident,5,654,Y,Y,25/01/2024
+952734235,31/10/2016,,13/03/2025,Phone,N,N,Resident,N,34,N,Y,N,20/03/2025,E,Social Renter,Resident,9,855,Y,Y,13/08/2022
+918374410,03/06/2005,2767,26/01/2025,Email,N,Y,Resident,N,49,N,N,N,11/02/2025,E,Private Renter,Resident,6,627,Y,Y,09/04/2024
+602424634,03/06/2012,1538,16/12/2024,Email,N,Y,Resident,N,55,N,N,Y,30/01/2025,F,Social Renter,Unmatched,,,,,
+238152746,07/10/2001,1363,14/02/2025,Email,N,Y,Resident,N,79,N,Y,Y,15/01/2025,,Owner,Resident,8,870,Y,Y,04/10/2022
+978693146,28/09/1996,93,26/03/2025,SMS,Y,N,Resident,N,93,N,N,Y,20/03/2025,A,Private Renter,Resident,6,982,Y,Y,28/09/2022
+278387760,29/08/2000,36,20/03/2025,SMS,Y,N,Resident,N,99,N,Y,Y,10/03/2025,A,Owner,Resident,3,972,Y,Y,02/04/2025
+161947323,05/10/2005,2902,30/01/2025,Phone,N,N,Resident,N,58,N,N,N,25/09/2024,D,Owner,Unmatched,,,,,
+893937490,09/07/2014,1592,,Email,N,Y,Resident,N,69,N,Y,N,30/01/2025,F,Owner,Resident,5,812,Y,Y,17/01/2024
+605297947,26/09/2001,77,11/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Forwarding Address,9,985,Y,Y,24/06/2020
+879027437,26/12/2002,2090,20/02/2025,Phone,N,N,Resident,N,34,N,N,N,01/01/2025,E,Private Renter,Resident,3,576,N,N,01/09/2025
+970502905,31/07/2008,5744,04/08/2023,Letter,N,N,Resident,Y,10,N,N,N,01/03/2022,F,Social Renter,Resident,4,58,N,Y,14/09/2024
+927184103,19/08/1997,,30/03/2025,SMS,Y,N,Resident,N,54,N,N,Y,06/04/2025,F,Social Renter,Resident,2,832,Y,Y,18/09/2025
+515308316,12/11/2013,458,19/03/2025,SMS,Y,N,Resident,N,78,N,Y,Y,22/03/2025,B,Private Renter,Resident,1,853,Y,Y,03/10/2025
+198387336,07/05/2005,2608,30/12/2024,Email,N,Y,Resident,N,47,N,N,N,10/02/2025,F,Social Renter,Resident,1,661,Y,Y,03/10/2025
+631975337,30/07/1995,2002,23/10/2024,Email,N,Y,Resident,N,39,N,N,N,24/12/2024,F,Owner,Resident,4,649,Y,Y,29/10/2024
+256259603,16/10/2002,275,27/02/2025,SMS,Y,N,Resident,N,88,N,Y,Y,28/02/2025,C,Owner,Resident,9,919,Y,Y,12/07/2021
+754935111,29/06/2017,2848,29/01/2025,Email,N,Y,Resident,N,53,N,Y,N,10/10/2024,F,Private Renter,Resident,4,621,N,Y,26/03/2025
+109652942,28/04/1996,29,16/03/2025,SMS,Y,N,Resident,N,92,N,N,Y,21/03/2025,C,Private Renter,Resident,4,975,Y,Y,25/11/2024
+238705982,23/06/2009,2624,06/02/2025,Letter,N,N,Resident,N,45,N,N,N,11/11/2024,D,Social Renter,Resident,8,655,Y,N,28/03/2021
+743528761,09/12/2011,,25/03/2025,SMS,Y,N,Resident,N,77,N,N,N,16/03/2025,A,Social Renter,Resident,4,234,Y,Y,02/03/2025
+423683057,13/06/1995,18,20/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,6,969,Y,Y,03/03/2022
+570603026,10/01/2006,1955,26/03/2025,Email,N,Y,Forwarding Address,N,68,N,Y,Y,11/01/2025,F,Owner,Forwarding Address,1,810,Y,N,03/10/2025
+222122817,20/10/2008,4046,28/02/2020,Email,N,Y,Resident,N,14,N,N,N,03/10/2021,E,Private Renter,Resident,4,237,Y,Y,01/04/2025
+650973054,15/03/1995,777,13/03/2025,Email,N,Y,Resident,N,92,N,N,N,21/03/2025,D,Owner,Resident,8,905,Y,Y,15/09/2019
+902415583,22/05/2000,6,10/03/2025,Letter,N,N,Resident,N,89,N,Y,Y,04/04/2025,C,Private Renter,Resident,8,962,Y,Y,09/05/2023
+943470182,21/07/1995,25,29/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+590722421,02/04/2005,14,25/03/2025,SMS,Y,N,Forwarding Address,N,99,N,Y,N,06/04/2025,D,Private Renter,Deceased,,,Y,Y,
+953002473,31/03/2013,64,11/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,04/04/2025,B,Owner,Resident,4,959,N,Y,19/09/2024
+136490060,06/02/1999,,22/03/2025,Letter,N,N,Unmatched,,,,,,,B,Owner,Forwarding Address,5,37,Y,Y,28/03/2024
+522975892,12/07/2004,765,01/03/2025,Email,N,Y,Forwarding Address,N,75,N,Y,N,23/02/2025,A,Owner,Resident,4,952,Y,Y,23/03/2025
+998179196,25/07/2014,1986,04/02/2025,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Resident,2,811,Y,Y,21/09/2025
+733458034,13/01/2001,,27/03/2025,Phone,N,N,Unmatched,,,,,,,D,Social Renter,Deceased,,,Y,Y,
+165829614,01/06/1999,,12/03/2025,Letter,N,N,Resident,N,50,N,Y,N,03/04/2025,A,Social Renter,Resident,5,510,Y,Y,29/09/2023
+417470776,04/07/1996,2242,23/11/2024,Email,N,Y,Resident,N,47,N,Y,N,10/10/2024,C,Private Renter,Deceased,,,Y,Y,
+138454684,23/06/2015,1315,29/11/2024,SMS,Y,N,Resident,N,55,N,Y,Y,11/02/2025,B,Private Renter,Resident,9,725,Y,Y,03/11/2019
+255694840,27/02/2012,63,10/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,22/03/2025,A,Owner,Resident,4,959,Y,Y,31/01/2025
+721318329,11/10/1996,,14/03/2025,Email,N,Y,Resident,N,41,N,Y,N,21/03/2025,,Owner,Resident,4,176,Y,Y,10/01/2025
+852494370,27/03/2011,3142,07/03/2025,Phone,N,N,Resident,N,26,N,N,N,29/09/2023,E,Owner,Resident,4,474,Y,Y,22/01/2025
+936318190,03/02/2018,1552,,Phone,N,N,Resident,N,54,N,Y,Y,27/12/2024,F,Private Renter,Forwarding Address,1,769,Y,N,03/10/2025
+748292421,30/01/2006,1899,26/01/2025,Email,N,Y,Resident,N,70,N,N,N,08/12/2024,C,,Unmatched,,,,,
+301733992,02/06/1997,,24/03/2025,Letter,N,N,Resident,N,22,N,Y,N,23/03/2025,C,Owner,Resident,1,404,Y,Y,03/10/2025
+403438377,08/03/2002,4,27/03/2025,Email,N,Y,Unmatched,,,,,,,,Social Renter,Resident,9,956,Y,Y,02/01/2022
+398469779,23/10/2013,775,23/02/2025,SMS,Y,N,Resident,N,94,N,N,Y,04/03/2025,,Private Renter,Resident,8,954,Y,Y,30/06/2022
+471957009,18/12/1999,2,06/04/2025,Phone,N,N,Resident,N,89,N,Y,Y,12/03/2025,A,Owner,Resident,7,970,Y,Y,11/04/2023
+691622014,22/08/2015,7,19/03/2025,SMS,Y,N,Resident,N,91,N,Y,Y,28/03/2025,B,Owner,Resident,3,959,Y,Y,02/07/2025
+953331805,28/09/2001,15,30/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,9,950,Y,Y,18/01/2022
+958926809,27/10/2017,2244,06/01/2025,Phone,N,N,Unmatched,,,,,,,C,Private Renter,Resident,6,503,Y,N,26/08/2022
+725181014,31/07/1996,2232,03/01/2025,Email,N,Y,Deceased,N,0,Y,Y,N,30/08/2024,F,Private Renter,Deceased,,,N,Y,
+138053884,12/07/1997,4521,17/08/2019,Letter,N,N,Resident,Y,6,N,N,Y,13/03/2019,F,Social Renter,Deceased,,,Y,N,
+282892541,18/01/2014,,13/03/2025,SMS,Y,N,Resident,N,44,N,N,Y,08/04/2025,B,Social Renter,Resident,1,573,Y,Y,03/10/2025
+775332348,18/04/2005,592,14/02/2025,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Resident,9,940,Y,Y,11/03/2022
+464155364,21/02/2004,1544,22/01/2025,Phone,N,N,Unmatched,,,,,,,D,,Resident,7,851,Y,N,27/05/2024
+880763735,10/11/2013,1812,19/02/2025,Email,N,Y,Resident,N,64,N,N,Y,24/11/2024,C,Private Renter,Resident,9,765,Y,Y,11/02/2019
+963922317,02/10/2002,694,,SMS,Y,N,Resident,N,81,N,Y,N,17/03/2025,D,Owner,Resident,2,854,Y,Y,30/09/2025
+940694074,02/03/1996,23,10/03/2025,Email,N,Y,Resident,N,90,N,N,Y,07/04/2025,C,Private Renter,Resident,5,963,Y,Y,21/02/2024
+435717502,28/04/2008,760,22/03/2025,Email,N,Y,Deceased,N,0,Y,Y,Y,23/02/2025,D,Owner,Deceased,,,Y,Y,
+600911323,17/05/2013,184,12/03/2025,Email,N,Y,Resident,N,89,N,Y,Y,20/03/2025,A,Owner,Resident,7,919,Y,Y,13/02/2021
+874331178,14/05/2015,1567,26/12/2024,Email,N,Y,Deceased,N,0,Y,Y,Y,15/01/2025,C,Owner,Deceased,,,Y,N,
+185151053,13/04/2003,1985,03/02/2025,Email,N,Y,Unmatched,,,,,,,F,Private Renter,Forwarding Address,3,862,Y,Y,01/07/2025
+368241195,15/10/2004,99,,SMS,Y,N,Resident,N,93,N,Y,Y,09/04/2025,A,Owner,Resident,3,976,Y,Y,23/05/2025
+857375959,29/01/2013,61,09/04/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Unmatched,,,,,
+769834773,05/05/2013,22,16/03/2025,Email,N,Y,Resident,N,96,N,Y,N,05/04/2025,B,Owner,Resident,6,988,Y,Y,29/07/2023
+381465266,04/03/2012,828,25/03/2025,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,
+795348776,09/06/2007,2179,13/10/2024,Email,N,Y,Resident,N,27,N,N,N,03/01/2025,D,Social Renter,Resident,5,533,Y,Y,24/04/2024
+101711316,08/01/2014,27,15/03/2025,Email,N,Y,Resident,N,89,N,Y,N,30/03/2025,A,Owner,Resident,6,951,Y,Y,02/10/2021
+866734639,22/08/1996,65,07/04/2025,Email,N,Y,Deceased,N,0,Y,Y,Y,06/04/2025,C,,Deceased,,,Y,Y,
+281226611,28/06/2018,1216,14/12/2024,Email,N,Y,Resident,N,77,N,N,Y,22/02/2025,F,Owner,Deceased,,,Y,N,
+682434809,09/05/2001,64,07/04/2025,SMS,Y,N,Resident,N,90,N,N,Y,21/03/2025,A,Owner,Resident,9,970,Y,Y,17/08/2021
+628635989,11/09/2001,,30/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,16/03/2025,E,Social Renter,Resident,7,967,Y,Y,13/11/2021
+256173221,07/04/2005,4171,14/09/2020,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,3,25,Y,Y,04/07/2025
+584519245,07/09/2017,20,28/03/2025,Phone,N,N,Unmatched,,,,,,,B,Private Renter,Forwarding Address,4,954,Y,Y,01/04/2025
+343847511,19/11/2004,22,23/03/2025,SMS,Y,N,Resident,N,91,N,Y,Y,23/03/2025,,Private Renter,Resident,3,977,Y,N,03/07/2025
+207910570,10/10/2013,44,29/03/2025,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Deceased,,,Y,Y,
+154760415,20/10/2009,73,30/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,12/03/2025,C,Owner,Resident,6,969,Y,Y,13/07/2022
+617721246,25/07/2008,923,22/02/2025,SMS,Y,N,Resident,N,92,N,Y,N,12/03/2025,A,Social Renter,Resident,9,880,Y,Y,17/06/2021
+587526569,11/05/2002,1717,05/02/2025,SMS,Y,N,Resident,N,74,N,N,N,28/02/2025,D,Social Renter,Resident,7,757,Y,Y,03/09/2020
+954460937,07/05/2004,51,30/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,2,979,Y,Y,26/09/2025
+128204887,23/03/2017,365,06/03/2025,Phone,N,N,Resident,N,79,N,N,Y,08/02/2025,B,Private Renter,Resident,8,853,N,N,08/12/2020
+638667680,14/09/2008,1516,11/12/2024,Phone,N,N,Resident,N,69,N,N,N,07/02/2025,D,Social Renter,Resident,8,889,Y,Y,25/03/2021
+877406737,23/08/2003,2122,28/03/2025,Email,N,Y,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,
+977018664,28/09/2006,779,06/03/2025,SMS,Y,N,Resident,N,87,N,N,Y,10/03/2025,B,Owner,Resident,1,949,Y,Y,03/10/2025
+320082041,20/12/2003,55,16/03/2025,Phone,N,N,Resident,N,98,N,Y,Y,17/03/2025,A,Owner,Resident,1,956,Y,Y,03/10/2025
+978914017,12/06/2013,37,15/03/2025,SMS,Y,N,Unmatched,,,,,,,D,Owner,Deceased,,,Y,Y,
+710520527,30/03/2017,44,14/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,N,26/03/2025,B,Owner,Deceased,,,Y,Y,
+386945483,10/02/2001,99,13/03/2025,Email,N,Y,Resident,N,88,N,Y,Y,17/03/2025,A,Owner,Resident,7,958,Y,Y,10/01/2021
+716310605,19/11/1997,3436,08/06/2023,Phone,N,N,Resident,N,25,N,N,N,11/07/2023,F,Owner,Resident,8,307,N,Y,04/04/2022
+888120346,12/04/2013,2341,05/02/2025,Phone,N,N,Resident,N,36,N,N,N,07/10/2024,E,Social Renter,Resident,5,708,N,Y,21/02/2024
+496676081,27/08/2002,521,,Email,N,Y,Resident,N,89,N,Y,Y,24/03/2025,D,Private Renter,Resident,7,959,Y,Y,10/02/2024
+266012208,13/02/2002,2625,15/10/2024,Email,N,Y,Resident,N,53,N,Y,N,15/09/2024,E,Social Renter,Resident,7,592,Y,Y,05/06/2022
+352945992,06/05/2007,719,11/03/2025,SMS,Y,N,Resident,N,88,N,Y,Y,25/02/2025,B,Owner,Resident,2,855,Y,Y,21/09/2025
+326426261,15/10/2015,99,19/03/2025,SMS,Y,N,Resident,N,94,N,Y,Y,17/03/2025,B,Owner,Resident,5,983,Y,Y,03/02/2024
+457721815,12/11/2013,634,21/03/2025,SMS,Y,N,Resident,N,85,N,Y,Y,15/03/2025,B,Owner,Resident,1,929,Y,Y,03/10/2025
+884291181,31/10/1996,2225,16/02/2025,Phone,N,N,Unmatched,,,,,,,D,Private Renter,Forwarding Address,6,503,Y,N,27/07/2024
+940579873,02/05/2001,79,16/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,4,960,Y,Y,02/03/2025
+588215957,07/02/2012,3304,,Email,N,Y,Unmatched,,,,,,,E,,Unmatched,,,,,
+568554521,31/05/2007,2822,17/12/2024,Phone,N,N,Resident,N,40,N,N,N,29/01/2025,A,Private Renter,Resident,3,668,N,Y,28/08/2025
+275803142,20/01/2003,96,13/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Unmatched,,,,,
+724149977,24/10/2006,2629,01/10/2024,Email,N,Y,Resident,N,49,N,N,N,25/01/2025,E,Social Renter,Resident,7,634,Y,Y,15/03/2021
+928898933,28/06/2003,28,15/03/2025,Phone,N,N,Resident,N,85,N,Y,Y,28/03/2025,A,Owner,Resident,7,976,Y,Y,01/03/2024
+871647576,20/10/2003,3725,06/06/2023,Phone,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+595065483,21/02/1998,56,03/04/2025,Phone,N,N,Deceased,N,0,Y,Y,Y,06/04/2025,B,Owner,Deceased,,,Y,Y,
+499843510,09/12/2014,28,05/04/2025,SMS,Y,N,Resident,N,98,N,Y,N,21/03/2025,E,,Unmatched,,,,,
+569117392,08/05/2014,87,08/04/2025,Email,N,Y,Resident,N,93,N,N,N,02/04/2025,B,Private Renter,Resident,6,973,Y,Y,22/07/2023
+405840242,21/04/2004,285,23/02/2025,Email,N,Y,Resident,N,86,N,N,Y,07/03/2025,D,Private Renter,Resident,4,921,Y,Y,21/03/2025
+135277912,04/03/1997,1557,12/12/2024,SMS,Y,N,Unmatched,,,,,,,D,,Unmatched,,,,,
+619773177,08/11/2017,43,19/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,15/03/2025,A,Private Renter,Resident,8,963,Y,Y,11/08/2021
+736808238,26/09/2007,2117,16/02/2025,Email,N,Y,Unmatched,,,,,,,F,Owner,Unmatched,,,,,
+647801606,24/11/2012,60,27/03/2025,SMS,Y,N,Resident,N,97,N,Y,Y,17/03/2025,B,Owner,Unmatched,,,,,
+422846134,07/11/2003,674,25/02/2025,Email,N,Y,Resident,N,75,N,Y,Y,22/03/2025,D,Owner,Resident,5,886,Y,N,25/09/2023
+904815710,14/07/1996,4790,08/11/2019,Letter,N,N,Resident,N,4,N,Y,Y,17/08/2019,F,Private Renter,Resident,1,264,Y,Y,03/10/2025
+435797289,29/03/2008,26,20/03/2025,Phone,N,N,Resident,N,99,N,N,Y,25/03/2025,A,Owner,Resident,3,988,Y,Y,12/06/2025
+928566667,07/05/2003,875,02/03/2025,Email,N,Y,Resident,N,75,N,Y,N,27/02/2025,A,Owner,Resident,5,951,Y,Y,02/10/2023
+185800242,23/11/2005,3512,18/06/2024,Email,N,Y,Resident,N,22,N,N,N,15/03/2023,F,Social Renter,Deceased,,,Y,Y,
+561053344,28/12/2017,2900,24/12/2024,Letter,N,N,Resident,N,49,N,N,N,02/02/2025,F,Social Renter,Resident,3,634,Y,Y,01/08/2025
+656694662,04/10/2006,44,30/03/2025,Email,N,Y,Deceased,N,0,Y,N,Y,24/03/2025,A,Owner,Deceased,,,Y,Y,
+584015339,09/09/2008,3936,18/10/2024,Phone,N,N,Resident,N,15,N,N,N,14/02/2024,D,Private Renter,Unmatched,,,,,
+182051346,02/10/2015,926,06/03/2025,SMS,Y,N,Resident,N,82,N,Y,N,20/02/2025,C,Private Renter,Resident,2,925,Y,Y,19/09/2025
+647919063,02/12/2012,56,03/04/2025,SMS,Y,N,Resident,N,92,N,Y,Y,08/04/2025,C,Private Renter,Resident,1,951,Y,Y,03/10/2025
+834211099,18/01/2007,2702,18/10/2024,Email,N,Y,Resident,N,55,N,N,Y,30/09/2024,D,Owner,Unmatched,,,,,
+239773069,25/05/2000,47,03/04/2025,Email,N,Y,Resident,N,98,N,Y,Y,25/03/2025,A,Owner,Resident,7,981,Y,Y,30/01/2024
+999066113,13/08/2009,3221,03/07/2023,Email,N,Y,Resident,N,15,N,Y,Y,01/05/2023,A,Social Renter,Resident,5,260,Y,Y,08/02/2024
+750832456,13/01/2008,177,04/04/2025,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Forwarding Address,1,920,N,Y,03/10/2025
+246821860,17/11/2016,3369,15/05/2023,Phone,N,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,
+726830740,18/08/1998,2093,10/02/2025,Email,N,Y,Resident,N,41,N,N,N,20/09/2024,E,Owner,Forwarding Address,6,627,Y,Y,04/06/2024
+739217062,09/02/2008,76,03/04/2025,SMS,Y,N,Resident,N,98,N,Y,Y,29/03/2025,,Owner,Resident,3,969,Y,Y,13/07/2025
+481150497,17/12/2010,587,25/02/2025,SMS,Y,N,Resident,N,78,N,N,N,23/02/2025,E,Private Renter,Resident,5,841,Y,Y,27/10/2023
+290124232,17/12/2010,1054,22/01/2025,SMS,Y,N,Resident,N,57,N,Y,N,29/01/2025,E,Social Renter,Resident,3,734,N,Y,11/03/2025
+934265374,04/09/2016,1306,14/03/2025,SMS,Y,N,Resident,N,62,N,Y,Y,31/01/2025,D,Private Renter,Deceased,,,N,Y,
+644114704,10/07/2004,72,09/04/2025,SMS,Y,N,Forwarding Address,N,98,N,N,Y,03/04/2025,,Owner,Forwarding Address,8,970,Y,Y,08/12/2021
+330942040,30/05/2007,86,07/04/2025,SMS,Y,N,Resident,N,99,N,Y,N,12/03/2025,A,Owner,Deceased,,,Y,Y,
+702164976,08/07/1995,5392,23/03/2024,Letter,N,N,Unmatched,,,,,,,E,Social Renter,Forwarding Address,9,11,Y,N,03/05/2019
+279967583,04/09/2009,2371,29/12/2024,Phone,N,N,Resident,N,51,N,Y,Y,01/12/2024,D,Social Renter,Resident,9,684,N,N,01/02/2022
+411733847,04/09/2010,2109,31/12/2024,Phone,N,N,Deceased,N,0,Y,Y,N,30/10/2024,E,Social Renter,Deceased,,,Y,Y,
+530661137,24/02/2007,2656,29/09/2024,Email,N,Y,Unmatched,,,,,,,F,Owner,Unmatched,,,,,
+299122448,27/07/2007,2329,22/02/2025,Email,N,Y,Resident,N,44,N,Y,Y,28/12/2024,E,Private Renter,Forwarding Address,3,697,N,Y,29/08/2025
+684659481,23/06/2002,2940,24/02/2025,SMS,Y,N,Resident,N,30,N,Y,N,25/11/2024,E,Social Renter,Resident,5,669,Y,Y,14/05/2024
+111349429,23/08/2006,4106,20/05/2021,Letter,N,N,Resident,Y,0,N,Y,N,17/05/2019,D,Private Renter,Deceased,,,Y,Y,
+942299819,12/10/2015,1124,27/02/2025,SMS,Y,N,Resident,N,80,N,Y,N,12/12/2024,B,Owner,Unmatched,,,,,
+757184264,29/05/2018,66,,SMS,Y,N,Resident,N,89,N,Y,Y,09/04/2025,B,Private Renter,Resident,4,950,Y,Y,23/02/2025
+684288496,04/07/2009,217,05/03/2025,SMS,Y,N,Resident,N,78,N,Y,N,11/03/2025,C,Owner,Resident,5,915,Y,Y,09/08/2024
+367179542,21/03/2008,34,09/04/2025,SMS,Y,N,Resident,N,92,N,Y,Y,28/03/2025,B,Social Renter,Resident,3,958,Y,Y,11/04/2025
+311769194,11/04/1999,2974,,Email,N,Y,Resident,N,37,N,Y,N,25/12/2024,E,Social Renter,Resident,2,661,Y,Y,22/09/2025
+524953143,11/06/2007,42,05/04/2025,SMS,Y,N,Deceased,N,0,Y,Y,N,13/03/2025,C,Owner,Deceased,,,Y,Y,
+331669623,08/03/2000,754,23/02/2025,Phone,N,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,
+836501616,11/08/2001,6,15/03/2025,Letter,N,N,Resident,N,95,N,N,Y,30/03/2025,A,Owner,Resident,9,977,Y,Y,20/01/2019
+184171505,28/08/2011,20,20/03/2025,SMS,Y,N,Resident,N,87,N,N,Y,27/03/2025,A,Owner,Resident,7,958,Y,Y,28/07/2021
+483072967,06/01/2009,2636,06/01/2025,Phone,N,N,Unmatched,,,,,,,E,Private Renter,Unmatched,,,,,
+523174397,24/07/2016,2487,07/02/2025,Letter,N,N,Resident,N,50,N,Y,N,09/02/2025,D,Owner,Resident,7,625,Y,Y,28/01/2024
+554227368,29/07/2005,59,07/04/2025,Email,N,Y,Resident,N,95,N,N,Y,02/04/2025,A,Owner,Forwarding Address,7,960,Y,Y,16/01/2022
+240296075,17/08/2003,2620,16/11/2024,Email,N,Y,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,
+484550850,19/05/2014,4243,26/02/2020,Letter,N,N,Resident,Y,2,N,N,N,23/08/2020,F,Social Renter,Resident,5,25,Y,Y,14/10/2023
+648598769,27/10/2012,485,01/04/2025,SMS,Y,N,Resident,N,77,N,N,Y,05/03/2025,,Owner,Resident,4,905,Y,Y,28/10/2024
+337157173,25/11/1998,2680,02/11/2024,Phone,N,N,Resident,N,59,N,N,N,05/12/2024,F,Owner,Resident,7,667,Y,N,27/05/2022
+316053565,09/09/2012,3946,29/07/2024,Phone,N,N,Resident,N,23,N,N,Y,21/08/2023,F,Social Renter,Resident,1,547,Y,Y,03/10/2025
+674109991,24/07/2015,82,05/04/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Unmatched,,,,,
+384917666,25/06/1997,92,14/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1,961,Y,Y,03/10/2025
+946590722,01/03/2018,1248,18/12/2024,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,
+572318456,01/06/2003,41,03/04/2025,SMS,Y,N,Resident,N,97,N,Y,Y,02/04/2025,A,Owner,Forwarding Address,6,976,Y,Y,18/01/2023
+563008860,31/03/1998,60,27/03/2025,SMS,Y,N,Resident,N,90,N,Y,N,29/03/2025,B,Owner,Resident,7,974,Y,Y,01/07/2022
+999681890,02/02/2011,74,21/03/2025,SMS,Y,N,Resident,N,93,N,N,N,20/03/2025,B,Private Renter,Resident,8,977,Y,Y,06/02/2022
+628396458,15/03/2009,51,22/03/2025,SMS,Y,N,Unmatched,,,,,,,A,,Resident,6,984,Y,Y,16/09/2021
+985257762,15/08/2017,14,22/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,2,971,Y,Y,24/09/2025
+567252096,02/08/2013,58,13/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,16/03/2025,B,Owner,Resident,8,958,Y,Y,05/09/2021
+172569361,20/10/2013,548,08/03/2025,SMS,Y,N,Resident,N,85,N,Y,N,14/03/2025,E,Owner,Resident,1,849,Y,Y,03/10/2025
+851288038,23/02/2018,3246,01/10/2023,Phone,N,N,Resident,Y,7,N,Y,N,25/08/2023,F,Social Renter,Resident,4,150,Y,Y,11/01/2025
+885394093,18/04/2007,22,06/04/2025,SMS,Y,N,Unmatched,,,,,,,C,Owner,Resident,1,977,Y,Y,03/10/2025
+735725983,11/01/2007,,04/04/2025,Letter,N,N,Resident,N,32,N,Y,Y,06/04/2025,D,Social Renter,Resident,7,285,Y,Y,23/11/2021
+948627719,29/09/2002,95,16/03/2025,SMS,Y,N,Forwarding Address,N,93,N,N,Y,07/04/2025,A,Owner,Deceased,,,Y,Y,
+192330985,03/12/1995,2097,,Email,N,Y,Resident,N,50,N,N,Y,11/10/2024,D,Private Renter,Resident,3,703,Y,Y,01/05/2025
+299441961,06/05/2003,2998,31/12/2024,SMS,Y,N,Unmatched,,,,,,,E,Social Renter,Unmatched,,,,,
+145779345,14/11/2017,1085,18/03/2025,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Unmatched,,,,,
+992477280,06/01/2015,86,16/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,4,960,Y,Y,04/10/2024
+857432579,02/01/2009,,22/03/2025,Email,N,Y,Resident,N,99,N,Y,Y,31/03/2025,F,Owner,Resident,4,184,Y,Y,12/01/2025
+712803721,28/02/2008,3351,05/02/2025,Phone,N,N,Resident,N,15,N,N,Y,12/02/2023,E,Private Renter,Resident,3,415,Y,Y,16/07/2025
+949902886,19/01/2007,,15/03/2025,Email,N,Y,Resident,N,70,N,N,N,19/03/2025,E,Owner,Resident,7,238,Y,Y,22/02/2024
+580326062,12/05/2000,68,22/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,9,960,Y,N,24/04/2021
+164431465,20/05/2016,2719,,Email,N,Y,Resident,N,26,N,N,N,15/09/2024,E,Owner,Forwarding Address,5,559,Y,Y,23/12/2023
+607490562,13/07/2005,4699,15/03/2020,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Resident,7,231,Y,Y,03/04/2024
+234551627,08/11/2001,1874,15/01/2025,SMS,Y,N,Resident,N,74,N,N,Y,22/01/2025,D,Owner,Resident,1,859,N,Y,03/10/2025
+512630341,11/06/2006,67,10/03/2025,Email,N,Y,Deceased,N,0,Y,Y,N,05/04/2025,B,Owner,Deceased,,,Y,Y,
+822776781,04/10/2012,2683,24/01/2025,Letter,N,N,Unmatched,,,,,,,F,Owner,Resident,8,700,Y,Y,20/10/2020
+936946021,06/06/2005,,01/04/2025,Email,N,Y,Resident,N,83,N,Y,Y,17/03/2025,,Social Renter,Resident,1,824,Y,Y,03/10/2025
+826515123,15/09/1997,40,13/03/2025,Email,N,Y,Resident,N,96,N,Y,Y,10/03/2025,A,Owner,Resident,7,967,Y,Y,15/04/2024
+474510176,20/06/2012,1506,25/03/2025,SMS,Y,N,Resident,N,51,N,N,N,07/01/2025,D,Owner,Resident,2,808,Y,Y,27/09/2025
+755165644,26/01/2018,4522,06/04/2023,Letter,N,N,Resident,N,16,N,N,N,19/12/2020,F,Social Renter,Resident,3,253,Y,Y,21/05/2025
+405178005,25/10/2003,97,22/03/2025,Phone,N,N,Resident,N,85,N,Y,Y,30/03/2025,A,Owner,Resident,9,973,Y,Y,14/07/2021
+679627775,13/03/2002,26,15/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,2,960,Y,Y,24/09/2025
+213541390,23/03/2011,65,,SMS,Y,N,Unmatched,,,,,,,,Private Renter,Deceased,,,Y,Y,
+662291367,09/08/2013,2219,,Email,N,Y,Deceased,N,0,Y,N,N,20/12/2024,F,Owner,Deceased,,,Y,N,
+453617881,19/03/2018,86,19/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Unmatched,,,,,
+551731115,16/01/1995,911,12/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,
+745075195,05/06/1997,99,,Email,N,Y,Resident,N,88,N,N,Y,13/03/2025,C,Owner,Resident,7,960,Y,Y,19/11/2020
+987351146,12/02/2013,,23/03/2025,SMS,Y,N,Resident,N,99,N,N,N,17/03/2025,B,Owner,Resident,6,703,Y,Y,14/05/2023
+704133456,27/11/2014,85,21/03/2025,SMS,Y,N,Resident,N,85,N,Y,N,22/03/2025,A,Owner,Resident,3,990,Y,Y,02/08/2025
+631572444,28/06/2012,25,03/04/2025,SMS,Y,N,Unmatched,,,,,,,B,Private Renter,Deceased,,,Y,Y,
+163545540,18/01/2006,77,18/03/2025,SMS,Y,N,Resident,N,94,N,Y,Y,02/04/2025,A,Private Renter,Resident,2,957,Y,Y,27/09/2025
+282730999,08/03/2012,699,10/03/2025,Email,N,Y,Resident,N,80,N,Y,Y,09/03/2025,C,Private Renter,Resident,8,922,Y,Y,06/10/2022
+602776202,08/06/1997,2187,,Phone,N,N,Resident,N,50,N,N,Y,16/10/2024,E,Private Renter,Resident,5,702,Y,Y,23/10/2023
+711723654,12/01/2003,2242,18/03/2025,Letter,N,N,Resident,N,29,N,Y,N,17/11/2024,F,Owner,Resident,2,518,N,Y,18/09/2025
+531647019,15/06/2006,1234,28/12/2024,Letter,N,N,Resident,N,78,N,N,N,12/02/2025,,Owner,Resident,8,846,Y,Y,26/12/2022
+870636019,27/05/2017,,19/03/2025,SMS,Y,N,Resident,N,91,N,N,N,09/04/2025,A,Private Renter,Resident,6,652,Y,Y,19/08/2024
+908454602,17/08/2007,,11/03/2025,Email,N,Y,Unmatched,,,,,,,C,Private Renter,Deceased,,,Y,Y,
+214255294,16/05/2013,1735,22/02/2025,SMS,Y,N,Resident,N,53,N,Y,Y,17/02/2025,F,Private Renter,Resident,7,802,Y,Y,18/05/2021
+551085390,31/12/2017,3560,08/11/2023,Phone,N,N,Resident,N,26,N,Y,N,06/03/2023,E,Private Renter,Resident,3,389,Y,Y,10/03/2025
+199973173,07/03/1996,52,14/03/2025,SMS,Y,N,Resident,N,89,N,N,Y,20/03/2025,,Private Renter,Resident,6,969,Y,Y,01/03/2022
+825313478,14/08/1995,3197,25/10/2024,Email,N,Y,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,
+535208519,09/06/2010,67,05/04/2025,SMS,Y,N,Unmatched,,,,,,,,Owner,Resident,3,981,Y,Y,25/05/2025
+868520330,11/03/2012,121,06/03/2025,SMS,Y,N,Resident,N,83,N,Y,Y,14/03/2025,B,Private Renter,Unmatched,,,,,
+139060917,04/05/1997,15,23/03/2025,Email,N,Y,Forwarding Address,N,99,N,N,N,25/03/2025,E,Owner,Forwarding Address,5,954,Y,Y,14/11/2023
+353840989,10/10/2008,88,11/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,1,979,N,Y,03/10/2025
+272840342,31/03/2000,99,16/03/2025,Phone,N,N,Resident,N,97,N,Y,N,11/03/2025,C,Owner,Resident,8,982,N,Y,08/02/2023
+793208927,03/12/2013,99,15/03/2025,SMS,Y,N,Resident,N,99,N,Y,N,16/03/2025,C,Owner,Resident,4,977,Y,Y,16/03/2025
+535140363,14/04/2013,1863,18/12/2024,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Unmatched,,,,,
+342715494,22/08/2008,2567,01/11/2024,Email,N,Y,Unmatched,,,,,,,F,Owner,Resident,8,563,Y,Y,19/07/2022
+378075233,11/02/2000,41,27/03/2025,SMS,Y,N,Resident,N,98,N,Y,N,06/04/2025,,Private Renter,Resident,9,951,Y,Y,11/06/2022
+736188103,23/03/1997,60,25/03/2025,SMS,Y,N,Resident,N,91,N,Y,Y,05/04/2025,A,Owner,Resident,4,967,Y,Y,16/10/2024
+362559494,23/09/2006,2476,28/10/2024,Phone,N,N,Unmatched,,,,,,,F,,Unmatched,,,,,
+701827595,19/04/2004,3291,28/08/2023,Phone,N,N,Resident,N,28,N,N,N,17/01/2024,F,Social Renter,Resident,8,256,Y,N,16/08/2020
+591920149,05/07/1996,1069,22/03/2025,Phone,N,N,Resident,N,73,N,Y,N,03/12/2024,D,,Resident,6,849,Y,Y,28/06/2024
+993261710,18/02/2005,4777,,Letter,N,N,Deceased,Y,0,Y,N,Y,12/07/2021,E,Social Renter,Deceased,,,Y,Y,
+470220465,15/04/2000,,06/04/2025,Phone,N,N,Resident,N,63,N,N,N,04/04/2025,E,Private Renter,Resident,8,463,Y,Y,22/10/2021
+768599736,06/09/2012,81,19/03/2025,SMS,Y,N,Resident,N,97,N,Y,Y,16/03/2025,B,,Resident,7,987,Y,Y,24/11/2022
+504938749,10/07/2017,912,15/03/2025,Phone,N,N,Resident,N,75,N,Y,N,03/03/2025,D,Owner,Resident,5,876,Y,N,26/12/2023
+389709736,09/10/2014,,01/04/2025,Phone,N,N,Resident,N,21,N,N,N,13/03/2025,,,Resident,3,2,Y,Y,30/08/2025
+966590364,16/12/2010,258,14/02/2025,Phone,N,N,Resident,N,76,N,N,Y,25/03/2025,D,Owner,Resident,6,916,Y,Y,27/09/2023
+383219505,29/06/2008,2305,23/10/2024,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+769674465,30/07/2000,,28/03/2025,SMS,Y,N,Resident,N,38,N,Y,Y,17/03/2025,D,Owner,Resident,7,477,Y,Y,30/04/2023
+419439177,16/05/2018,1609,03/01/2025,Phone,N,N,Resident,N,72,N,N,N,16/02/2025,D,Owner,Forwarding Address,4,792,Y,Y,02/11/2024
+194477727,24/11/1999,96,13/03/2025,SMS,Y,N,Resident,N,99,N,Y,Y,13/03/2025,A,Social Renter,Resident,3,984,Y,Y,05/05/2025
+347766251,12/06/2007,,30/03/2025,SMS,Y,N,Resident,N,22,N,N,Y,16/03/2025,E,Owner,Resident,3,794,N,Y,15/03/2025
+849959851,04/04/2011,21,24/03/2025,SMS,Y,N,Resident,N,88,N,Y,Y,11/03/2025,A,Owner,Resident,8,966,Y,Y,05/09/2020
+993893370,11/04/2015,2042,04/01/2025,Letter,N,N,Deceased,N,0,Y,N,N,30/10/2024,F,Social Renter,Deceased,,,N,N,
+773456945,15/06/1995,78,29/03/2025,SMS,Y,N,Unmatched,,,,,,,B,,Unmatched,,,,,
+138881361,16/07/1995,,22/03/2025,SMS,Y,N,Resident,N,65,N,Y,Y,15/03/2025,D,Social Renter,Resident,1,616,N,Y,03/10/2025
+265641730,17/05/2009,,30/03/2025,Letter,N,N,Resident,N,40,N,Y,Y,03/04/2025,E,Social Renter,Resident,7,725,N,N,08/09/2023
+523984082,06/06/2004,3337,,Phone,N,N,Resident,N,21,N,Y,N,04/12/2023,E,Social Renter,Resident,2,275,Y,Y,28/09/2025
+151247175,10/01/2008,1568,16/03/2025,SMS,Y,N,Resident,N,77,N,Y,Y,14/01/2025,B,Private Renter,Resident,6,852,Y,Y,20/01/2024
+393777044,16/09/2018,52,20/03/2025,SMS,Y,N,Resident,N,95,N,Y,Y,30/03/2025,,Owner,Resident,4,979,Y,Y,17/03/2025
+891959671,25/07/2017,1175,12/01/2025,Email,N,Y,Resident,N,54,N,N,N,12/01/2025,D,Private Renter,Resident,6,778,Y,Y,01/06/2023
+834556486,01/08/2017,339,10/03/2025,Email,N,Y,Resident,N,83,N,Y,Y,20/03/2025,B,Owner,Resident,9,951,Y,Y,02/09/2022
+578045735,15/03/2016,826,19/02/2025,Phone,N,N,Resident,N,77,N,Y,N,04/03/2025,B,Social Renter,Resident,2,935,Y,Y,24/09/2025
+805195699,18/03/2001,52,22/03/2025,SMS,Y,N,Resident,N,90,N,Y,N,11/03/2025,B,Owner,Resident,3,981,Y,Y,02/04/2025
+818075967,04/03/2014,740,24/03/2025,Email,N,Y,Unmatched,,,,,,,C,Social Renter,Unmatched,,,,,
+516137993,05/11/2015,654,26/03/2025,SMS,Y,N,Deceased,N,0,Y,N,N,24/03/2025,B,Owner,Deceased,,,Y,N,
+414113517,15/06/2017,2367,03/01/2025,Email,N,Y,Resident,N,53,N,N,N,28/11/2024,C,Owner,Unmatched,,,,,
+181501813,13/08/2009,1689,30/11/2024,Phone,N,N,Resident,N,70,N,N,N,14/12/2024,D,Private Renter,Resident,6,753,Y,N,10/04/2023
+177460685,28/02/2017,,29/03/2025,SMS,Y,N,Resident,N,54,N,Y,N,04/04/2025,C,Private Renter,Deceased,,,Y,Y,
+660097512,10/03/2014,957,27/02/2025,Email,N,Y,Resident,N,78,N,Y,N,16/02/2025,E,Owner,Resident,7,855,Y,Y,24/12/2022
+425432804,06/11/2000,1172,09/02/2025,SMS,Y,N,Resident,N,56,N,Y,N,22/12/2024,B,Social Renter,Resident,1,766,Y,Y,03/10/2025
+514572087,03/05/2003,2274,16/01/2025,SMS,Y,N,Resident,N,40,N,Y,Y,01/10/2024,A,Owner,Resident,8,516,Y,Y,17/01/2023
+748654834,01/07/1996,2706,,Phone,N,N,Resident,N,56,N,Y,Y,18/10/2024,E,Private Renter,Resident,6,655,Y,N,16/01/2023
+982475200,23/05/2017,64,02/04/2025,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,2,978,Y,Y,01/10/2025
+358421963,30/10/1997,4416,20/01/2024,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Unmatched,,,,,
+167593491,17/05/1999,259,,SMS,Y,N,Resident,N,79,N,N,N,28/02/2025,B,Private Renter,Resident,9,877,Y,Y,30/03/2020
+613637257,28/03/2001,2003,,Phone,N,N,Resident,N,51,N,N,N,07/12/2024,B,Private Renter,Resident,7,660,N,Y,18/10/2022
+397910633,20/02/2016,4606,27/07/2023,Letter,N,N,Resident,Y,6,N,N,N,21/05/2019,F,Social Renter,Resident,3,230,Y,Y,06/04/2025
+331428751,15/08/1998,2210,03/04/2025,Letter,N,N,Resident,N,60,N,N,N,05/10/2024,E,Social Renter,Resident,9,562,N,Y,04/01/2019
+191565897,18/03/2009,31,31/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,13/03/2025,A,Owner,Resident,8,968,Y,Y,28/08/2022
+125554197,25/03/1998,2178,19/02/2025,Email,N,Y,Resident,N,25,N,N,N,05/11/2024,D,Social Renter,Resident,9,545,Y,N,27/08/2021
+880489675,06/12/2009,2296,,Email,N,Y,Resident,N,42,N,Y,N,08/12/2024,E,Private Renter,Resident,1,614,Y,Y,03/10/2025
+745634294,14/05/2001,1072,17/12/2024,Letter,N,N,Unmatched,,,,,,,C,Private Renter,Resident,9,874,Y,Y,14/02/2020
+411366738,01/07/2004,2930,11/01/2025,Email,N,Y,Forwarding Address,N,27,N,N,Y,24/11/2024,B,Social Renter,Resident,1,685,N,Y,03/10/2025
+342589707,03/09/2017,627,24/03/2025,SMS,Y,N,Resident,N,80,N,Y,Y,11/03/2025,D,Owner,Unmatched,,,,,
+665635039,28/01/2010,1189,27/01/2025,Email,N,Y,Resident,N,76,N,Y,N,12/01/2025,F,Owner,Resident,9,772,Y,Y,19/06/2020
+503262349,24/10/2017,376,09/03/2025,Email,N,Y,Resident,N,78,N,N,N,08/03/2025,B,Owner,Resident,1,914,Y,Y,03/10/2025
+635041990,02/01/2010,1621,16/02/2025,Email,N,Y,Resident,N,74,N,N,N,19/01/2025,A,Owner,Unmatched,,,,,
+478858075,03/03/2004,1222,09/02/2025,Phone,N,N,Unmatched,,,,,,,C,Owner,Resident,1,774,Y,Y,03/10/2025
+776547649,10/04/2016,886,12/03/2025,SMS,Y,N,Resident,N,79,N,N,N,23/02/2025,B,Private Renter,Resident,5,875,Y,Y,18/07/2024
+164842727,10/01/2010,5375,03/07/2023,Letter,N,N,Deceased,Y,0,Y,N,N,17/04/2019,E,Social Renter,Deceased,,,Y,Y,
+315926340,26/06/2018,4121,28/09/2022,Letter,N,N,Resident,N,16,N,N,N,15/11/2020,,Private Renter,Resident,8,89,Y,N,10/07/2022
+759664863,01/01/2000,16,17/03/2025,SMS,Y,N,Resident,N,90,N,N,Y,22/03/2025,B,Owner,Resident,9,967,Y,Y,12/08/2021
+669513455,18/06/2017,72,14/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Owner,Resident,8,983,Y,Y,25/02/2020
+224801646,15/05/2012,86,11/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,01/04/2025,C,Owner,Resident,9,976,Y,Y,31/07/2019
+815806262,09/06/2007,16,21/03/2025,SMS,Y,N,Resident,N,86,N,Y,Y,26/03/2025,A,Social Renter,Resident,1,982,Y,Y,03/10/2025
+313386641,04/07/2011,2088,02/12/2024,Phone,N,N,Resident,N,25,N,N,Y,29/08/2024,D,Private Renter,Resident,7,698,Y,Y,31/10/2020
+206410033,03/12/2004,79,09/04/2025,SMS,Y,N,Resident,N,94,N,Y,N,22/03/2025,A,Owner,Forwarding Address,9,963,Y,Y,14/12/2020
+460467984,11/02/1996,4532,,Letter,N,N,Resident,Y,7,N,N,N,09/06/2021,E,Private Renter,Resident,1,50,N,N,03/10/2025
+341825138,26/02/2011,58,02/04/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Deceased,,,Y,Y,
+866157966,27/09/2004,668,22/02/2025,Email,N,Y,Resident,N,83,N,Y,N,24/02/2025,E,Owner,Resident,1,874,Y,Y,03/10/2025
+759768472,13/05/2017,,25/03/2025,Phone,N,N,Resident,N,53,N,Y,Y,03/04/2025,A,Social Renter,Resident,7,438,Y,N,20/06/2024
+929813215,17/02/2011,1950,21/02/2025,Email,N,Y,Forwarding Address,N,73,N,N,N,25/01/2025,F,Private Renter,Resident,2,721,Y,Y,23/09/2025
+138948828,11/06/1995,1467,15/01/2025,SMS,Y,N,Unmatched,,,,,,,D,Owner,Unmatched,,,,,
+630936661,28/12/1997,147,25/03/2025,Phone,N,N,Deceased,N,0,Y,Y,Y,14/02/2025,D,Private Renter,Deceased,,,Y,Y,
+801771202,17/12/2012,2406,17/11/2024,Phone,N,N,Resident,N,56,N,N,N,06/11/2024,E,Owner,Resident,4,643,Y,Y,01/04/2025
+741099377,02/08/2014,315,12/03/2025,SMS,Y,N,Forwarding Address,N,88,N,N,Y,04/03/2025,A,Private Renter,Forwarding Address,9,914,Y,Y,27/02/2019
+853936434,12/03/1996,3134,16/07/2023,SMS,Y,N,Resident,N,28,N,N,N,10/02/2024,F,Social Renter,Unmatched,,,,,
+101683595,27/05/2018,1680,02/03/2025,Letter,N,N,Resident,N,65,N,N,N,01/01/2025,E,Private Renter,Resident,1,881,Y,Y,03/10/2025
+546563286,19/02/2007,1063,12/12/2024,Email,N,Y,Resident,N,75,N,Y,Y,09/02/2025,D,Social Renter,Forwarding Address,1,883,Y,Y,03/10/2025
+687856277,11/06/2000,5024,01/03/2019,Letter,N,N,Unmatched,,,,,,,C,Social Renter,Deceased,,,Y,Y,
+538284082,06/07/2017,59,07/04/2025,SMS,Y,N,Unmatched,,,,,,,C,,Unmatched,,,,,
+185251959,24/08/2014,1817,19/12/2024,Email,N,Y,Resident,N,58,N,N,N,19/02/2025,B,Owner,Resident,9,730,Y,Y,12/05/2021
+689095719,31/05/2013,553,09/03/2025,Email,N,Y,Resident,N,81,N,Y,N,04/03/2025,B,Owner,Resident,9,842,Y,N,25/09/2019
+639032183,17/06/2002,35,,Email,N,Y,Resident,N,90,N,Y,Y,20/03/2025,A,Owner,Resident,3,981,Y,Y,08/08/2025
+496221450,08/08/2018,933,17/03/2025,SMS,Y,N,Resident,N,93,N,Y,N,07/03/2025,C,Social Renter,Resident,1,896,N,Y,03/10/2025
+274718119,07/03/2017,,30/03/2025,Email,N,Y,Resident,N,51,N,N,N,24/03/2025,E,Private Renter,Resident,4,465,Y,Y,14/01/2025
+895386312,14/03/2000,1946,,SMS,Y,N,Resident,N,79,N,Y,Y,25/01/2025,A,Owner,Resident,3,808,Y,Y,05/07/2025
+492344987,16/07/2018,644,09/03/2025,SMS,Y,N,Resident,N,94,N,N,Y,23/02/2025,B,Owner,Resident,9,942,Y,Y,02/02/2019
+471373804,11/05/2016,33,21/03/2025,SMS,Y,N,Deceased,N,0,Y,Y,Y,19/03/2025,B,Owner,Deceased,,,Y,Y,
+772956704,06/04/2012,2121,02/09/2024,Email,N,Y,Deceased,N,0,Y,N,N,07/02/2025,E,Private Renter,Resident,8,610,Y,Y,17/09/2019
+825922744,05/01/2012,4,23/03/2025,Phone,N,N,Resident,N,92,N,Y,N,18/03/2025,A,Social Renter,Resident,6,969,Y,Y,15/02/2024
+364110544,12/02/2018,71,07/04/2025,Email,N,Y,Resident,N,97,N,Y,Y,05/04/2025,B,Owner,Resident,6,950,N,Y,12/02/2023
+145701644,26/05/2013,6,,SMS,Y,N,Unmatched,,,,,,,B,Social Renter,Unmatched,,,,,
+796726334,11/07/2007,1761,10/12/2024,Email,N,Y,Resident,N,69,N,N,N,23/12/2024,C,Owner,Resident,9,739,N,Y,01/04/2019
+401047732,06/07/2001,739,02/04/2025,SMS,Y,N,Resident,N,81,N,Y,N,13/03/2025,,Owner,Deceased,,,Y,Y,
+419963879,14/01/2000,1352,13/03/2025,Phone,N,N,Resident,N,75,N,Y,Y,24/02/2025,A,Social Renter,Resident,6,861,Y,Y,03/05/2022
+537404147,28/01/2000,612,02/03/2025,Email,N,Y,Resident,N,93,N,Y,Y,16/03/2025,D,,Resident,9,864,Y,Y,30/08/2022
+273061244,21/07/2014,,09/04/2025,Letter,N,N,Unmatched,,,,,,,A,Owner,Resident,6,146,N,Y,21/02/2022
+767094752,26/10/2005,557,22/02/2025,SMS,Y,N,Resident,N,77,N,Y,N,08/04/2025,A,Owner,Forwarding Address,7,862,Y,Y,28/11/2021
+671027527,27/04/1999,,22/03/2025,SMS,Y,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,
+396268156,09/08/2018,878,25/02/2025,SMS,Y,N,Resident,N,83,N,Y,Y,19/03/2025,A,Owner,Resident,4,914,Y,N,20/12/2024
+901068950,27/06/2012,2559,26/11/2024,Letter,N,N,Resident,N,41,N,N,Y,06/11/2024,E,Social Renter,Resident,4,587,Y,Y,19/02/2025
+907565926,15/02/2018,431,25/02/2025,SMS,Y,N,Resident,N,92,N,N,N,21/02/2025,D,Social Renter,Resident,5,925,Y,Y,10/09/2023
+575263370,24/02/2003,2376,07/09/2024,Phone,N,N,Deceased,N,0,Y,Y,N,25/09/2024,F,,Deceased,,,Y,Y,
+503458732,26/11/2012,760,,SMS,Y,N,Resident,N,95,N,N,Y,12/03/2025,A,Social Renter,Resident,1,936,Y,Y,03/10/2025
+151791916,29/08/2008,75,06/04/2025,SMS,Y,N,Resident,N,95,N,Y,Y,24/03/2025,B,Owner,Unmatched,,,,,
+924449508,23/02/1995,2,03/04/2025,SMS,Y,N,Resident,N,91,N,N,Y,31/03/2025,A,Owner,Resident,5,969,Y,Y,16/09/2023
+189977269,27/02/2005,18,19/03/2025,SMS,Y,N,Resident,N,95,N,Y,Y,04/04/2025,A,Owner,Resident,5,973,Y,Y,01/02/2024
+664829574,02/01/2011,499,22/03/2025,Email,N,Y,Resident,N,84,N,N,Y,25/02/2025,D,Owner,Resident,1,870,Y,Y,03/10/2025
+997890406,18/03/2007,1980,05/02/2025,Phone,N,N,Resident,N,72,N,N,N,08/02/2025,,Owner,Resident,9,819,N,Y,06/09/2020
+805911389,20/09/1999,1591,11/02/2025,SMS,Y,N,Resident,N,72,N,N,N,22/11/2024,D,Social Renter,Unmatched,,,,,
+581440490,23/02/2012,24,03/04/2025,Email,N,Y,Resident,N,98,N,Y,Y,04/04/2025,B,Private Renter,Resident,8,982,Y,Y,07/03/2021
+386888806,06/02/1999,2071,28/12/2024,SMS,Y,N,Forwarding Address,N,36,N,Y,Y,20/01/2025,C,Social Renter,Forwarding Address,8,659,Y,Y,16/08/2021
+738587567,28/06/2004,54,24/03/2025,SMS,Y,N,Resident,N,85,N,Y,Y,30/03/2025,,Owner,Resident,7,960,Y,Y,18/11/2022
+716008206,13/07/2010,89,,SMS,Y,N,Resident,N,85,N,N,Y,05/04/2025,C,Private Renter,Resident,9,953,Y,Y,05/04/2021
+223549300,30/07/2002,2274,06/03/2025,Email,N,Y,Resident,N,34,N,Y,Y,05/09/2024,E,Private Renter,Forwarding Address,2,509,Y,Y,01/10/2025
+568496921,22/11/2004,2498,05/03/2025,Phone,N,N,Resident,N,48,N,N,N,22/09/2024,F,Private Renter,Resident,1,547,Y,N,03/10/2025
+485074733,21/01/2000,1962,07/02/2025,Email,N,Y,Unmatched,,,,,,,D,Private Renter,Resident,1,763,Y,Y,03/10/2025
+527493268,04/07/1995,,28/03/2025,Phone,N,N,Resident,N,90,N,N,N,17/03/2025,B,Private Renter,Resident,7,284,Y,Y,11/04/2022
+316996351,24/09/2014,673,28/03/2025,Phone,N,N,Unmatched,,,,,,,B,Owner,Unmatched,,,,,
+548640729,06/11/1998,5256,24/08/2020,Letter,N,N,Resident,Y,7,N,Y,N,11/10/2020,E,Social Renter,Resident,7,270,Y,Y,04/10/2020
+278838940,28/09/2006,2832,27/02/2025,Email,N,Y,Resident,N,54,N,N,N,20/01/2025,E,Social Renter,Resident,1,707,Y,Y,03/10/2025
+379590791,30/04/1996,81,01/04/2025,SMS,Y,N,Resident,N,93,N,Y,Y,06/04/2025,A,Owner,Resident,5,980,Y,Y,31/12/2023
+191861971,03/06/2001,2721,11/10/2024,Phone,N,N,Resident,N,29,N,N,Y,27/10/2024,F,Social Renter,Resident,4,659,N,Y,18/01/2025
+176306725,23/10/2015,40,14/03/2025,SMS,Y,N,Resident,N,87,N,Y,Y,30/03/2025,B,Owner,Forwarding Address,3,959,Y,Y,30/05/2025
+876280536,04/05/2012,4291,05/08/2024,Letter,N,N,Resident,Y,3,N,N,N,24/08/2020,,Private Renter,Resident,8,172,Y,Y,22/09/2020
+872610100,23/09/2015,1553,08/01/2025,Email,N,Y,Resident,N,79,N,Y,Y,29/12/2024,D,Owner,Resident,7,759,Y,Y,02/12/2022
+148562116,08/06/2007,75,05/04/2025,Email,N,Y,Resident,N,93,N,Y,Y,10/03/2025,A,Owner,Unmatched,,,,,
+624034719,03/08/1998,64,10/03/2025,SMS,Y,N,Resident,N,94,N,Y,Y,06/04/2025,E,Owner,Resident,6,963,Y,Y,22/10/2022
+363054422,20/07/2004,876,26/02/2025,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Unmatched,,,,,
+770015126,03/11/2006,1686,23/12/2024,SMS,Y,N,Unmatched,,,,,,,D,Social Renter,Resident,3,721,N,Y,26/03/2025
+132265457,23/11/1995,29,30/03/2025,SMS,Y,N,Forwarding Address,N,99,N,N,Y,23/03/2025,B,Owner,Deceased,,,Y,Y,
+117937699,03/07/2001,1637,25/02/2025,Email,N,Y,Deceased,N,0,Y,N,N,20/12/2024,D,Owner,Deceased,,,Y,N,
+621254651,04/02/2010,71,29/03/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Resident,2,986,Y,Y,28/09/2025
+221784606,01/11/2008,,31/03/2025,Email,N,Y,Resident,Y,56,N,N,Y,12/03/2025,D,Private Renter,Resident,6,58,Y,Y,29/10/2021
+468138007,01/06/2013,1646,,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,2,753,Y,Y,25/09/2025
+450146318,15/06/2011,20,,SMS,Y,N,Resident,N,92,N,Y,Y,12/03/2025,A,Owner,Resident,2,965,Y,Y,24/09/2025
+177444760,16/02/2008,1801,19/02/2025,Email,N,Y,Resident,N,79,N,N,N,27/02/2025,,Owner,Unmatched,,,,,
+683376374,04/07/2015,2193,02/10/2024,Phone,N,N,Resident,N,46,N,N,Y,31/08/2024,C,Social Renter,Resident,2,709,Y,Y,02/10/2025
+701453953,06/08/2009,97,18/03/2025,SMS,Y,N,Forwarding Address,N,96,N,Y,Y,16/03/2025,A,Owner,Forwarding Address,6,969,Y,Y,31/10/2022
+614936958,18/11/2012,1661,14/12/2024,Email,N,Y,Resident,N,51,N,Y,Y,06/12/2024,C,Owner,Unmatched,,,,,
+941961859,18/10/2006,845,19/02/2025,SMS,Y,N,Unmatched,,,,,,,D,Private Renter,Deceased,,,Y,Y,
+685813863,27/06/1999,1671,24/02/2025,Letter,N,N,Resident,N,80,N,Y,N,23/12/2024,F,Owner,Resident,8,880,Y,N,07/07/2023
+137630203,08/03/1998,,10/03/2025,SMS,Y,N,Unmatched,,,,,,,C,Social Renter,Resident,3,437,Y,Y,14/07/2025
+913081390,26/03/2005,,,SMS,Y,N,Resident,N,18,N,N,Y,26/03/2025,C,Private Renter,Resident,7,1,Y,Y,18/11/2020
+533018755,02/04/1996,2318,26/11/2024,Email,N,Y,Resident,N,45,N,N,Y,09/02/2025,E,Social Renter,Resident,8,687,Y,Y,18/04/2020
+556184177,07/05/2015,2000,19/02/2025,Email,N,Y,Resident,N,69,N,Y,Y,10/12/2024,E,Social Renter,Unmatched,,,,,
+858828192,30/01/2018,4327,05/01/2025,Letter,N,N,Resident,Y,6,N,N,N,28/09/2019,F,Private Renter,Resident,2,192,Y,Y,23/09/2025
+711549902,15/04/2013,68,12/03/2025,SMS,Y,N,Unmatched,,,,,,,A,Private Renter,Resident,3,958,Y,Y,15/05/2025
+302855087,03/10/2006,,31/03/2025,Email,N,Y,Forwarding Address,N,55,N,N,Y,03/04/2025,A,Social Renter,Forwarding Address,7,836,Y,Y,21/05/2022
+576733251,01/08/2008,2483,04/12/2024,Email,N,Y,Resident,N,34,N,N,Y,30/10/2024,E,Owner,Resident,3,633,Y,N,22/07/2025
+895654089,01/11/2015,77,03/04/2025,SMS,Y,N,Forwarding Address,N,93,N,N,N,22/03/2025,B,Private Renter,Deceased,,,Y,Y,
+334563927,12/04/1995,12,17/03/2025,SMS,Y,N,Deceased,N,0,Y,N,N,08/04/2025,B,Owner,Deceased,,,Y,Y,
+747965903,04/07/2011,12,26/03/2025,SMS,Y,N,Resident,N,90,N,Y,Y,07/04/2025,,Private Renter,Resident,6,956,Y,Y,21/02/2022
+187995843,02/01/2004,1603,19/11/2024,Email,N,Y,Resident,N,52,N,N,Y,04/02/2025,D,Owner,Resident,8,794,N,Y,09/09/2019
+418159485,04/10/2011,3069,29/12/2024,SMS,Y,N,Resident,Y,0,N,N,N,08/03/2023,,Owner,Resident,5,260,Y,Y,23/03/2024
+463507941,21/06/2014,2001,08/12/2024,Phone,N,N,Unmatched,,,,,,,F,Owner,Unmatched,,,,,
+928253117,17/07/1996,2460,12/10/2024,Phone,N,N,Deceased,N,0,Y,N,Y,21/02/2025,F,Private Renter,Deceased,,,Y,Y,
+169637283,18/03/2009,1055,27/03/2025,Phone,N,N,Resident,N,52,N,N,Y,20/02/2025,C,Social Renter,Resident,8,790,Y,N,18/12/2022
+822919916,13/03/2000,1339,25/03/2025,Phone,N,N,Resident,N,62,N,N,N,08/01/2025,B,Social Renter,Unmatched,,,,,
+433003842,03/08/2018,30,01/04/2025,SMS,Y,N,Resident,N,89,N,Y,Y,10/03/2025,A,Private Renter,Resident,6,988,N,Y,22/01/2023
+222035324,16/05/1997,542,10/03/2025,SMS,Y,N,Resident,N,84,N,Y,Y,26/02/2025,C,Private Renter,Deceased,,,Y,Y,
+169923096,17/05/2011,93,05/04/2025,SMS,Y,N,Unmatched,,,,,,,B,Owner,Deceased,,,Y,Y,
+114286918,04/06/2018,2713,21/08/2024,SMS,Y,N,Resident,N,29,N,N,Y,01/02/2025,E,Owner,Resident,2,533,Y,Y,28/09/2025
+169592786,29/12/2017,1313,09/12/2024,SMS,Y,N,Resident,N,59,N,Y,N,30/11/2024,D,Owner,Resident,7,792,Y,Y,20/02/2022
+214257871,12/01/2015,88,04/04/2025,Email,N,Y,Deceased,N,0,Y,Y,Y,15/03/2025,A,Social Renter,Deceased,,,Y,Y,
+118925492,03/07/2008,71,26/03/2025,SMS,Y,N,Resident,N,94,N,N,Y,27/03/2025,A,,Resident,3,952,Y,Y,22/03/2025
+427139427,28/12/2014,4698,21/04/2023,Letter,N,N,Unmatched,,,,,,,F,Social Renter,Forwarding Address,9,0,Y,Y,22/09/2021

@@ -1,0 +1,62 @@
+﻿Characteristic Name,Data Source,Comments
+UID,client,"unique ID
+"
+Account Open Date,,"Date the account was opened
+Indicates the age of the account
+"
+Arrears Balance,,"Total current debt on the account
+"
+Last Payment Date,,"Date of last payment
+"
+Last Collections Action,,"The lastest action taken against the account
+Letter, SMS, email or phone call
+"
+dp1 Result Code,"Data Partner 1
+Credit Reference Agency","Resident at the supplied address
+Forwarding Address found - individual has moved to a new address
+Unmatched - individual could not be traced to the supplied address
+Deceased - individual has a deceased flag set
+"
+dp1 IVA/CCJ Flag,,"Independent Voluntary Arrangement or Count Court Judgement registered against the individual
+Indicates a severe debt issue
+"
+dp1 Score,,"Inidividuals credit score
+Indicates the propability that the individual will maintain their credit commitments
+Higher indicates a higher probability
+"
+dp1 Deceased Flag,,"Deceased flag set for the individual
+"
+dp1 Mobile Flag,,"Mobile number available for the individual
+"
+dp1 Email Flag,,"Email available for the individual
+"
+dp1 Latest Residency Confirmation Date,,"The latest date that credit activity was recorded for an individual at the supplied address
+"
+dp2 Council Tax Band,"Data Partner 2
+Property Data Specialist","A - lowest
+F - highest
+Indicates value of property
+"
+dp2 Occupancy Style,,"Owner
+Private Renter
+Social Renter
+"
+dp3 Match Type,"Data Partner 2
+Credit Reference Agency","Resident at the supplied address
+Forwarding Address found - individual has moved to a new address
+Unmatched - individual could not be traced to the supplied address
+Deceased - individual has a deceased flag set
+"
+dp3 Match Level,,"1-9
+1 being the highest match type
+"
+dp3 Score,,"Inidividuals credit score
+Indicates the propability that the individual will maintain their credit commitments
+Higher indicates a higher probability
+"
+dp3 Mobile Flag,,"Mobile number available for the individual
+"
+dp3 Email Flag,,"Email available for the individual
+"
+dp3 Latest Residency Confirmation Date,,"The latest date that credit activity was recorded for an individual at the supplied address
+"
